@@ -1,0 +1,123 @@
+div {
+	border-radius: 5px;
+}
+
+#bg {
+  position: fixed; 
+  top: -50%; 
+  left: -50%; 
+  width: 200%; 
+  height: 200%;
+}
+
+#bg img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+}
+
+#header {
+	position: relative;
+	width: relative;
+	margin-top: 10px;
+	height: 80px;
+	background-color: silver;
+}
+
+#title {
+	float: left;
+	margin-left: 25px;
+	font-family: Arial;
+	color: white;
+}
+
+.menu {
+	position: relative;
+	float: left;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 15%;
+	height: 600px;
+	background-color: silver;
+	font-family: Arial
+}
+
+.menu h3, h4 {
+	color: white;
+	text-align: center;
+}
+
+a:link {
+	text-decoration: none;
+	color: purple;
+}
+a:hover {
+	font-weight: bold;
+	color: lime;
+}
+a:visited {
+	color: navy;
+}
+
+#goto li:first-child {
+	font-family: fantasy;
+}
+#goto li:nth-child(3) {
+	font-family: cursive;
+}
+
+.content h3 {
+	margin-left: 30px;
+	margin-bottom: 20px;
+	color: white;
+}
+
+.content p {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+#footer {
+	position: relative;
+	margin-bottom: -10px;
+	height: 30px;
+	background-color: silver;
+	clear: both;
+	text-align: center;
+	font-family: Arial;
+	color: white
+}
+
+#footer p {
+	position: relative;
+	padding-top: 7px;
+}
+
+img {
+	width: 250px;
+	height: 250px;
+}
+
+figure {
+	display: inline-block;
+	margin-left: 30px;
+	margin-top: 1px;
+	width: 270px;
+	height: 250px;
+}
+
+.content {
+	position: relative;
+	float: right;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 82%;
+	height: 600px;
+	background-color: silver;
+	font-family: Arial;
+}
