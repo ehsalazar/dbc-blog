@@ -1,7 +1,4 @@
-div {
-	border-radius: 5px;
-}
-
+/* background styling */
 #bg {
   position: fixed; 
   top: -50%; 
@@ -9,7 +6,6 @@ div {
   width: 200%; 
   height: 200%;
 }
-
 #bg img {
   position: absolute; 
   top: 0; 
@@ -21,21 +17,28 @@ div {
   min-height: 50%;
 }
 
+/* gerneral div styling */
+div {
+	border-radius: 5px;
+	background-color: gray;
+	font-family: Arial, sans-serif;
+}
+
+/* header styling */
 #header {
 	position: relative;
 	width: relative;
 	margin-top: 10px;
 	height: 80px;
-	background-color: silver;
 }
-
 #title {
 	float: left;
 	margin-left: 25px;
-	font-family: Arial;
-	color: white;
+	color: lime;
+	text-transform: uppercase;
 }
 
+/* menu styling */
 .menu {
 	position: relative;
 	float: left;
@@ -44,73 +47,34 @@ div {
 	width: 15%;
 	height: 600px;
 	background-color: silver;
-	font-family: Arial
 }
-
 .menu h3, h4 {
-	color: white;
+	color: navy;
 	text-align: center;
+	text-transform: uppercase;
 }
-
 a:link {
 	text-decoration: none;
-	color: purple;
+	color: white;
 }
 a:hover {
 	font-weight: bold;
+	text-transform: uppercase;
 	color: lime;
 }
 a:visited {
-	color: navy;
+	color: blue;
 }
 
+/* psuedo code styling 
 #goto li:first-child {
 	font-family: fantasy;
 }
 #goto li:nth-child(3) {
 	font-family: cursive;
-}
+} */
 
-.content h3 {
-	margin-left: 30px;
-	margin-bottom: 20px;
-	color: white;
-}
-
-.content p {
-	margin-left: 30px;
-	margin-right: 30px;
-}
-
-#footer {
-	position: relative;
-	margin-bottom: -10px;
-	height: 30px;
-	background-color: silver;
-	clear: both;
-	text-align: center;
-	font-family: Arial;
-	color: white
-}
-
-#footer p {
-	position: relative;
-	padding-top: 7px;
-}
-
-img {
-	width: 250px;
-	height: 250px;
-}
-
-figure {
-	display: inline-block;
-	margin-left: 30px;
-	margin-top: 1px;
-	width: 270px;
-	height: 250px;
-}
-
+/* main content styling */
 .content {
 	position: relative;
 	float: right;
@@ -119,5 +83,40 @@ figure {
 	width: 82%;
 	height: 600px;
 	background-color: silver;
-	font-family: Arial;
+}
+.content h3 {
+	margin-left: 30px;
+	margin-bottom: 20px;
+	color: navy;
+	text-transform: uppercase;
+}
+.content p {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+img {
+	width: 250px;
+	height: 250px;
+}
+figure {
+	display: inline-block;
+	margin-left: 30px;
+	margin-top: 1px;
+	width: 270px;
+	height: 250px;
+}
+
+/* footer styling */
+#footer {
+	position: relative;
+	margin-bottom: -10px;
+	height: 30px;
+	clear: both;
+	text-align: center;
+	color: lime;
+	text-transform: uppercase;
+}
+#footer p {
+	position: relative;
+	padding-top: 7px;
 }

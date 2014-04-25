@@ -20,8 +20,8 @@
 /* general div styling */
 div {
 	border-radius: 5px;
-	background-color: silver;
-	font-family: Arial;
+	background-color: gray;
+	font-family: Arial, sans-serif;
 }
 
 /* header styling */
@@ -34,7 +34,8 @@ div {
 #title {
 	float: left;
 	margin-left: 25px;
-	color: white;
+	color: lime;
+	text-transform: uppercase;
 }
 
 /* menu styling */
@@ -45,29 +46,33 @@ div {
 	margin-bottom: 30px;
 	width: 15%;
 	height: 600px;
+	background-color: silver;
 }
 .menu h3, h4 {
-	color: white;
+	color: navy;
 	text-align: center;
+	text-transform: uppercase;
 }
 a:link {
 	text-decoration: none;
-	color: purple;
+	color: white;
 }
 a:hover {
 	font-weight: bold;
+	text-transform: uppercase;
 	color: lime;
 }
 a:visited {
-	color: navy;
+	color: blue;
 }
+/* psuedo code styling 
 /*#goto li:first-child {
 	font-family: fantasy;
 }
 #goto li:nth-child(3) {
 	font-family: cursive;
-}
-*/
+} */
+
 /* main content styling */
 .content {
 	position: relative;
@@ -76,11 +81,13 @@ a:visited {
 	margin-bottom: 30px;
 	width: 82%;
 	height: 600px;
+	background-color: silver;
 }
 .content h3 {
 	margin-left: 30px;
 	margin-bottom: 20px;
-	color: white;
+	color: navy;
+	/* text-transform: uppercase; */
 }
 .content p {
 	margin-left: 30px;
@@ -90,7 +97,7 @@ a:visited {
 iframe {
 	width: 853px;
 	height: 480px;
-	margin-left: 80px;
+	margin-left: 90px;
 }
 
 /* footer styling */
@@ -100,7 +107,8 @@ iframe {
 	height: 30px;
 	clear: both;
 	text-align: center;
-	color: white
+	color: lime;
+	text-transform: uppercase;
 }
 #footer p {
 	position: relative;
