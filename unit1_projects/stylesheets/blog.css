@@ -1,0 +1,120 @@
+/* background wallpaper */
+#bg {
+  position: fixed; 
+  top: -50%; 
+  left: -50%; 
+  width: 200%; 
+  height: 200%;
+}
+#bg img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+}
+
+/* general div styling */
+div {
+	border-radius: 5px;
+	background-color: gray;
+	font-family: Arial, sans-serif;
+}
+
+/* header styling */
+#header {
+	position: relative;
+	width: relative;
+	margin-top: 10px;
+	height: 80px;
+}
+#title {
+	float: left;
+	margin-left: 25px;
+	color: lime;
+	text-transform: uppercase;
+}
+
+/* menu styling */
+.menu {
+	position: relative;
+	float: left;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 15%;
+	height: 600px;
+	background-color: silver;
+}
+.menu h3, h4 {
+	color: navy;
+	text-align: center;
+	text-transform: uppercase;
+}
+a:link {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+a:visited {
+	color: lime;
+}
+/* psuedo code styling 
+/*#goto li:first-child {
+	font-family: fantasy;
+}
+#goto li:nth-child(3) {
+	font-family: cursive;
+} */
+
+/* main content styling */
+.content {
+	position: relative;
+	float: right;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 82%;
+	height: 600px;
+	background-color: silver;
+}
+.content h3 {
+	margin-left: 30px;
+	margin-bottom: 20px;
+	color: navy;
+	/* text-transform: uppercase; */
+}
+.content p {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+/* iframe {
+	width: 853px;
+	height: 480px;
+	margin-left: 90px;
+} */
+
+/* footer styling */
+#footer {
+	position: relative;
+	margin-bottom: -10px;
+	height: 30px;
+	clear: both;
+	text-align: center;
+	color: lime;
+	text-transform: uppercase;
+}
+#footer p {
+	position: relative;
+	padding-top: 7px;
+}
+
+/* misc styling */
+img {
+	width: 250px;
+	height: 250px;
+}
