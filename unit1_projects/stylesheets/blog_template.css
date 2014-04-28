@@ -45,7 +45,7 @@ div {
 	margin-top: 30px;
 	margin-bottom: 30px;
 	width: 15%;
-	height: 600px;
+	min-height: 100px;
 	background-color: silver;
 }
 .menu h3, h4 {
@@ -79,7 +79,7 @@ a:visited {
 	margin-top: 30px;
 	margin-bottom: 30px;
 	width: 82%;
-	height: 600px;
+	min-height: 100px;
 	background-color: silver;
 }
 .content h3 {
@@ -97,6 +97,7 @@ iframe {
 	width: 853px;
 	height: 480px;
 	margin-left: 90px;
+	margin-bottom: 60px;
 }
 
 /* footer styling */
