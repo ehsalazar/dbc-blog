@@ -62,7 +62,7 @@ a:hover {
 	text-transform: uppercase;
 }
 a:visited {
-	color: lime;
+	color: black;
 }
 /* psuedo code styling 
 /*#goto li:first-child {
@@ -91,12 +91,6 @@ a:visited {
 .content p {
 	margin: 30px;
 }
-/* iframe {
-	width: 853px;
-	height: 480px;
-	margin-left: 90px;
-	margin-bottom: 60px;
-} */
 
 /* footer styling */
 #footer {
