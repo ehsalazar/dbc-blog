@@ -1,0 +1,89 @@
+/* include your css here */
+.wrapper {
+  width: 80%;
+  margin: auto;
+  background-color: silver;
+}
+header {
+  background-color: gray;
+}
+h1,h2,h3,h4,h5{
+  font-family: 'Ubuntu', sans-serif;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+h3 {
+  color: green;
+  font-size: 26px;
+  text-align: center;
+}
+h4 {
+  color: olive;
+  text-align: center;
+}
+p {
+  font-size: 18px;
+  font-family: 'Arvo', serif;
+
+}
+nav ul {
+  list-style: none;
+}
+nav {
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+img {
+  float: right;
+  margin-left: 15px;
+}
+a {
+  text-decoration: none;
+  color: navy;
+}
+a:visited{
+  color:red;
+}
+a:hover{
+  text-decoration: underline;
+}
+section {
+  padding: 10px;
+  float: left;
+  width: 70%;
+}
+footer{
+  clear: both;
+  text-align: center;
+  font-size: 12px;
+  padding: 5px;
+}
+@media (max-width: 999px){
+  img{width: 100%;}
+}
+@media (max-width: 500px) {
+  img{
+    padding-bottom: 10px;
+  }
+  nav {
+    width: 100%;
+  }
+  section {
+    width: 100%;
+    overflow: hidden;
+    width: 90%;
+    margin: auto;
+  }
+  p {
+    margin: auto;
+  }
+  #subtitle {
+    padding: 5px;
+  }
+  h3 {
+    font-size: 22px;
+  }
+}
