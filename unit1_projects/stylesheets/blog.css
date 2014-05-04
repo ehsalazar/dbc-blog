@@ -1,10 +1,8 @@
 /* general syling */
 body {
 	background-color: #F7F7F0;
-	font-family: "Quicksand", Arial, sans-serif;
+	font-family: "Raleway", Arial, sans-serif;
 	line-height: 1.2em;
-	font-weight: 600;
-	font-size: 16px;
 	margin: 0px auto;
 	width: 100%;
 	position: relative;
@@ -27,6 +25,7 @@ header {
 #title {
 	color: #F7F7F0;
 	text-transform: uppercase;
+	font-weight: 600;
 	margin-left: 2em;
 	margin-top: 1.3em;
 	font-size: 2.5em;
@@ -50,6 +49,7 @@ nav li a{
   	display: inline-block;
 	padding: 1em;
 	font-size: 1.2em;
+	font-weight: 600;
 	text-transform: uppercase;
 }
 .blog-menu {
@@ -63,6 +63,7 @@ nav li a{
 }
 .blog-menu h4 {
 	color: #20232B;
+	font-weight: 600;
 	text-align: center;
 	text-transform: uppercase;
 	margin: 1.5em;
@@ -94,12 +95,12 @@ section {
 }
 section h3 {
 	margin: 1.5em;
+	font-weight: 600;
 	color: #20232B;
 	text-transform: uppercase;
 }
 section p {
 	margin: 1.5em;
-	font-weight: 400;
 }
 
 /* footer styling */
@@ -114,6 +115,7 @@ footer {
 }
 footer p {
 	position: relative;
+	font-weight: 600;
 	padding-top: 7px;
 	margin-left: 1em;
 }
