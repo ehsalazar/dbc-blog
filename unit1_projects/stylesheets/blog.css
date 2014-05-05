@@ -118,7 +118,7 @@ footer {
 	background: url(https://github.com/ehsalazar/ehsalazar.github.io/blob/master/unit1_projects/images/graffiti_banner.JPG?raw=true) 50% 25%;
 }
 footer p {
-	position: relative;
+	text-align: center;
 	font-weight: 600;
 	padding-top: 7px;
 	margin-left: 1em;
