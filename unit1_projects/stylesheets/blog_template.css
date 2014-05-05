@@ -79,9 +79,8 @@ a {
 	color: #404754;
 }
 a:hover {
-	font-weight: bold;
-	text-transform: uppercase;
 	color: #EB7C0E;
+	font-weight: 600;
 }
 
 
