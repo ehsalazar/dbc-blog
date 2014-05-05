@@ -150,12 +150,15 @@ footer p {
   	line-height: 40px;
   	padding: 20px;
   }
-  header {
-  	text-align: center;
-  }
   nav li a {
   	padding: 0 0.5em;
   	font-size: 1em;
+  }
+  .blog-menu {
+  	width: 20%
+  }
+  section {
+  	width: 77%;
   }
 }
 /** Mobile view **/
@@ -185,5 +188,8 @@ footer p {
     margin: 5px auto;
     padding: 2%;
     width: 90%;
+  }
+  .blog-menu h4 {
+  	margin: 0.5em;
   }
 }
