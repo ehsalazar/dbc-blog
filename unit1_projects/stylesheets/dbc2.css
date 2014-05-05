@@ -144,24 +144,22 @@ footer p {
   	line-height: 40px;
   	padding: 20px;
   }
-  header {
-  	text-align: center;
-  }
-  footer {
-  	text-align: center;
-  }
   nav li a {
   	padding: 0 0.5em;
   	font-size: 1em;
   }
+  .blog-menu {
+  	width: 20%
+  }
+  section {
+  	width: 77%;
+  }
 }
-
 /** Mobile view **/
-@media screen and (max-width: 480px){
+@media screen and (max-width: 600px){
   #title {
   	font-size: 1.1em;
     line-height: 40px;
-    padding: 10px;
   }
   header {
   	text-align: center;
@@ -184,8 +182,8 @@ footer p {
     margin: 5px auto;
     padding: 2%;
     width: 90%;
-    text-align: center;
   }
-  footer {
-  	text-align: center;
+  .blog-menu h4 {
+  	margin: 0.5em;
   }
+}
