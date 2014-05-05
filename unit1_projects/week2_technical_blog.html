@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="stylesheets/reset.css"/>
+		<!--<link href='http://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet' type='text/css'>-->
+		<link href='http://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="stylesheets/blog.css"/>
+		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+		<title>Inline & Inline-block</title>
+	</head>
+	<body>
+		<div class="wrapper">
+			<header>
+				<h1 id="title">Code to Learn | <span style="font-weight:400">Blog</span></h1>
+			</header> <!-- Close header -->
+			<nav class="main-menu">
+				<ul>
+					<li><a href="http://ehsalazar.github.io"><i class="fa fa-home"></i><span> Home</span></a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/dbc2.html"><i class="fa fa-info"></i><span> About Me</span></a></li>
+					<!--<li><a href="http://ehsalazar.github.io/unit1_projects/week1_cultural_blog.html"><i class="fa fa-book"></i><span> Blog</span></a></li>-->
+					<li><a href="http://twitter.com/ehsalazar" target="_blank"><i class="fa fa-twitter"></i><span> Tweet Me</span></a></li>
+					<li><a href="http://instagram.com/ehsalazar" target="_blank"><i class="fa fa-instagram"></i><span> Insta Me</span></a></li>
+					<li><a href="http://facebook.com/ernie.salazar" target="_blank"><i class="fa fa-facebook"></i><span> Friend Me</span></a></li>
+					<!--<li><a href="http://github.com/ehsalazar" target="_blank"><i class="fa fa-github"></i><span> Git Me</span></a></li>-->
+					<li><a href="http://linkedin.com/in/ehsalazar" target="_blank"><i class="fa fa-linkedin"></i><span> Link Me</span></a></li>
+				</ul>
+			</nav> <!-- Close main menu -->
+			<div class="blog-menu">
+				<h4>Blog</h4>
+				<ul>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week1_technical_blog.html">Website Comps</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week1_cultural_blog.html">Value Reflection</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week2_technical_blog.html">CSS Elements</a></li>
+				</ul>
+				<h4>Projects</h4>
+				<ul>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/dbc1.html">First Website</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/wireframe_sites.html">Wireframed Sites</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/gps1.1.html">GPS 1.1</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/my_wireframe.html">Index Makeover</a></li>
+				</ul>
+			</div> <!-- Close blog menu -->
+			<section>
+				<article>
+					<h3>Getting to know CSS - Elements display - Block, inline & inline-block</h3>
+					<h6>May 4, 2014 | Week 2 - Technical</h6>
+
+					<p>So you&#8217;ve been getting to know a little about CSS. Perhaps you&#8217;ve learned that your HTML is built using tags which create elements. For example, you might have seen "header", "nav", "div" and "p". You can style those elements in CSS with all kinds of fun modifications. Before you jump in to far however, you should know a little about how those elements display by default and how you can modify them.</p>
+
+					<p>By default, many of the more common elements will display as blocks. Basically, that means they will take up the entire width of the area they&#8217;re in. For example, a "p" which is a paragraph element will fill a column entirely with its text. Let&#8217;s have a look.</p>
+
+					<p style="text-align:center"><img src="images/block_code.png" alt="Code" width="80%" height="80%"></p>
+
+					<p style="text-align:center"><img src="images/block.png" alt="Result" width="80%" height="80%"></p>
+
+					<p>I&#8217;ve added a bit of styling to create our section border. As for the paragraph, I&#8217;ve only added some back ground color. You can see the "p" element fills the entire space.</p>
+
+					<h3>Inline</h3>
+
+					<p>Now let&#8217;s look at inline. While "p" had a default display of block, tags such as "em" and "strong" have default display of inline. Basically, they display that element inline with its surroundings but they are contained by their surrounds dimensions. Let&#8217;s take a look.</p>
+
+					<p style="text-align:center"><img src="images/inline_code.png" alt="Code" width="80%" height="80%"></p>
+
+					<p style="text-align:center"><img src="images/inline.png" alt="Result" width="80%" height="80%"></p>
+
+					<p>A "strong" tag is quick way to bold a particular element. I again added only some background color to this element. You can see it is within or inline with its surrounds with our changing its dimensions.</p>
+
+					<h3>Inline-block</h3>
+
+					<p>What about inline-block. Well this allows us to create a new block element. This time however, while it continues to be within or inline with its surroundings, we can adjust its dimensions. Let&#8217;s take a look.</p>
+
+					<p style="text-align:center"><img src="images/inline_block_code.png" alt="Result" width="80%" height="80%"></p>
+
+					<p style="text-align:center"><img src="images/inline_block.png" alt="Result" width="80%" height="80%"></p>
+
+					<p>By adding changing the display value of the strong element to inline-block, we created a whole new block that we were able to scale. While I used text and "strong" to walk through these examples, perhaps a more common and useful use of inline-block is with "img" elements. This allows you to add images within the context of it surrounding text without filling the entire width of the section.</p>
+
+				</article>
+			</section> <!-- Close section -->
+			<footer>
+				<p>Created by Ernie Salazar | Dev Bootcamp | Phase 0 | Week 2</p>
+			</footer> <!-- Close footer -->
+		</div> <!-- Close wrapper -->
+	</body> <!-- Close body -->
+</html>
