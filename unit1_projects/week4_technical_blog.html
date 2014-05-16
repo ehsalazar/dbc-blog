@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<!--<link href='http://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet' type='text/css'>-->
+		<link href='http://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
+		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="stylesheets/reset.css"/>
+		<link rel="stylesheet" type="text/css" href="stylesheets/blog.css"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Enumerable Groupie</title>
+	</head>
+	<body>
+		<div class="wrapper">
+			<header>
+				<h1 id="title">Code to Learn | <span style="font-weight:400">Blog</span></h1>
+			</header> <!-- Close header -->
+			<nav class="main-menu">
+				<ul>
+					<li><a href="http://ehsalazar.github.io"><i class="fa fa-home"></i><span> Home</span></a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/dbc2.html"><i class="fa fa-info"></i><span> About Me</span></a></li>
+					<!--<li><a href="http://ehsalazar.github.io/unit1_projects/week1_cultural_blog.html"><i class="fa fa-book"></i><span> Blog</span></a></li>-->
+					<li><a href="http://twitter.com/ehsalazar" target="_blank"><i class="fa fa-twitter"></i><span> Tweet Me</span></a></li>
+					<li><a href="http://instagram.com/ehsalazar" target="_blank"><i class="fa fa-instagram"></i><span> Insta Me</span></a></li>
+					<li><a href="http://facebook.com/ernie.salazar" target="_blank"><i class="fa fa-facebook"></i><span> Friend Me</span></a></li>
+					<!--<li><a href="http://github.com/ehsalazar" target="_blank"><i class="fa fa-github"></i><span> Git Me</span></a></li>-->
+					<li><a href="http://linkedin.com/in/ehsalazar" target="_blank"><i class="fa fa-linkedin"></i><span> Link Me</span></a></li>
+				</ul>
+			</nav> <!-- Close main menu -->
+			<div class="blog-menu">
+				<h4>Blog</h4>
+				<ul>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week4_technical_blog.html">Enumerable Groupie</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week3_cultural_blog.html">DBC's Culture</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week3_technical_blog.html">JavaScript Love</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week2_technical_blog.html">CSS Elements</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week1_cultural_blog.html">Value Reflection</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week1_technical_blog.html">Website Comps</a></li>
+				</ul>
+				<h4>Projects</h4>
+				<ul>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/my_wireframe.html">Index Makeover</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/gps1.1.html">GPS 1.1</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/wireframe_sites.html">Wireframed Sites</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/dbc1.html">First Website</a></li>
+				</ul>
+			</div> <!-- Close blog menu -->
+			<section>
+				<article>
+					<h3>Enumerable Groupie Say What?</h3>
+					<h6>May 15, 2014 | Week 4 - Technical</h6>
+
+					<p>Ruby is a dynamic programming language that offers many classes or modules for the programmer to utilize, such as String, Integer, Array, and Hash. One that is quickly becoming one of my go to favorites is the Enumerable module. It gives us some nifty methods in which we can traverse, search, sort and even alter elements within a collection class.</p> 
+
+					<p>Today we’re going to learn about one of its methods, group_by, otherwise known as Enumberable#group_by. It’s a handy little guy that can power through an array or hash and group its elements. The method itself usually takes a block of code that tells it what exactly to group by. Its output is a new hash or collection with the keys you selected and values that match up to them. Perhaps it’s easier seen than said, let’s take a look at a few examples.</p>
+
+					<p style="font-weight:600">Example using a collection of numbers:</p>
+
+					<p style="text-align:center"><img src="images/num_group_by.png" alt="Code with numbers" width="80%" height="80%"></p>
+
+					<p>We took a group of numbers from 1 through 15 and called the group_by method. The block we passed to the method is telling it to loop through those numbers. It then grouped the numbers if they were divisible by 3. The method then created a hash with those groups. Numbers that were evenly divisible by 3 went to the :0 key, numbers with a remainder of 1 went to the :1 key, and finally numbers with a remainder of 2 went to the :2 key.</p>
+					
+					<p style="font-weight:600">Example using a collection of strings:</p>
+
+					<p style="text-align:center"><img src="images/string_group_by.png" alt="Code with strings" width="80%" height="80%"></p>
+
+					<p>This time we created a collection of movie titles. We then called the group_by method on the movie array. The block we passed to the method is telling it to loop through the titles. It then grouped them by their first letter. The method then created a hash with those groups. The first letter of the titles became the keys and titles themselves, the values.</p>
+
+					<p style="font-weight:600">Learn More</p>
+
+					<p>As you can see, it’s not hard understanding how useful group_by can be. If you’re looking to loop through collections and organize their elements, this method should be in your toolbox. If you want to learn more, explore these resources.</p>
+					<ul>
+						<li><a href="http://www.ruby-doc.org/core-2.1.1/Enumerable.html" target="_blank">Ruby Documentation - Core 2.1.1 - Enumerable</a></li>
+						<li><a href="http://www.globalnerdy.com/2008/08/31/enumerating-enumerable-enumerablegroup_by/" target="_blank">Global Nerdy - Enumerating Enumerable: Enumerable#group_by</a></li>
+					</ul>
+					<p>Check them out and enjoy. Global Nerdy has a concise explanation of other enumerable methods if you're interested. I was!</p>
+
+				</article>
+			</section> <!-- Close section -->
+			<footer>
+				<p>Copyright &copy; 2014 Ernie Salazar</p>
+			</footer> <!-- Close footer -->
+		</div> <!-- Close wrapper -->
+	</body> <!-- Close body -->
+</html>
