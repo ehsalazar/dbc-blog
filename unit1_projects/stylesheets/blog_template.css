@@ -21,7 +21,7 @@ header {
 	margin-top: 2em;
 	height: 8em;
 	/*background: url(https://github.com/ehsalazar/ehsalazar.github.io/blob/master/unit1_projects/images/graffiti_banner.JPG?raw=true) 50%;*/
-	background: url("bandw.jpg");
+	background: url("banners/bandw.jpg");
 	background-size: cover;
 }
 
@@ -138,7 +138,7 @@ footer {
 	color: #F7F7F0;
 	text-transform: uppercase;
 	/*background: url(https://github.com/ehsalazar/ehsalazar.github.io/blob/master/unit1_projects/images/graffiti_banner.JPG?raw=true) 50% 25%;*/
-	background: url("bandw.jpg");
+	background: url("banners/bandw.jpg");
 	background-size: cover;
 }
 footer p {
