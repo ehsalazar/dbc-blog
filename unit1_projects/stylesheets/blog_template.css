@@ -84,11 +84,11 @@ nav li a{
 }
 a {
 	text-decoration: none;
-	color: #C2C8D1;
+	color: #6699CC;
 }
 a:hover {
 	/*color: #EB7C0E;*/
-	color: #ff8000;
+	color: #FF7538;
 	font-weight: 600;
 }
 
