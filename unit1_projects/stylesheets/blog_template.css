@@ -1,7 +1,9 @@
 /* general syling */
 body {
-	background-color: #F7F7F0;
+	/*background-color: #F7F7F0;*/
+	background-color: #030408;
 	font-family: "Raleway", Arial, sans-serif;
+	color: #F1F1F4;
 	line-height: 1.2em;
 	margin: 0px auto;
 	width: 100%;
@@ -26,7 +28,8 @@ header {
 }
 
 #title {
-	color: #F7F7F0;
+	/*color: #F7F7F0;*/
+	color: #FAFBFC;
 	text-transform: uppercase;
 	font-weight: 600;
 	margin-left: 2em;
@@ -62,10 +65,12 @@ nav li a{
 	margin-bottom: 2em;
 	width: 15%;
 	min-height: 100px;
-	background-color: #C1CAD4;
+	/*background-color: #C1CAD4;*/
+	background-color: #030408;
 }
 .blog-menu h4 {
-	color: #20232B;
+	/*color: #20232B;*/
+	color: #C2C8D1;
 	font-weight: 600;
 	text-align: center;
 	text-transform: uppercase;
@@ -79,10 +84,11 @@ nav li a{
 }
 a {
 	text-decoration: none;
-	color: #404754;
+	color: #C2C8D1;
 }
 a:hover {
-	color: #EB7C0E;
+	/*color: #EB7C0E;*/
+	color: #ff8000;
 	font-weight: 600;
 }
 
@@ -95,18 +101,21 @@ section {
 	margin-bottom: 2em;
 	width: 82%;
 	min-height: 100px;
-	background-color: #C1CAD4;
+	/*background-color: #C1CAD4;*/
+	background-color: #030408;
 }
 section h3 {
 	margin-top: 1.5em;
 	margin-left: 1.5em;
 	margin-bottom: 1.5em;
-	color: #20232B;
+	/*color: #20232B;*/
+	color: #C2C8D1;
 	font-weight: 600;
 	/* text-transform: uppercase; */
 }
 section h6 {
 	margin-left: 1.5em;
+	color: #7e7d83;
 }
 section p {
 	margin: 1.5em;
@@ -135,7 +144,8 @@ footer {
 	margin-bottom: 1em;
 	height: 30px;
 	clear: both;
-	color: #F7F7F0;
+	/*color: #F7F7F0;*/
+	color: #FAFBFC;
 	text-transform: uppercase;
 	/*background: url(https://github.com/ehsalazar/ehsalazar.github.io/blob/master/unit1_projects/images/graffiti_banner.JPG?raw=true) 50% 25%;*/
 	background: url("banners/bandw.jpg");
