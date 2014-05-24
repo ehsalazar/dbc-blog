@@ -1,7 +1,7 @@
 /* general styling */
 body {
 	/*background-color: #F7F7F0;*/
-	background-color: #F1F1F4;
+	background-color: #FAFBFC;
 	font-family: "Raleway", Arial, sans-serif;
 	color: #030408;
 	line-height: 1.2em;
@@ -64,7 +64,7 @@ nav li a{
 	width: 15%;
 	min-height: 100px;
 	/*background-color: #C1CAD4;*/
-	background-color: #F1F1F4;
+	background-color: #FAFBFC;
 }
 .blog-menu h4 {
 	/*color: #20232B;*/
@@ -99,7 +99,7 @@ section {
 	width: 82%;
 	min-height: 100px;
 	/*background-color: #C1CAD4;*/
-	background-color: #F1F1F4;
+	background-color: #FAFBFC;
 }
 section h3 {
 	margin-top: 1.5em;
