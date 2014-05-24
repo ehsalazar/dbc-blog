@@ -1,9 +1,9 @@
-/* general syling */
+/* general styling */
 body {
 	/*background-color: #F7F7F0;*/
-	background-color: #030408;
+	background-color: #F1F1F4;
 	font-family: "Raleway", Arial, sans-serif;
-	color: #F1F1F4;
+	color: #0B1939;
 	line-height: 1.2em;
 	margin: 0px auto;
 	width: 100%;
@@ -22,7 +22,6 @@ header {
 	width: relative;
 	margin-top: 2em;
 	height: 8em;
-	/*background: url(https://github.com/ehsalazar/ehsalazar.github.io/blob/master/unit1_projects/images/graffiti_banner.JPG?raw=true) 50%;*/
 	background: url("banners/bandw.jpg");
 	background-size: cover;
 }
@@ -65,11 +64,11 @@ nav li a{
 	width: 15%;
 	min-height: 100px;
 	/*background-color: #C1CAD4;*/
-	background-color: #030408;
+	background-color: #F1F1F4;
 }
 .blog-menu h4 {
 	/*color: #20232B;*/
-	color: #C2C8D1;
+	color: #6D7588;
 	font-weight: 600;
 	text-align: center;
 	text-transform: uppercase;
@@ -83,7 +82,7 @@ nav li a{
 }
 a {
 	text-decoration: none;
-	color: #6699CC;
+	color: #3C4761;
 }
 a:hover {
 	/*color: #EB7C0E;*/
@@ -100,19 +99,19 @@ section {
 	width: 82%;
 	min-height: 100px;
 	/*background-color: #C1CAD4;*/
-	background-color: #030408;
+	background-color: #F1F1F4;
 }
 section h3 {
 	margin-top: 1.5em;
 	margin-left: 1.5em;
 	font-weight: 600;
 	/*color: #20232B;*/
-	color: #C2C8D1;
+	color: #6D7588;
 	text-transform: uppercase;
 }
 section h6 {
 	margin-left: 1.5em;
-	color: #7e7d83;
+	color: #9DA3B0;
 }
 section p {
 	margin: 1.5em;
@@ -132,7 +131,6 @@ footer {
 	/*color: #F7F7F0;*/
 	color: #FAFBFC;
 	text-transform: uppercase;
-	/*background: url(https://github.com/ehsalazar/ehsalazar.github.io/blob/master/unit1_projects/images/graffiti_banner.JPG?raw=true) 50% 25%;*/
 	background: url("banners/bandw.jpg");
 	background-size: cover;
 }
@@ -146,8 +144,7 @@ footer p {
 /** Tablet view **/
 @media screen and (max-width: 960px) {
   #title {
-  	font-size: 1.6em;
-  	line-height: 40px;
+  	font-size: 2em;
   	padding: 20px;
   }
   nav li a {
@@ -164,8 +161,7 @@ footer p {
 /** Mobile view **/
 @media screen and (max-width: 600px){
   #title {
-  	font-size: 1.1em;
-    line-height: 40px;
+  	font-size: 1.3em;
   }
   header {
   	text-align: center;
