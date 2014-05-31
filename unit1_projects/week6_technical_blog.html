@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<!--<link href='http://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet' type='text/css'>-->
+		<link href='http://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
+		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="stylesheets/reset.css"/>
+		<link rel="stylesheet" type="text/css" href="stylesheets/blog.css"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Blocks, Procs, & Lambdas</title>
+	</head>
+	<body>
+		<div class="wrapper">
+			<header>
+				<h1 id="title">Code to Learn | <span style="font-weight:400">Blog</span></h1>
+			</header> <!-- Close header -->
+			<nav class="main-menu">
+				<ul>
+					<li><a href="http://ehsalazar.github.io"><i class="fa fa-home"></i><span> Home</span></a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/dbc2.html"><i class="fa fa-info"></i><span> About Me</span></a></li>
+					<!--<li><a href="http://ehsalazar.github.io/unit1_projects/week1_cultural_blog.html"><i class="fa fa-book"></i><span> Blog</span></a></li>-->
+					<li><a href="http://twitter.com/ehsalazar" target="_blank"><i class="fa fa-twitter"></i><span> Tweet Me</span></a></li>
+					<li><a href="http://instagram.com/ehsalazar" target="_blank"><i class="fa fa-instagram"></i><span> Insta Me</span></a></li>
+					<li><a href="http://facebook.com/ernie.salazar" target="_blank"><i class="fa fa-facebook"></i><span> Friend Me</span></a></li>
+					<!--<li><a href="http://github.com/ehsalazar" target="_blank"><i class="fa fa-github"></i><span> Git Me</span></a></li>-->
+					<li><a href="http://linkedin.com/in/ehsalazar" target="_blank"><i class="fa fa-linkedin"></i><span> Link Me</span></a></li>
+				</ul>
+			</nav> <!-- Close main menu -->
+			<div class="blog-menu">
+				<h4>Blog</h4>
+				<ul>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week6_technical_blog.html">Blocks, Procs, & Lambdas</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week5_cultural_blog.html">Diversity in Tech</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week5_technical_blog.html">Register for Class</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week4_cultural_blog.html">Keeping Calm</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week4_technical_blog.html">Enumerable Groupie</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week3_cultural_blog.html">DBC's Culture</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week3_technical_blog.html">JavaScript Love</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week2_technical_blog.html">CSS Elements</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week1_cultural_blog.html">Value Reflection</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/week1_technical_blog.html">Website Comps</a></li>
+				</ul>
+				<h4>Projects</h4>
+				<ul>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/my_wireframe.html">Index Makeover</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/gps1.1.html">GPS 1.1</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/wireframe_sites.html">Wireframed Sites</a></li>
+					<li><a href="http://ehsalazar.github.io/unit1_projects/dbc1.html">First Website</a></li>
+				</ul>
+			</div> <!-- Close blog menu -->
+			<section>
+				<article>
+					<h3>What are Blocks, Procs, and Lambdas?</h3>
+					<h6>May 30, 2014 | Week 6 - Technical</h6>
+
+					<p>As we learn more about Ruby as a programming language, we get to explore the many ways in which we can interact with, alter and change objects. Three dynamic and useful tools towards that end are blocks, Procs and lambdas. Let’s learn a little about each and how we can utilize them in our code.</p> 
+
+					<h6 style="font-weight:600">Blocks</h6>
+
+					<p>You can think of blocks as useful little add-ons that interact with certain methods. They are especially useful when iterating using methods like #each or #times. They are also key to the success of methods like #collect and #select. Blocks can be built using either do…end syntax or more commonly, the { } syntax.</p>
+
+					<p style="text-align:center"><img src="images/blocks.png" alt="Blocks Code" width="80%" height="80%"></p>
+
+					<h6 style="font-weight:600">Procs</h6>
+
+					<p>In Ruby, almost everything is an object. One of the few exceptions to that rule are blocks. They aren’t objects and as such have a limited function. They aren’t embedded with all the powers and abilities of objects. Also, if you plan on using the same block more than once, you’ll need to retype it again and again. Here’s where Procs come in. Procs are objects and as such, can be used to convert our little blocks into more powerful objects that can be used over and over.</p>
+
+					<p style="text-align:center"><img src="images/procs.png" alt="Procs Code" width="80%" height="80%"></p>
+
+					<h6 style="font-weight:600">Lambdas</h6>
+
+					<p>Much like Procs, lambdas are also objects. They function very similarly to Procs and can sometimes be used interchangeably. They do have one distinct behavior difference that can have an impact on output. When used within a method, a lambda will execute and then pass control back to the calling method. A Proc on the other hand, when executed will do so immediately without going back to the calling method.</p>
+
+					<p style="text-align:center"><img src="images/lambdas.png" alt="Lambdas Code" width="80%" height="80%"></p>
+
+					<h6 style="font-weight:600">Learn More</h6>
+
+					<p>As you can see, blocks, Procs and lambdas are great tools to add to our Ruby toolbox. They can increase the scope and power of the methods and objects we build. If you want to learn more about them, check out these useful resources.</p>
+					<ul>
+						<li><a href="http://www.codecademy.com/courses/ruby-beginner-en-L3ZCI/0/1?curriculum_id=5059f8619189a5000201fbcb" target="_blank">Codecademy - Ruby Track - Blocks, Procs, and Lambdas</a></li>
+						<li><a href="http://code.tutsplus.com/tutorials/ruby-on-rails-study-guide-blocks-procs-and-lambdas--net-29811" target="_blank">Tuts+ Tutorial - Ruby on Rails Study Guide: Blocks, Procs, and Lambdas</a></li>
+						<li><a href="http://rubymonk.com/learning/books/4-ruby-primer-ascent/chapters/18-blocks/lessons/64-blocks-procs-lambdas" target="_blank">Rubymonk - Ruby Primer: Ascent - Blocks 0.4 - Blocks, Procs, and Lambdas</a></li>
+					</ul>
+					<p>They're common elements of many methods and programs. Once you pick up the basic syntax you’ll be coding with blocks, Procs and lambdas too.</p>
+
+				</article>
+			</section> <!-- Close section -->
+			<footer>
+				<p>Copyright &copy; 2014 Ernie Salazar</p>
+			</footer> <!-- Close footer -->
+		</div> <!-- Close wrapper -->
+	</body> <!-- Close body -->
+</html>
