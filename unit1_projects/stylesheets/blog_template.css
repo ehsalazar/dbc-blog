@@ -26,12 +26,10 @@ header {
 }
 #title {
 	color: #FAFBFC;
-	text-transform: uppercase;
 	font-weight: 600;
-	margin-left: 2em;
-	margin-top: 1.3em;
-	font-size: 2.5em;
-	float: left;
+	text-align: center;
+	font-size: 4.5em;
+	padding-top: 0.75em;
 	position: relative;
 }
 
@@ -156,8 +154,8 @@ footer p {
 /** Tablet view **/
 @media screen and (max-width: 960px) {
   #title {
-  	font-size: 2em;
-  	padding: 20px;
+  	font-size: 3.5em;
+  	padding-top: 1em;
   }
   nav li a {
   	padding: 0.5em;
@@ -173,10 +171,8 @@ footer p {
 /** Mobile view **/
 @media screen and (max-width: 600px){
   #title {
-  	font-size: 1.3em;
-  }
-  header {
-  	text-align: center;
+  	font-size: 2.3em;
+  	padding-top: 1.45em;
   }
   nav span {
   	display: none;
