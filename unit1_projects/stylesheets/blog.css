@@ -164,7 +164,7 @@ footer p {
   	display: none;
   }
   nav li a {
-  	padding: 0.5em;
+  	padding: 0.5em 0.4em;
   	font-size: 1.5em;
   }
   section {
