@@ -14,6 +14,13 @@ body {
 	margin: 0 auto;
 	position: relative;
 }
+/* divider line */
+hr {
+margin-top: 20px;
+margin-bottom: 20px;
+border: 0;
+border-top: 1px solid #eee;
+}
 
 /* header styling */
 header {
@@ -95,7 +102,6 @@ section {
 }
 section h3 {
 	margin-top: 1.3em;
-	margin-bottom: 1.3em;
 	font-weight: 600;
 	font-size: 1.2em;
 	color: #6D7588;
@@ -105,9 +111,14 @@ section h4 {
 	color: #9DA3B0;
 	font-size: 1.2em;
 }
-section h6 {
+section h5 {
 	color: #9DA3B0;
 	font-size: 1em;
+	margin-top: 0.5em;
+}
+section h6 {
+	color: #9DA3B0;
+	font-size: 0.9em;
 }
 section p {
 	margin: 1.5em 0;
@@ -120,6 +131,7 @@ section li {
 /* video styling */
 #video {
 	position: relative;
+	margin-top: 1.3em;
 	padding-bottom: 56.25%;
 	padding-top: 30px;
 	height: 0;
