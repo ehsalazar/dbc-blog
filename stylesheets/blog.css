@@ -101,7 +101,8 @@ section {
 section h3 {
 	margin-top: 1.3em;
 	font-weight: 600;
-	font-size: 1.2em;
+	font-size: 1.6em;
+	line-height: 1.4em;
 	color: #6D7588;
 	text-transform: uppercase;
 }
@@ -112,7 +113,6 @@ section h4 {
 section h5 {
 	color: #9DA3B0;
 	font-size: 1em;
-	margin-top: 0.5em;
 }
 section h6 {
 	color: #9DA3B0;
