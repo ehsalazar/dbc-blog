@@ -16,8 +16,8 @@ body {
 }
 /* divider line */
 hr {
-margin-top: 20px;
-margin-bottom: 20px;
+margin-top: 1em;
+margin-bottom: 1em;
 border: 0;
 border-top: 1px solid #CBDBD8;
 }
@@ -39,11 +39,7 @@ header {
 	padding-top: 0.75em;
 	position: relative;
 }
-
 /* menu styling */
-/*nav {
-	margin-left: -1em;
-}*/
 nav ul {
 	text-align: center;
 }
@@ -54,33 +50,11 @@ nav li {
 nav li a{
   	text-decoration: none;
   	display: inline-block;
-	padding: 1em 0.5em;
+	padding: 0 0.5em;
 	font-size: 1.2em;
 	font-weight: 600;
 	text-transform: uppercase;
 }
-/*.blog-menu {
-	position: relative;
-	float: right;
-	margin-top: 1em;
-	margin-bottom: 1em;
-	width: 17%;
-	min-height: 100px;
-	background-color: #FAFBFC;
-}
-.blog-menu h4 {
-	color: #6D7588;
-	font-weight: 600;
-	text-align: center;
-	text-transform: uppercase;
-	margin: 1.5em;
-}
-.blog-menu li {
-	font-size: .9em;
-	list-style: square;
-	margin-left: 2.5em;
-	margin-bottom: 0.5em;
-}*/
 a {
 	text-decoration: none;
 	color: #3C4761;
@@ -93,7 +67,7 @@ a:hover {
 /* main content styling */
 section {
 	position: relative;
-	margin: 1em auto;
+	margin: 1em auto 2em auto;
 	width: 85%;
 	min-height: 100px;
 	background-color: #FAFBFC;
@@ -135,18 +109,13 @@ section li {
 footer {
 	position: relative;
 	margin-bottom: 1em;
-	height: 30px;
+	height: 2em;
 	clear: both;
-	color: #FAFBFC;
 	text-transform: uppercase;
-	background: url("banners/bandw.jpg");
-	background-size: cover;
 }
 footer p {
 	text-align: center;
-	font-weight: 600;
-	padding-top: 6px;
-	margin-left: 1em;
+	margin-bottom: 1em;
 }
 
 /** Tablet view **/
@@ -159,27 +128,21 @@ footer p {
   	display: none;
   }
   nav li a {
-	padding: 0.5em 1em;
+	padding: 0 1em;
   	font-size: 1.7em;
-  }
-  .blog-menu {
-  	width: 20%
-  }
-  section {
-  	width: 77%;
   }
 }
 /** Mobile view **/
 @media screen and (max-width: 600px){
   #title {
-  	font-size: 1.8em;
-  	padding-top: 1.8em;
+  	font-size: 2.3em;
+  	padding-top: 1.45em;
   }
   nav span {
   	display: none;
   }
   nav li a {
-  	padding: 0.5em 0.4em;
+  	padding: 0 0.5em;
   	font-size: 1.5em;
   }
   section {
@@ -192,9 +155,6 @@ footer p {
   	float: none;
     margin: 5px auto;
     padding: 2%;
-    width: 90%;
-  }
-  .blog-menu h4 {
-  	margin: 0.5em;
+    width: 50%;
   }
 }
