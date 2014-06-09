@@ -135,7 +135,7 @@ footer p {
 /** Mobile view **/
 @media screen and (max-width: 600px){
   #title {
-  	font-size: 2.3em;
+  	font-size: 2em;
   	padding-top: 1.45em;
   }
   nav span {
