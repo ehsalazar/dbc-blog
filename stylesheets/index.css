@@ -150,11 +150,12 @@ footer {
 	margin-bottom: 1em;
 	height: 2em;
 	clear: both;
-	text-transform: uppercase;
 }
-footer p {
+footer h6 {
 	text-align: center;
 	margin-bottom: 1em;
+	color: #9DA3B0;
+	font-size: 0.9em;
 }
 
 /** Tablet view **/
