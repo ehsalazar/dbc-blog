@@ -7,7 +7,8 @@ tags: [technical, websites, jekyll, design, week 8, phase 0]
 image:
   feature: 
   credit: 
-  creditlink: 
+  creditlink:
+  thumb: oldsite.png 
 comments: true
 share: true
 ---
