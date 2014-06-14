@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /complete-site-makeover/
-title: "Complete Site Makeover - My Website 3.0"
+title: "Complete Site Makeover"
 modified: 2014-06-13 19:08:03 -0700
 tags: [technical, websites, jekyll, design, week 8, phase 0]
 image:

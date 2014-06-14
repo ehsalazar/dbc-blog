@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /index-makeover/
-title: "Index Makeover - My Website 2.0"
+title: "Index Makeover - Site 2.0"
 modified: 2014-06-13 19:00:13 -0700
 tags: [technical, websites, wireframe, week 2, phase 0]
 image:
