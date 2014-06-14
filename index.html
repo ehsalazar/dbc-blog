@@ -1,132 +1,70 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-		<link href='http://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
-		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="stylesheets/reset.css"/>
-		<link rel="stylesheet" type="text/css" href="stylesheets/index.css"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Welcome</title>
-	</head>
-	<body>
-		<div class="wrapper">
-			<header><a href="http://ehsalazar.github.io">
-				<h1 id="title">eh(SALAZAR)</h1>
-			</a></header> <!-- Close header -->
-			<nav class="main-menu"><a name="social"></a>
-				<hr>	
-				<ul>
-					<li><a href="http://twitter.com/ehsalazar" target="_blank"><i class="fa fa-twitter-square"></i><span> Tweet Me</span></a></li>
-					<li><a href="http://instagram.com/ehsalazar" target="_blank"><i class="fa fa-instagram"></i><span> Insta Me</span></a></li>
-					<li><a href="http://facebook.com/ernie.salazar" target="_blank"><i class="fa fa-facebook-square"></i><span> Friend Me</span></a></li>
-					<li><a href="http://github.com/ehsalazar" target="_blank"><i class="fa fa-github-square"></i><span> Git Me</span></a></li>
-					<li><a href="http://linkedin.com/in/ehsalazar" target="_blank"><i class="fa fa-linkedin-square"></i><span> Link Me</span></a></li>
-				</ul>
-				<hr>
-			</nav> <!-- Close main menu -->
-			<section>
-				<article>
-					<h3><a href="http://ehsalazar.github.io/blogs/week7_cultural_blog.html">Reaffirming Our Values - A Public Service Announcement</a></h3>
-					<h5>by Ernie Salazar</h5>
-					<hr>
-					<h6><i class="fa fa-calendar-o"></i>&nbsp; Posted on June 8, 2014</h6>
-					<hr>
-					<p><img src="images/psa.png" alt="Public Service Announcement"></p>
-					<hr>
-					<p>A few weeks back we looked at a <a href="http://ehsalazar.github.io/blogs/week1_cultural_blog.html" target="_blank">value reflection</a>. In it, I examined a particular value that has had some significance to my life and expounded on its impact. The value in question, was that of public service or being of service to others. I’ve always found joy as well as opportunities to learn when I’ve embraced that value. As I’ve experienced in the last few weeks, that same value can also hold keys to mitigating something we talked about last week, <a href="http://ehsalazar.github.io/blogs/week6_cultural_blog.html" target="_blank">stereotype threat</a>.</p>
-					<h6><i class="fa fa-tags"></i>&nbsp; cultural,&nbsp; values,&nbsp; stereotype,&nbsp; week 7,&nbsp; phase 0</h6>
-					<h5><a href="http://ehsalazar.github.io/blogs/week7_cultural_blog.html">Read More &nbsp;<i class="fa fa-chevron-right"></i></a></h5>
-					<hr>
-					<p>&nbsp;</p>
+---
+layout: post-index
+title: Latest Posts
+description: "Describe this nonsense."
+tags: [Jekyll, theme, themes, responsive, blog, modern]
+image:
+  feature: 
+  credit: 
+  creditlink:
+---
 
-					<h3><a href="http://ehsalazar.github.io/blogs/week7_technical_blog.html">SQLite Injection - What could go wrong?</a></h3>
-					<h5>by Ernie Salazar</h5>
-					<hr>
-					<h6><i class="fa fa-calendar-o"></i>&nbsp; Posted on June 6, 2014</h6>
-					<hr>
-					<p><img src="images/syringes.jpg" alt="Three Empty Syringes"></p>
-					<hr>
-					<p>As far as embedded databases go, SQLite is a popular choice. It’s a relational database management system that follows much of SQL standards. Since it needs no standalone processes, its library communicates and links with the server becoming an inherent component utilized by many web browsers. It’s ACID-compliant (Atomicity, Consistency, Isolation, Durability) and uses a dynamic yet weakly typed syntax. This is where things can begin to go wrong. That syntax doesn’t ensure the domain or database integrity. </p>
-					<h6><i class="fa fa-tags"></i>&nbsp; technical,&nbsp; sqlite,&nbsp; sql injection,&nbsp; databases,&nbsp; week 7,&nbsp; phase 0</h6>
-					<h5><a href="http://ehsalazar.github.io/blogs/week7_technical_blog.html">Read More &nbsp;<i class="fa fa-chevron-right"></i></a></h5>
-					<hr>
-					<p>&nbsp;</p>
+{% for post in paginator.posts %}
+<article class="hentry">
+  <header>
+    <div class="entry-meta">
+      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>{% if site.disqus_shortname and post.comments %}&nbsp; &bull; &nbsp;<span class="entry-comments"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Comment</a></span>{% endif %}
+      {% if site.reading_time %}
+      <span class="entry-reading-time pull-right">
+        <i class="fa fa-clock-o"></i>
+        {% assign readtime = post.content | number_of_words | divided_by:site.words_per_minute %}
+        Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
+      </span><!-- /.entry-reading-time -->
+      {% endif %}
+    </div><!-- /.entry-meta -->
+    {% if post.link %}
+      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}"><i class="fa fa-angle-double-right"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
+    {% else %}
+      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
+    {% endif %}
+  </header>
+  <div class="entry-content">
+    {{ post.content }}
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+{% endfor %}
 
-					<h3><a href="http://ehsalazar.github.io/blogs/week6_cultural_blog.html">Examining and Minimizing Stereotype Threat</a></h3>
-					<h5>by Ernie Salazar</h5>
-					<hr>
-					<h6><i class="fa fa-calendar-o"></i>&nbsp; Posted on June 1, 2014</h6>
-					<hr>
-					<p><img src="images/wv.jpg" alt="Whistling Vivaldi (Bookcover) - Claude Steele"></p>
-					<hr>
-					<p>The theory of stereotype threat describes the possibility of (often unconsciously) experiencing anxiety that can lead to negative outcomes, when in situations where we believe we may confirm a stereotype about the groups we identify with. While it’s a common held belief today and well studied, it was first introduced in 1995 in the experiments conducted by Psychologists Dr. Claude Steele together with Dr. Joshua Aronson.</p>
-					<h6><i class="fa fa-tags"></i>&nbsp; cultural,&nbsp; stereotype,&nbsp; week 6,&nbsp; phase 0</h6>
-					<h5><a href="http://ehsalazar.github.io/blogs/week6_cultural_blog.html">Read More &nbsp;<i class="fa fa-chevron-right"></i></a></h5>
-					<hr>
-					<p>&nbsp;</p>
-
-					<h3><a href="http://ehsalazar.github.io/blogs/week6_technical_blog.html">What are Blocks, Procs, and Lambdas?</a></h3>
-					<h5>by Ernie Salazar</h5>
-					<hr>
-					<h6><i class="fa fa-calendar-o"></i>&nbsp; Posted on May 30, 2014</h6>
-					<hr>
-					<p><img src="images/blocks.png" alt="Blocks Code"></p>
-					<hr>
-					<p>As we learn more about Ruby as a programming language, we get to explore the many ways in which we can interact with, alter and change objects. Three dynamic and useful tools towards that end are blocks, Procs and lambdas. Let’s learn a little about each and how we can utilize them in our code.</p>
-					<h6><i class="fa fa-tags"></i>&nbsp; technical,&nbsp; ruby,&nbsp; code,&nbsp; blocks,&nbsp; week 6,&nbsp; phase 0</h6>
-					<h5><a href="http://ehsalazar.github.io/blogs/week6_technical_blog.html">Read More &nbsp;<i class="fa fa-chevron-right"></i></a></h5>
-					<hr>
-					<p>&nbsp;</p>
-					
-					<h3><a href="http://ehsalazar.github.io/unit1_projects/about.html">What's Going On</a></h3>
-					<h5>by Ernie Salazar</h5>
-					<hr>
-					<p><img src="images/sfport.JPG" alt="Port of San Francisco"></p>
-					<hr>
-					<p>I recently decided that a career change might be what I needed. After having a successful career in Retail Management, I was hungry for something more. While I don't take the decision to change paths lightly, especially at my age, I knew I wanted to be involved in something that excited me. With so much opportunity and potential ahead, I dove head first into an area that I've always been both interested in and passion about, technology. The future, my future will be in coding, programming and web development and I can't be more exhilarated.</p>
-					<h6><i class="fa fa-tags"></i>&nbsp; about,&nbsp; san francisco,&nbsp; dev bootcamp</h6>
-					<h5><a href="http://ehsalazar.github.io/unit1_projects/about.html">Read More &nbsp;<i class="fa fa-chevron-right"></i></a></h5>
-					<hr>
-					<p>&nbsp;</p>
-
-				</article> <!-- Close article intros -->
-					<h3>NOW PLAYING: Eli Pariser: Beware online "filter bubbles"</h3>
-					<hr>
-				<article id="video">
-					<iframe src="https://www.youtube.com/embed/B8ofWFx525s" frameborder="0" allowfullscreen></iframe>
-				</article> <!-- close video -->
-			</section> <!-- Close section -->
-			<div class="blog-menu">
-				<!-- <h4><a href="#social">Connect</a></h4> -->
-				<h4>Blog</h4>
-				<ul>
-					<li><a href="http://ehsalazar.github.io/blogs/week7_cultural_blog.html">Reaffirming Values - PSA</a></li>
-					<li><a href="http://ehsalazar.github.io/blogs/week7_technical_blog.html">SQLite Injection</a></li>
-					<li><a href="http://ehsalazar.github.io/blogs/week6_cultural_blog.html">Stereotype Threat</a></li>
-					<li><a href="http://ehsalazar.github.io/blogs/week6_technical_blog.html">Blocks, Procs, & Lambdas</a></li>
-					<li><a href="http://ehsalazar.github.io/blogs/week5_cultural_blog.html">Diversity in Tech</a></li>
-					<li><a href="http://ehsalazar.github.io/blogs/week5_technical_blog.html">Register for Class</a></li>
-					<li><a href="http://ehsalazar.github.io/blogs/week4_cultural_blog.html">Keeping Calm</a></li>
-					<li><a href="http://ehsalazar.github.io/blogs/week4_technical_blog.html">Enumerable Groupie</a></li>
-					<li><a href="http://ehsalazar.github.io/blogs/week3_cultural_blog.html">DBC's Culture</a></li>
-					<li><a href="http://ehsalazar.github.io/blogs/week3_technical_blog.html">JavaScript Love</a></li>
-					<li><a href="http://ehsalazar.github.io/blogs/week2_technical_blog.html">CSS Elements</a></li>
-					<li><a href="http://ehsalazar.github.io/blogs/week1_cultural_blog.html">Value Reflection</a></li>
-					<li><a href="http://ehsalazar.github.io/blogs/week1_technical_blog.html">Website Comps</a></li>
-				</ul>
-				<h4>Projects</h4>
-				<ul>
-					<li><a href="http://ehsalazar.github.io/unit1_projects/my_wireframe.html">Index Makeover</a></li>
-					<li><a href="http://ehsalazar.github.io/unit1_projects/gps1.1.html" target="_blank">GPS 1.1</a></li>
-					<li><a href="http://ehsalazar.github.io/unit1_projects/wireframe_sites.html">Wireframed Sites</a></li>
-					<li><a href="http://ehsalazar.github.io/unit1_projects/dbc1.html" target="_blank">First Website</a></li>
-				</ul>
-			</div> <!-- Close blog menu -->
-			<footer>
-				<hr>
-				<h6>Copyright &copy; 2014 Ernie Salazar</h6>
-			</footer> <!-- Close footer -->
-		</div> <!-- Close wrapper -->
-	</body> <!-- Close body -->
-</html>
+<div class="pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <a href="{{ site.url }}" class="btn">Previous</a>
+    {% else %}
+      <a href="{{ site.url }}/page{{ paginator.previous_page }}" class="btn">Previous</a>
+    {% endif %}
+  {% else %}
+    Previous
+  {% endif %}
+  <ul class="inline-list">
+    <li>
+      {% if paginator.page == 1 %}
+        <span class="current-page">1</span>
+      {% else %}
+        <a href="{{ site.url }}">1</a>
+      {% endif %}
+    </li>
+    {% for count in (2..paginator.total_pages) %}
+      <li>
+        {% if count == paginator.page %}
+          <span class="current-page">{{ count }}</span>
+        {% else %}
+          <a href="{{ site.url }}/page{{ count }}">{{ count }}</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  {% if paginator.next_page %}
+    <a href="{{ site.url }}/page{{ paginator.next_page }}" class="btn">Next</a>
+  {% else %}
+    Next
+  {% endif %}
+</div><!-- /.pagination -->

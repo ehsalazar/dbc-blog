@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">eh(SALAZAR)</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2014-06-13T21:30:19-07:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>Ernie Salazar</name>
+  <uri>http://localhost:4000/</uri>
+  <email>ehsalazar75@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Complete Site Makeover]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/complete-site-makeover/" />
+  <id>http://localhost:4000/complete-site-makeover</id>
+  <updated>2014-06-13 19:08:03 -0700T00:00:00-00:00</updated>
+  <published>2014-06-13T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;h3 id=&quot;my-website-30&quot;&gt;My Website 3.0&lt;/h3&gt;
+
+&lt;p&gt;I’ve learned an amazing amount of technical knowledge over the course of the last eight weeks. When I began DBC’s Phase 0, I only had a shallow understanding of HTML and CSS, let alone git, JavaScript, and Ruby. Now, as this phase comes to a close and I’ll soon be immersed in Phase 1, I wanted to update my site to be more functional, easier to manage and overall, more professional. &lt;/p&gt;
+
+&lt;h4 id=&quot;out-with-the-old&quot;&gt;Out with the Old&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/oldsite.png&quot; alt=&quot;Screenshot of previous site design&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There were a few things I wanted to accomplish as I set out to upgrade this site. First, as I’m writing more and more blog post, I needed a way to manage that process. It would also be a big help if I could automate some the work put in to each blog post. Second, while I thought the design of the site was sufficient, it still had a “made in 1995” feel about it. I knew I wanted to step up the design aspects as well as introduce a few more features.&lt;/p&gt;
+
+&lt;h4 id=&quot;jekyll&quot;&gt;Jekyll&lt;/h4&gt;
+
+&lt;p&gt;To tackle my first concern, I looked into a few different static site generators and management tools such as Middleman, Octopress and Docpad. Ultimately, I chose to go with &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. It’s powered by Ruby and runs using Gems. Some of the great features it includes are code highlighting using Pygments’ syntax, blog structuring and pagination, and the ability to create and execute posts using Markdown. Being a still relative newbie, it took a good day or two for me to figure it out and jump into with both feet. I have a basic understanding and I’m looking forward to learning more about its customizable options. &lt;/p&gt;
+
+&lt;h4 id=&quot;hpstr&quot;&gt;HPSTR&lt;/h4&gt;
+
+&lt;p&gt;The next obstacle was in tackling the overall design. I’m proud that I was able to learn enough to get my site to look relatively good. I sought out elements I liked and taught myself how to execute them using either HTML or CSS. That said, I knew there was more I could do. I’d been exploring the possibility of utilizing Bootstrap and some of the many themes and options they provide. As I learned more about Bootstrap, I began to notice its prevalence everywhere. In the end, I found what they offered to be a bit much for my needs and it left me wanting for something a bit more unique. &lt;/p&gt;
+
+&lt;p&gt;That’s when I came across &lt;a href=&quot;http://mademistakes.com/about/&quot;&gt;Michael Rose&lt;/a&gt;, a designer out of NY state. He’s an amazing artist that does unbelievable things utilizing tools such his iPad and apps like &lt;a href=&quot;http://www.fiftythree.com/paper&quot;&gt;Paper by 53&lt;/a&gt;. On top of that, he’s built some cool themes based around Jekyll’s functionality and has shared them with the world on Github. I chose to access his &lt;a href=&quot;http://mademistakes.com/articles/hpstr-jekyll-theme/&quot;&gt;HPSTR Theme&lt;/a&gt; and have found it a great match for my needs. It has a modern and minimal design with a focus on clean typography while remaining creative and artistic in a way that I felt many technical blogs lack. &lt;/p&gt;
+
+&lt;h4 id=&quot;whats-next&quot;&gt;What’s Next&lt;/h4&gt;
+
+&lt;p&gt;This site transition has been educational and enjoyable. I’m confident I continue to spruce up sections and element here and there as I continue to get feedback from my readers. I also hope to transition to a personal URL in the near future. If you’re at all interested in learning more about this process or utilizing some of these tools as well. I suggest checking out these resources that I found incredibly helpful and inspirational.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codecondo.com/7-static-site-generators-for-building-websites-blogs/&quot;&gt;Codecondo - Static Site Generators for Building Websites &amp;amp; Blogs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://joshualande.com/jekyll-github-pages-poole/&quot;&gt;Joshua Lande - How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tonykleung.info/technical/2014/06/10/site-redesign-v3/&quot;&gt;Tony Leung - Site Redesign V3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the meantime, explore my new setup and feel free to share your thoughts and feedback. Thanks! &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/complete-site-makeover/&quot;&gt;Complete Site Makeover&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 13, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Reaffirming Our Values]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/reaffirming-our-values/" />
+  <id>http://localhost:4000/reaffirming-our-values</id>
+  <updated>2014-06-13 17:13:27 -0700T00:00:00-00:00</updated>
+  <published>2014-06-08T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;A few weeks back we looked at a &lt;a href=&quot;http://ehsalazar.github.io&quot;&gt;value reflection&lt;/a&gt;. In it, I examined a particular value that has had some significance to my life and expounded on its impact. The value in question, was that of public service or being of service to others. I’ve always found joy as well as opportunities to learn when I’ve embraced that value. As I’ve experienced in the last few weeks, that same value can also hold keys to mitigating something we talked about last week, &lt;a href=&quot;http://ehsalazar.github.io&quot;&gt;stereotype threat&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-public-service-announcement&quot;&gt;A Public Service Announcement&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/psa.png&quot; alt=&quot;Public Service Announcement&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve learned many lessons from my parents and perhaps one of the most profound has centered around public service. I was always taught and encourage that whenever I had too much going on or was facing uncertain times, that in those moments, I should put down my burdens and help someone else. It’s been a great tool to minimize stress and even anxiety. I’ve found, when placed in a role of public servant, suddenly my own issues diminish. They may not disappear but they began to see new possibilities and solutions I might have otherwise overlooked.&lt;/p&gt;
+
+&lt;p&gt;There will be obstacles as I begin my journey into a new career and life within the tech industry. Not only do I have a wealth of knowledge yet to learn but I’ll likely also have to deal with the real possibility of stereotype threat. It can be daunting to look out upon a pool of prospective colleagues and suddenly realize there are very few with whom you share a culture or group. It can even have you believe that perhaps this isn’t the field for someone like you. Whether in those moments or in times when the work or education load seems unbearable, that I’ll turn to public service.&lt;/p&gt;
+
+&lt;p&gt;One of the many benefits to a program like Dev Bootcamp is its deep philosophy surrounding pair programming. Not only does it help prepare us with tools that are becoming more and more the industry standard, but it also provides us an outlet to work with our peers. We are able to work cooperatively seeking solutions to challenges. I’ve learned over the last few weeks, that it also provides an opportunity to reaffirm my values. I may be stressed after working hours on a problem set that I can’t seem to solve and the last thing I want to do is sit down and work with someone else. But I do, and suddenly the experience becomes transformative.&lt;/p&gt;
+
+&lt;p&gt;My experience so far, has been, that we start working together and opportunities arise where I realize there are things I do know and beyond that, that I can perhaps step out into service and help my partner learn them as well. The relationship is reciprocal, they too share their knowledge with me. Before we know it, we are both coming to solutions that we perhaps wouldn’t have found on our own.&lt;/p&gt;
+
+&lt;p&gt;Whether it’s a simple example of pair programming or finding some other opportunity to be of service to someone else, the experience is the same. I’m out of my head and not focusing on what I perceive as things I can’t do or can’t learn or don’t belong. The realization and comfort comes that I am on the right path, and that it can only be enhanced in the service of the community around me.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/reaffirming-our-values/&quot;&gt;Reaffirming Our Values&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 08, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[SQLite Injection - What could go wrong?]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/sqlite-injection-what-could-go-wrong/" />
+  <id>http://localhost:4000/sqlite-injection-what-could-go-wrong</id>
+  <updated>2014-06-13 17:05:54 -0700T00:00:00-00:00</updated>
+  <published>2014-06-06T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;As far as embedded databases go, SQLite is a popular choice. It’s a relational database management system that follows much of SQL standards. Since it needs no standalone processes, its library communicates and links with the server becoming an inherent component utilized by many web browsers. It’s ACID-compliant (Atomicity, Consistency, Isolation, Durability) and uses a dynamic yet weakly typed syntax. This is where things can begin to go wrong. That syntax doesn’t ensure the domain or database integrity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/syringes.jpg&quot; alt=&quot;Three Empty Syringes&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’ve become more accustomed to hearing about security breaches and compromised databases. We think we’re protected by our favorite online shopping site or social network but then we receive the dreaded notice of hacks and prompts to update our passwords. While not all compromises are generated out of SQLite, it’s unfortunately a relatively easy program to manipulate and thus a popular option for those seeking to attack.&lt;/p&gt;
+
+&lt;p&gt;The typical embedded database, such as those utilized by web applications, populate its data when we enter in the requested information such as our names, email addresses and passwords. While that’s what we typically do, that’s not what an attacker does. Rather than inputting say, an email address, they can enter or inject a relatively simple line of code. That could prompt the database to output all types of sensitive data or even corrupt and bring down the database all together.&lt;/p&gt;
+
+&lt;p&gt;So how do we guard from such attacks? As consumers, we of course remain diligent with updating our passwords and selecting two-step verification when available. From the programmers perspective, there are also steps that can be taken to guard against such compromises. Website entry forms and consumer end-points can be coded to not just accept what’s inputted. Rather, they can utilize input validation techniques such as expected input matching and authentication based on defined rules such as length, type and syntax. They can also be coded to parameterize query APIs with placeholder substitution markers. Finally, programmers and companies alike can utilizing encryption of the data. This way, regardless of  where the compromise generated, the stolen data would be less useful.&lt;/p&gt;
+
+&lt;h3 id=&quot;learn-more&quot;&gt;Learn More&lt;/h3&gt;
+
+&lt;p&gt;Database security is of course a big topic that needs constant attention and diligence. If you’re curious to learn more about SQL, SQLite and injection issues, check out these articles.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/SQLite&quot;&gt;Wikipedia - SQLite&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tutorialspoint.com/sqlite/sqlite_injection.htm&quot;&gt;Tutorialspoint - SQLite - Injection&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.codeproject.com/Articles/9378/SQL-Injection-Attacks-and-Some-Tips-on-How-to-Prev&quot;&gt;Code Project - SQL Injection Attacks and Some Tips on How to Prevent Them&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.programmerinterview.com/index.php/database-sql/sql-injection-example/&quot;&gt;ProgammerInterview.com - Provide an example of SQL Injection&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are many steps that can be taken by programmers to safeguard the applications they write. Being aware of, and taking measures to guard against malicious SQL injection attacks is one even new developers can utilize.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/sqlite-injection-what-could-go-wrong/&quot;&gt;SQLite Injection - What could go wrong?&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 06, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Examining &amp; Minimizing Stereotype Threat]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/examining-and-minimizing-stereotype-threat/" />
+  <id>http://localhost:4000/examining-and-minimizing-stereotype-threat</id>
+  <updated>2014-06-13 16:58:42 -0700T00:00:00-00:00</updated>
+  <published>2014-06-01T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;The theory of stereotype threat describes the possibility of (often unconsciously) experiencing anxiety that can lead to negative outcomes, when in situations where we believe we may confirm a stereotype about the groups we identify with. While it’s a common held belief today and well studied, it was first introduced in 1995 in the experiments conducted by Psychologists Dr. Claude Steele together with Dr. Joshua Aronson.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/wv.jpg&quot; alt=&quot;Whistling Vivaldi (Bookcover) - Claude Steele&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In short, their experiments examined the role of race in test scores of African-American college students compared to European-American students. They found, that when race was emphasized, the African-American students performed poorly. However, when race was deemphasized, the African-American students performed better or equal to their European-American counterparts. Many studies have been done since, replicating their findings as well as examining the performances of other groups including those based on race, sex, age, religion, sexual orientation and even socioeconomic and political affiliations.&lt;/p&gt;
+
+&lt;p&gt;As I discussed last week, there’s a diversity problem in tech. What role if any could stereotype threat play in that problem? When looked through a gender filter, perhaps it can began to explain why so few women work in tech or even pursue a STEM based education. The same could be said when looking through a race filter in examining low percentages of African-Americans and Hispanics in the technology sector.&lt;/p&gt;
+
+&lt;p&gt;I’m a relative newcomer to tech and just now beginning to explore an education and eventually a career path in that direction. Apart from being aware of the diversity problem in tech, I can’t say I have personally experienced it. That’s not to say I haven’t experienced stereotype threat elsewhere. As a gay man, I’ve experienced it. Not so much in academic settings but in professional and other social settings. I can remember presenting my work to colleagues and being hyper-aware of my sexuality and not wanting to align with stereotypes or being perceived as too feminine or too “gay.” I can remember having those same feelings even just walking down the street.&lt;/p&gt;
+
+&lt;p&gt;Societal norms have shifted a great deal in the last couple of decades, especially concerning the LGBT communities. Passing as straight, fitting in or aligning with traditional gender roles isn’t as big of an issue as it once was. The gains in overcoming stereotype threat have come from not only awareness but also visibility. That, I believe can be a tool in minimizing the threat in other areas as well. We can more easily refute the threat and overcome the anxiety when we can see and identify with a trans* actor on television or the female CEO transforming the tech industry or an African-American excelling in education going on to become President.&lt;/p&gt;
+
+&lt;h3 id=&quot;learn-more&quot;&gt;Learn More&lt;/h3&gt;
+
+&lt;p&gt;If you’d like to explore this topic more, there’s a wealth of information online including more studies, other remedies, and even counter-arguments. To start, consider the following resources.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.reducingstereotypethreat.org/definition.html&quot;&gt;ReducingStereotypeThreat.org - What is stereotype threat?&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.diversityinc.com/diversity-events/the-stereotype-threat-dr-claude-steele-mesmerizes-audience-video/&quot;&gt;DiversityInc - The Stereotype Threat to Workplace Diversity: Dr. Claude Steele Mesmerizes Audience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Stereotype_threat&quot;&gt;Wikipedia - Stereotype Threat&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Being aware of stereotype threat or at least being aware of the impact the groups we identify with can have on our outcomes is a worthy pursuit. It can help us when we’re in homogeneous situations and more importantly, when we’re not.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/examining-and-minimizing-stereotype-threat/&quot;&gt;Examining &amp; Minimizing Stereotype Threat&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 01, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[What are Blocks, Procs, and Lambdas?]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/what-are-blocks-procs-and-lambdas/" />
+  <id>http://localhost:4000/what-are-blocks-procs-and-lambdas</id>
+  <updated>2014-06-13 16:38:12 -0700T00:00:00-00:00</updated>
+  <published>2014-05-30T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;As we learn more about Ruby as a programming language, we get to explore the many ways in which we can interact with, alter and change objects. Three dynamic and useful tools towards that end are blocks, Procs and lambdas. Let’s learn a little about each and how we can utilize them in our code.&lt;/p&gt;
+
+&lt;h3 id=&quot;blocks&quot;&gt;Blocks&lt;/h3&gt;
+
+&lt;p&gt;You can think of blocks as useful little add-ons that interact with certain methods. They are especially useful when iterating using methods like #each or #times. They are also key to the success of methods like #collect and #select. Blocks can be built using either &lt;code&gt;do…end&lt;/code&gt; syntax or more commonly, the &lt;code&gt;{ }&lt;/code&gt; syntax.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;nums&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;doubled&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nums&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;collect&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+           &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
+         &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;evens&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nums&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;select&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;nb&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nums&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;# =&amp;gt; [1, 2, 3, 4, 5, 6, 7, 8, 9]&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;doubled&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;# =&amp;gt; [2, 4, 6, 8, 10, 12, 14, 16, 18]&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;evens&lt;/span&gt;    &lt;span class=&quot;c1&quot;&gt;# =&amp;gt; [2, 4, 6, 8]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;procs&quot;&gt;Procs&lt;/h3&gt;
+
+&lt;p&gt;In Ruby, almost everything is an object. One of the few exceptions to that rule are blocks. They aren’t objects and as such have a limited function. They aren’t embedded with all the powers and abilities of objects. Also, if you plan on using the same block more than once, you’ll need to retype it again and again. Here’s where Procs come in. Procs are objects and as such, can be used to convert our little blocks into more powerful objects that can be used over and over.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;ones&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;tens&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;twenties&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;odds&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Proc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!==&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;odd_ones&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ones&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;select&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;odds&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;odd_tens&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tens&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;select&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;odds&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;odd_twenties&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;twenties&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;select&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;odd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;nb&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;odd&lt;/span&gt;          &lt;span class=&quot;c1&quot;&gt;# =&amp;gt; [1, 2, 3, 4, 5, 6, 7, 8, 9]&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;odd_ones&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;# =&amp;gt; [1, 3, 5, 7, 9]&lt;/span&gt;
+
+&lt;span class=&quot;nb&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tens&lt;/span&gt;         &lt;span class=&quot;c1&quot;&gt;# =&amp;gt; [10, 11, 12, 13, 14, 15, 16, 17, 18, 19]&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;odd_tens&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;# =&amp;gt; [11, 13, 15, 17, 19]&lt;/span&gt;
+
+&lt;span class=&quot;nb&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;twenties&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;# =&amp;gt; [20, 21, 22, 23, 24, 25, 26, 27, 28, 29]&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;odd_twenties&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# =&amp;gt; [21, 23, 25, 27, 29]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;lambdas&quot;&gt;Lambdas&lt;/h3&gt;
+
+&lt;p&gt;Much like Procs, lambdas are also objects. They function very similarly to Procs and can sometimes be used interchangeably. They do have one distinct behavior difference that can have an impact on output. When used within a method, a lambda will execute and then pass control back to the calling method. A Proc on the other hand, when executed will do so immediately without going back to the calling method.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;who_has_power&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;proc_gets&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Proc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;I have the power!&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;proc_gets&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;call&lt;/span&gt;
+  &lt;span class=&quot;s2&quot;&gt;&amp;quot;I thought I had it.&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;now_who_has_power&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;lambda_gets&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;lambda&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;I think I have power.&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;lambda_gets&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;call&lt;/span&gt;
+  &lt;span class=&quot;s2&quot;&gt;&amp;quot;Nope, I have the power now!&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt; 
+
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;who_has_power&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;# =&amp;gt; I have the power!&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;now_who_has_power&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# =&amp;gt; Nope, I have the power now!&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;learn-more&quot;&gt;Learn More&lt;/h3&gt;
+
+&lt;p&gt;As you can see, blocks, Procs and lambdas are great tools to add to our Ruby toolbox. They can increase the scope and power of the methods and objects we build. If you want to learn more about them, check out these useful resources.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.codecademy.com/courses/ruby-beginner-en-L3ZCI/0/1?curriculum_id=5059f8619189a5000201fbcb&quot;&gt;Codecademy - Ruby Track - Blocks, Procs, and Lambdas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/ruby-on-rails-study-guide-blocks-procs-and-lambdas--net-29811&quot;&gt;Tuts+ Tutorial - Ruby on Rails Study Guide: Blocks, Procs, and Lambdas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rubymonk.com/learning/books/4-ruby-primer-ascent/chapters/18-blocks/lessons/64-blocks-procs-lambdas&quot;&gt;Rubymonk - Ruby Primer: Ascent - Blocks 0.4 - Blocks, Procs, and Lambdas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;They’re common elements of many methods and programs. Once you pick up the basic syntax you’ll be coding with blocks, Procs and lambdas too.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/what-are-blocks-procs-and-lambdas/&quot;&gt;What are Blocks, Procs, and Lambdas?&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 30, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The Diversity Problem in Tech]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/the-diversity-problem-in-tech/" />
+  <id>http://localhost:4000/the-diversity-problem-in-tech</id>
+  <updated>2014-06-13 16:13:18 -0700T00:00:00-00:00</updated>
+  <published>2014-05-25T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;When I think of Silicon Valley or the technology industry more broadly, I equate it with white, straight men. While the lack of diversity and broader representation isn’t a new issue, it’s one that can seem at conflict with what is often seen as tech’s ideals and transformative visions. Many tech company speak of building the future or creating new possibilities. However, they are often driven from a singular or at best, limited vision.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/hands.jpg&quot; alt=&quot;Multicultural Raised Hands&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course, this isn’t to paint the industry with broad strokes but it’s hard to dispute statistics that often put women’s representation in the low 20% range and even more dire for African Americans and Hispanics which are in the single digit percentages. That data isn’t the easies to come by either. It’s often not disclosed or buried in a deep lack of transparency. Many companies are actively seeking to diversify their ranks but it’s been a slow and often times difficult struggle. The causes are many, from education to recruiting, from cultural barriers to socioeconomic opportunities and so on. While it’s encouraging to see new focus and light being cast on the topic, often solutions become band-aids rather than cures for the ailment.&lt;/p&gt;
+
+&lt;p&gt;One new solution that has recently gained press is rooted in tech’s approach to other issues it has sought to fix. What if we could code a solution? Entelo, a software startup, is working with algorithms towards that end. It seeks to provide companies with candidates that match a variety of qualifying backgrounds, including race, sex, and military service by mining that information from the candidate’s social media presence. While this approach is still very new, I can’t help but think that yes, it could help diversify teams and fill quotas but how does it impact core issues.&lt;/p&gt;
+
+&lt;p&gt;Again, it’s encouraging to see companies actively seeking to diversify their teams and even companies like Entelo offering solutions. Only time will tell how much transformation and ground can be gained by minorities in the coming years. Meanwhile, I continue to be inspired by educational institutions like Dev Bootcamp and others, such as Hackbright Academy which seek to fill gaps in representation as well as seek to raise the conversation.&lt;/p&gt;
+
+&lt;h3 id=&quot;learn-more&quot;&gt;Learn More&lt;/h3&gt;
+
+&lt;p&gt;If you’re interested in learning more about this topic you only need to search for “problems facing the tech world” and you’ll be presented a wealth of information and opinion. In the meantime, check out these resources which helped inform me and this post.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://money.cnn.com/2013/03/17/technology/diversity-silicon-valley/&quot;&gt;CNN Money - Black, female, and a Silicon Valley ‘trade secret’&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fastcompany.com/3029444/the-ugly-truth-about-silicon-valleys-diversity-problem&quot;&gt;Fast Company - The Ugly Truth About Silicon Valley’s Diversity Problem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fastcompany.com/3029910/silicon-valley-turns-to-an-algorithm-to-fix-its-diversity-problem&quot;&gt;Fast Company - Silicon Valley Turns to an Algorithm to Fix Its Diversity Problem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sfgate.com/business/article/Coding-more-women-and-minorities-onto-tech-rosters-5428324.php&quot;&gt;SFGate - Coding more women and minorities onto tech rosters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There’s much to be done to diversify tech but with awareness and effort, strides can be made. Both companies and industry will be better for it.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/the-diversity-problem-in-tech/&quot;&gt;The Diversity Problem in Tech&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 25, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Register for Class]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/register-for-class/" />
+  <id>http://localhost:4000/register-for-class</id>
+  <updated>2014-06-13 15:50:13 -0700T00:00:00-00:00</updated>
+  <published>2014-05-23T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;As we’ve discussed in the past, Ruby is an object-oriented programming language. Almost everything in Ruby is an object. Those objects are what allow us to build and execute different programs. One of the ways Ruby organizes all of these objects is into classes. “Hello, World!” is a member of the String class. 7 is a member of the Fixnum class. Members of the same class will have similar attributes and methods they can access.&lt;/p&gt;
+
+&lt;p&gt;One of the cool things about Ruby is that we aren’t limited to the built in classes like Strings and Fixnum, we can create our own. Once we do, we can create objects that will be members of that class and will have access to the methods we specify. Check out this example.&lt;/p&gt;
+
+&lt;h3 id=&quot;class-example&quot;&gt;Class Example&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Students&lt;/span&gt;
+  &lt;span class=&quot;vc&quot;&gt;@@count&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;level&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;major&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;
+    &lt;span class=&quot;vi&quot;&gt;@level&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;level&lt;/span&gt;
+    &lt;span class=&quot;vi&quot;&gt;@major&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;major&lt;/span&gt;
+    &lt;span class=&quot;vc&quot;&gt;@@count&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;register&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;, registered for CS50 on &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;. They are a &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;level&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;s2&quot;&gt;          that is majoring in &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;major&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n\n&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;get_count&lt;/span&gt;
+    &lt;span class=&quot;vc&quot;&gt;@@count&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;william&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Student&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;William Ways&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Sophomore&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Economics&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;julie&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Student&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Julie Jones&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Junior&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Computer Science&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;william&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;register&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;May 4, 2014&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;julie&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;register&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;April 29, 2014&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Students&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;get_count&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt; students have registered for class.&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n\n&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Let’s break down what we’ve created starting from the top and work our way down. First, we created our &lt;code&gt;Students&lt;/code&gt; class. We then set a class variable (identified by the &lt;code&gt;@@&lt;/code&gt;) of count to zero. It’s a class variable in that the object &lt;code&gt;Students&lt;/code&gt; will be able to access it’s value. Next we defined our &lt;code&gt;initialize&lt;/code&gt; method. Think of this as the “boot up” method that every member of &lt;code&gt;Students&lt;/code&gt; will go through. Within it, we set instance variables (identified by the &lt;code&gt;@&lt;/code&gt;) equal to the values we enter for each member. We also incremented our class variable.&lt;/p&gt;
+
+&lt;p&gt;We then created a &lt;code&gt;register&lt;/code&gt; instance method that our members can call on once they join the class. In this case, the method will return a string or sentence. We went on to create a &lt;code&gt;get_count&lt;/code&gt; method that the &lt;code&gt;Students&lt;/code&gt; class can access but the individual members can not. This too is returning a string or sentence.&lt;/p&gt;
+
+&lt;p&gt;With our class &lt;code&gt;Students&lt;/code&gt; done, we now just have to instantiate or create each individual member. We did this by giving the member a variable which we associated with the building method and passed it three parameters. We then could call on our instance method using our instance members. Finally, we called on the class method to give us our class count. Here’s the output from the last three lines of our code.&lt;/p&gt;
+
+&lt;h3 id=&quot;code-output&quot;&gt;Code Output&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;William Ways, registered &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;CS50 on May 4, 2014. They are a Sophomore that is 
+majoring in Economics.
+
+Julie Jones, registered &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;CS50 on April 29, 2014. They are a Junior that is 
+majoring in Computer Science.
+
+2 students have registered &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;class.
+
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;Finished in 0.1s&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;learn-more&quot;&gt;Learn More&lt;/h3&gt;
+
+&lt;p&gt;This was just a simple introduction to classes. If you want to class it up even more, check out these resources and start building some Ruby objects of your own.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.codecademy.com/courses/ruby-beginner-en-MFiQ6/0/1?curriculum_id=5059f8619189a5000201fbcb&quot;&gt;Codecademy - Ruby Track - Object-Oriented Programming I&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/ruby-for-newbies-working-with-classes--net-15938&quot;&gt;Tuts+ Tutorial - Ruby for Newbies: Working with Classes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ruby-doc.org/core-2.1.1/Class.html&quot;&gt;Ruby Documentation - Core 2.1.1 - Class&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can start simple like we did in this lesson and once you have the knack you can create more complex objects. Remember, since almost everything in Ruby is an object, classes provide us a great tool to organize and utilize those objects.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/register-for-class/&quot;&gt;Register for Class&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 23, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Keeping Calm in a World of Conflict]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/keeping-calm-in-a-world-of-conflict/" />
+  <id>http://localhost:4000/keeping-calm-in-a-world-of-conflict</id>
+  <updated>2014-06-13 13:52:36 -0700T00:00:00-00:00</updated>
+  <published>2014-05-18T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Conflict is all around us. One person thinks this. Another company does that. You did this. I do that. When conflict does arise, how do you deal with it? More over, how did you feel after the conflict? Well, for most of us, when confronted with conflict we process through it and the subsequent shame in one of four ways. As described by the &lt;a href=&quot;http://southdown.on.ca/publications/articles/Compass-of-Shame.pdf&quot;&gt;Compass of Shame&lt;/a&gt;, we either go into withdrawal, attack self, avoidance or attack others.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/keep_calm.jpg&quot; alt=&quot;Keep Calm and Carry On&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let me share a personal example of conflict and what I’ve learned through hindsight. Early on in my career, I was working as a Sales Associate for a retail company. I was young but wanted to do well and advance. One day, a guest entered our store and inquired about a return. I offered to assist the gentleman. In going through the steps to complete his request, I discovered he didn’t possess an invoice for the item he wanted to return. I explained that the company policy required the original invoice and without it I wouldn’t be able to assist.&lt;/p&gt;
+
+&lt;p&gt;As you can imagine, this didn’t sit well with him and he quickly became angered and began berating me. In my head, I felt like I was doing the right thing. I was following my companies policies and procedures and ultimately it wasn’t my fault he didn’t retain his receipt. I soon began to feel inferior and seek ways to withdraw from the situation. It escalated to the point of him demanding to speak to my superior until he was able to get his way.&lt;/p&gt;
+
+&lt;p&gt;What I’ve learned about conflict and my reaction to it, especially after a situation like this, is two fold. In the immediate sense, while I was “right” in following policies, it left the guest promising never to shop with us again and it left me feeling beaten up. Things aren’t always, and in fact usually aren’t, black and white. You have to have flexibility to adapt, respond and ultimately be proactive in situations. In a bigger picture sense, I’ve also learned that conflict isn’t necessarily a good thing or a bad thing. It’s just something that is. Its our responses to it and what we decide its meaning that influence us.&lt;/p&gt;
+
+&lt;p&gt;I can’t control the actions of an upset guest but I can control whether I allow how he deals with conflict influence how I feel or deal with it. I can control whether to stay calm and deal with it or rather delve into shame and one of its outcomes. While it’s not always achievable, it’s definitely something I strive for. Perhaps the British of the late 1930’s, as they prepared to enter into World War II, had it best summarized. &lt;a href=&quot;http://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On&quot;&gt;“Keep Calm and Carry On”&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/keeping-calm-in-a-world-of-conflict/&quot;&gt;Keeping Calm in a World of Conflict&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 18, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Enumerable Groupie Say What?]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/enumerable-groupie-say-what/" />
+  <id>http://localhost:4000/enumerable-groupie-say-what</id>
+  <updated>2014-06-13 13:33:29 -0700T00:00:00-00:00</updated>
+  <published>2014-05-15T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Ruby is a dynamic programming language that offers many classes or modules for the programmer to utilize, such as String, Integer, Array, and Hash. One that is quickly becoming one of my go to favorites is the Enumerable module. It gives us some nifty methods in which we can traverse, search, sort and even alter elements within a collection class.&lt;/p&gt;
+
+&lt;p&gt;Today we’re going to learn about one of its methods, group_by, otherwise known as Enumberable#group_by. It’s a handy little guy that can power through an array or hash and group its elements. The method itself usually takes a block of code that tells it what exactly to group by. Its output is a new hash or collection with the keys you selected and values that match up to them. Perhaps it’s easier seen than said, let’s take a look at a few examples.&lt;/p&gt;
+
+&lt;h3 id=&quot;example-using-a-collection-of-numbers&quot;&gt;Example using a collection of numbers:&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;15&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_by&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;num&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# =&amp;gt; {1=&amp;gt;[1, 4, 7, 10, 13], 2=&amp;gt;[2, 5, 8, 11, 14], 3=&amp;gt;[3, 6, 9, 12, 15]}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;We took a group of numbers from 1 through 15 and called the group_by method. The block we passed to the method is telling it to loop through those numbers. It then grouped the numbers if they were divisible by 3. The method then created a hash with those groups. Numbers that were evenly divisible by 3 went to the :0 key, numbers with a remainder of 1 went to the :1 key, and finally numbers with a remainder of 2 went to the :2 key.&lt;/p&gt;
+
+&lt;h3 id=&quot;example-using-a-collection-of-strings&quot;&gt;Example using a collection of strings:&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;movies&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;The Love Bug&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Spiderman&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Godzilla&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Citizen Kane&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+          &lt;span class=&quot;s2&quot;&gt;&amp;quot;The War of the Worlds&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Casablanca&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Schindler&amp;#39;s List&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+          &lt;span class=&quot;s2&quot;&gt;&amp;quot;Goodfellas&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Toy Story&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;movies&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_by&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# =&amp;gt; {&amp;quot;T&amp;quot;=&amp;gt;[&amp;quot;The Love Bug&amp;quot;, &amp;quot;The War of the Worlds&amp;quot;, &amp;quot;Toy Story&amp;quot;],&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#     &amp;quot;S&amp;quot;=&amp;gt;[&amp;quot;Spiderman&amp;quot;, &amp;quot;Schindler&amp;#39;s List&amp;quot;], &amp;quot;G&amp;quot;=&amp;gt;[&amp;quot;Godzilla&amp;quot;, &amp;quot;Goodfellas&amp;quot;],&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#     &amp;quot;C&amp;quot;=&amp;gt;[&amp;quot;Citizen Kane&amp;quot;, &amp;quot;Casablanca&amp;quot;]}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;This time we created a collection of movie titles. We then called the group_by method on the movie array. The block we passed to the method is telling it to loop through the titles. It then grouped them by their first letter. The method then created a hash with those groups. The first letter of the titles became the keys and titles themselves, the values.&lt;/p&gt;
+
+&lt;h3 id=&quot;learn-more&quot;&gt;Learn More&lt;/h3&gt;
+
+&lt;p&gt;As you can see, it’s not hard understanding how useful group_by can be. If you’re looking to loop through collections and organize their elements, this method should be in your toolbox. If you want to learn more, explore these resources.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ruby-doc.org/core-2.1.1/Enumerable.html&quot;&gt;Ruby Documentation - Core 2.1.1 - Enumerable&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.globalnerdy.com/2008/08/31/enumerating-enumerable-enumerablegroup_by/&quot;&gt;Global Nerdy - Enumerating Enumerable: Enumerable#group_by&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Check them out and enjoy. Global Nerdy has a concise explanation of other enumerable methods if you’re interested. I was!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/enumerable-groupie-say-what/&quot;&gt;Enumerable Groupie Say What?&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 15, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Observations on Dev Bootcamp's Culture]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/observations-on-dev-bootcamps-culture/" />
+  <id>http://localhost:4000/observations-on-dev-bootcamps-culture</id>
+  <updated>2014-06-13 13:28:08 -0700T00:00:00-00:00</updated>
+  <published>2014-05-10T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;The curriculum that Dev Bootcamp has developed is broken down into phases. Phase 0 is nine weeks of remote learning followed by nine weeks of in-person learning encompassing Phase 1 - 3. I’m coming to the end of week three in the Phase 0 curriculum and have already learned a good amount, both in the technical sense but also in what I can expect from the Dev Bootcamp culture when I step foot into an actual classroom.&lt;/p&gt;
+
+&lt;h3 id=&quot;kitchen-or-table&quot;&gt;Kitchen or Table&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/chef.jpg&quot; alt=&quot;Chef in Kitchen&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This past week,  we watched a video entitled “Fireside Chat with Shereef.” In essence, it was a welcome Q&amp;amp;A chat hosted by, Shereef Bishay, one of the founders of Dev Bootcamp. In it, he shared the history and evolution of the program as well as shared his hopes for the new students to come. He also made an interesting distinction or analogy concerning the culture of the program which is largely shaped by each new cohort or group of students beginning their journey.&lt;/p&gt;
+
+&lt;p&gt;The analogy goes as follows. Most participants who enter the program come with one of two mindsets. Either they look to be a consumer or a creator. The consumer sits at the table and orders a product of the menu. They pay this in exchange for that. The creator on the other hand, enters the kitchen and seeks to make something. They ask, if I put this into the recipe, what can I get out in return. There was no judgement of either of the mindsets, and in fact many will fluctuate between both at different times. There was however, some distinction in the outcomes said mindsets could offer.&lt;/p&gt;
+
+&lt;p&gt;While the consumer/table is typical and in many ways natural in our culture, it can be safe and as such limiting. The creator/kitchen however, takes risk but offers potential rewards. I can walk into Dev Bootcamp or any situation for that matter and say “this doesn’t look as I expected” or “I want what I paid for.” Alternatively, I can walk into Dev Bootcamp and say “how can I contribute to the outcomes” or “what if by sharing I can enrich someone besides myself.”&lt;/p&gt;
+
+&lt;p&gt;I understand that curriculum, programs and companies change and evolve. I would expect nothing less, especially entering into a technology industry. A popular coding language today might be very different only one or two years from now. By moving beyond ordering a tool off the menu and rather looking at how I can contribute to the industry’s recipe, I become party to the outcome. I too am changing and evolving. Even in only three weeks, through online communities and groups, video chats, emails and messaging, we’ve started to build a dynamic new culture. I’m immensely excited for Phase 1 and meeting everyone in person and taking that culture to a whole new level.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/observations-on-dev-bootcamps-culture/&quot;&gt;Observations on Dev Bootcamp's Culture&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 10, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Giving JavaScript Some Love]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/giving-javascript-some-love/" />
+  <id>http://localhost:4000/giving-javascript-some-love</id>
+  <updated>2014-06-13 13:15:54 -0700T00:00:00-00:00</updated>
+  <published>2014-05-08T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;In my quest to become a web developer I’ve been exposed to a few different coding languages. While I’m sure I’ll be learning many more, so far I’ve become familiar with HTML, CSS, JavaScript and Ruby. What has struck me, is the ubiquitous nature of JavaScript. If your not familiar, JavaScript is a dynamic, mostly object-based programming language. In simple terms, that means that within the language, we can not only create objects but also manipulate them. JavaScript (JS for shorthand) is most often considered a scripting language that can run locally from a user’s web browser.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/js.jpg&quot; alt=&quot;JavaScript Logo&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’ve ever opened up your web browser and gone to your favorite site, you have in all likelihood, encountered JS running in the background. It’s what helps transform a static website into an interactive site. Log into a social media site…interactive. Log into a shopping site…interactive. Accessed your favorite site on your mobile device…more than likely, interactive.&lt;/p&gt;
+
+&lt;p&gt;Developed in the mid-1990’s, JS spent its early years not feeling much love as it was seen as a tool for beginners and people writing for the web rather than a true programming language used to build the back-end side of advanced software programs. By the early-2000’s however, it was picking up attention and praise. And now, in the last few years, JS has become one of the most ubiquitous and popular languages on the web.&lt;/p&gt;
+
+&lt;p&gt;This progression make sense, especially when you consider how we as a society have evolved and embraced the web into many aspects of our daily lives. The addition of mobile devices has served to intensify this growth and popularity. We no longer want to just look at a website, we want to interact with it and have it respond to us, making for the perfect marriage between HTML and JS.&lt;/p&gt;
+
+&lt;h3 id=&quot;learn-more&quot;&gt;Learn More&lt;/h3&gt;
+
+&lt;p&gt;While this has shown just a quick bit of love to JavaScript, these resources have been beneficial in my understanding.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.codecademy.com/tracks/javascript&quot;&gt;JavaScript Track - Codecademy - Learn how to make your websites interactive and how to build browser based games.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.w3schools.com/js/DEFAULT.asp&quot;&gt;JavaScript Tutorial - w3schools.com - JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/JavaScript&quot;&gt;JavaScript - Wikipedia, the free encyclopedia&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If interested, check them out and learn more about this programming language that you likely utilize everyday on the web, without even knowing about it.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/giving-javascript-some-love/&quot;&gt;Giving JavaScript Some Love&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 08, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[CSS Elements - Block, Inline & Inline-block]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/css-elements-block-inline-&-inline-block/" />
+  <id>http://localhost:4000/css-elements-block-inline-&-inline-block</id>
+  <updated>2014-06-13 12:31:25 -0700T00:00:00-00:00</updated>
+  <published>2014-05-04T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;So you’ve been getting to know a little about CSS. Perhaps you’ve learned that your HTML is built using tags which create elements. For example, you might have seen &lt;code&gt;header&lt;/code&gt;, &lt;code&gt;nav&lt;/code&gt;, &lt;code&gt;div&lt;/code&gt; and &lt;code&gt;p&lt;/code&gt;. You can style those elements in CSS with all kinds of fun modifications. Before you jump in to far however, you should know a little about how those elements display by default and how you can modify them.&lt;/p&gt;
+
+&lt;h3 id=&quot;block&quot;&gt;Block&lt;/h3&gt;
+
+&lt;p&gt;By default, many of the more common elements will display as blocks. Basically, that means they will take up the entire width of the area they’re in. For example, a &lt;code&gt;p&lt;/code&gt; which is a paragraph element will fill a column entirely with its text. Let’s have a look.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;section&amp;gt;&lt;/span&gt;
+		&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet, consectetuer elit, sed diam. Dolore 
+		magna erat volutpat. Ullamcorper suscipit lobortis nisl ut aliquip 
+		ex ea commodo conseqat.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;/section&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;section&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;3em&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;auto&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;40&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;border&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;2px&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;solid&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;navy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;orange&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/block.png&quot; alt=&quot;Result&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve added a bit of styling to create our section border. As for the paragraph, I’ve only added some back ground color. You can see the &lt;code&gt;p&lt;/code&gt; element fills the entire space.&lt;/p&gt;
+
+&lt;h3 id=&quot;inline&quot;&gt;Inline&lt;/h3&gt;
+
+&lt;p&gt;Now let’s look at inline. While &lt;code&gt;p&lt;/code&gt; had a default display of block, tags such as &lt;code&gt;em&lt;/code&gt; and &lt;code&gt;strong&lt;/code&gt; have default display of inline. Basically, they display that element inline with its surroundings but they are contained by their surrounds dimensions. Let’s take a look.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;section&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet, consectetuer elit, sed diam. Dolore 
+    magna erat volutpat. Ullamcorper suscipit &lt;span class=&quot;nt&quot;&gt;&amp;lt;strong&amp;gt;&lt;/span&gt;lobortis&lt;span class=&quot;nt&quot;&gt;&amp;lt;/strong&amp;gt;&lt;/span&gt; 
+    nisl ut aliquip ex ea commodo conseqat.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/section&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;strong&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;yellow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/inline.png&quot; alt=&quot;Result&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A &lt;code&gt;strong&lt;/code&gt; tag is quick way to bold a particular element. I again added only some background color to this element. You can see it is within or inline with its surrounds with our changing its dimensions.&lt;/p&gt;
+
+&lt;h3 id=&quot;inline-block&quot;&gt;Inline-block&lt;/h3&gt;
+
+&lt;p&gt;What about inline-block. Well this allows us to create a new block element. This time however, while it continues to be within or inline with its surroundings, we can adjust its dimensions. Let’s take a look.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;strong&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;yellow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;inline&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;block&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;text-align&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;center&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;6em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;3em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/inline_block.png&quot; alt=&quot;Result&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By adding changing the display value of the strong element to inline-block, we created a whole new block that we were able to scale. While I used text and &lt;code&gt;strong&lt;/code&gt; to walk through these examples, perhaps a more common and useful use of inline-block is with &lt;code&gt;img&lt;/code&gt; elements. This allows you to add images within the context of it surrounding text without filling the entire width of the section.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/css-elements-block-inline-&-inline-block/&quot;&gt;CSS Elements - Block, Inline & Inline-block&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 04, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Index Makeover]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/index-makeover/" />
+  <id>http://localhost:4000/index-makeover</id>
+  <updated>2014-06-13 19:00:13 -0700T00:00:00-00:00</updated>
+  <published>2014-05-03T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;h3 id=&quot;my-website-20&quot;&gt;My Website 2.0&lt;/h3&gt;
+
+&lt;p&gt;This week we are working to makeover our index.html page or rather our homepage for the site we are building. There are a few things I want to consider as I proceed with this challenge. First, I plan on cleaning or streaming lining the overall look of the site. Previously, I felt it was a bit busy. Second, I want to make a clearer presentation of navigation choices. I think to achieve this, I’ll break the menu into two section, one for general navigation and social media then another section for blog posts and projects.&lt;/p&gt;
+
+&lt;p&gt;In order to complete this challenge, I’ll be working in steps. I need to establish a wireframe or blue print for how I would like the site to look.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/index_wireframe.png&quot; alt=&quot;Index Wireframe&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then I’ll have to jump into the actual coding of the HTML and CSS files. Finally, I’ll commit and sync all my changes through Github which is hosting my site.&lt;/p&gt;
+
+&lt;div xmlns:cc=&quot;http://creativecommons.org/ns#&quot; xmlns:dct=&quot;http://purl.org/dc/terms/&quot; about=&quot;http://subtlepatterns.com&quot; class=&quot;notice&quot;&gt;Background images from &lt;span property=&quot;dct:title&quot;&gt;Subtle Patterns&lt;/span&gt; (&lt;a rel=&quot;cc:attributionURL&quot; property=&quot;cc:attributionName&quot; href=&quot;http://subtlepatterns.com&quot;&gt;Subtle Patterns&lt;/a&gt;) / &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC BY-SA 3.0&lt;/a&gt;&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/index-makeover/&quot;&gt;Index Makeover&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 03, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Comparing Websites]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/comparing-websites/" />
+  <id>http://localhost:4000/comparing-websites</id>
+  <updated>2014-06-13 12:13:25 -0700T00:00:00-00:00</updated>
+  <published>2014-04-27T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Let’s look at three different websites. I’m going to discuss a bit about each and give my thoughts. First, I’ll explain why I’m focusing on this particular website. Additionally I’ll be considering the purpose of the site. Next, what do I think of the design and its visual impact. I’ll also share my perspective on the site’s content and layout. Finally, I’ll let you in on my connection or feelings about the particular site. Let’s jump in.&lt;/p&gt;
+
+&lt;h3 id=&quot;drbronnercomhttpswwwdrbronnercom&quot;&gt;&lt;a href=&quot;https://www.drbronner.com/&quot;&gt;drbronner.com&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;I’m a fan of Dr. Bronner’s both for their products and for their company philosophies. Their website is primarily for commerce with a secondary purpose of educating its consumers. From a design perspective, I find the website clean and simple. Adjectives I would also equate to its product. I find the site to be vibrant, impactful and appealing. Build upon a white and light grey backdrop, it adds statement photographs to draw you in. As for layout, the site is functional and easy to navigate. The homepage’s large body image provides a call to action while below are five additional topics to consider. Overall, I enjoy exploring the site. It makes me proud of the product the company provides while also leaving me more informed and better educated.&lt;/p&gt;
+
+&lt;h3 id=&quot;fivethirtyeightcomhttpfivethirtyeightcom&quot;&gt;&lt;a href=&quot;http://fivethirtyeight.com/&quot;&gt;fivethirtyeight.com&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;This site is a relatively new addition to the crowded pool of online news outlets. Its primary purpose is to inform its users from a data driven perspective. What I like about this site is how it goes about that and how it sets its self apart from other outlets. I find the site’s design to be straight forward and uncomplicated. It makes impactful use of color in its menus and article pages while remaining uncluttered and tasteful. The content of the site is purposeful and engaging, with the end user in mind. The colored menus established on the homepage translate throughout the site for ease and relatability. While I wasn’t drawn to the site for its sports articles as most are, I find I’ve come to appreciate its other features including often ingenious uses of charts and graphs.&lt;/p&gt;
+
+&lt;h3 id=&quot;fancycomhttpfancycom&quot;&gt;&lt;a href=&quot;http://fancy.com/&quot;&gt;fancy.com&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;I’ve been a fancy fan for a few years. I checkout the site more as a window shopper rather than an actual shopper. That might not align with the sites purpose of commerce but I enjoy it none the less. To imagine the site’s design, think curated shopping. Built on a clean and cool background, the product’s images are elegant and ordered. The square detailed images on the homepage give a gallery impression. Only a small amount of informational text is added until you click through to learn more. The layout is customizable within limits to ensure its refined nature remains intact. It’s approachable but can become more complicated as social aspects and purchasing began to tie in. I’ve yet to buy from the site but I am charmed and inspired by its presentation and unique products.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/comparing-websites/&quot;&gt;Comparing Websites&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on April 27, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A Reflection of Values]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/a-reflection-of-values/" />
+  <id>http://localhost:4000/a-reflection-of-values</id>
+  <updated>2014-06-13 11:36:49 -0700T00:00:00-00:00</updated>
+  <published>2014-04-26T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;When I think about the times in my life that I’ve been the proudest, happiest or most satisfied, the value that comes to mind is Public Service or Service more generally.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/values.png&quot; alt=&quot;Values&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I can remember back to my years after college. It was during this phase that I participated in the &lt;a href=&quot;http://www.upwithpeople.org&quot;&gt;Up with People&lt;/a&gt; organization. I was originally drawn to the program for its performance aspects. While I do have fond memories of that, it was the service aspects that changed me the most. A large component of the program was that in each town or city we performed in, the cast participated in some sort of community project. Whether I was painting a mural, teaching inner city elementary students or visiting the often forgotten in a nursing home, the goal was the same, being of service.&lt;/p&gt;
+
+&lt;p&gt;Even more recently in professional life as a Manager. When I think about being a leader to my team, it was through my service to them that I achieved the most success. In identifying their needs and goals, I was able to establish a path where I could help them reach those things to the benefit of all parties. Whether I was helping a front line employee master their customer service skills, creating a cooperative environment for my team to reach our monthly goals or supporting a team member that was hungry for a promotion to obtain the skills necessary to land that promotion, the goal was the same, being of service.&lt;/p&gt;
+
+&lt;p&gt;When I think about the times in my life that I’ve been the proudest, happiest or most satisfied, it has been when I was at service to others. I’d like to say that in general, I always try to live up to that value. Truth be told, I can just as easily think of times when I’ve subverted that value for monetary gain, status or just because I perceived it easier not to. Those are also the times in my life that I’ve not been the proudest, happiest or even slightly satisfied. In those times the goal was self service.&lt;/p&gt;
+
+&lt;p&gt;Now as I look to start a new chapter in my life, both personally and professionally, I call upon that value. Whether it’s a peer asking for help on debugging their code or working through a challenge, a friend calling to ask about career advice or a former colleague seeking guidance in dealing with a new supervisor, the goal will be the same, being of service.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/a-reflection-of-values/&quot;&gt;A Reflection of Values&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on April 26, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Wireframing 3 Favorite Sites]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/wireframing-3-favorite-sites/" />
+  <id>http://localhost:4000/wireframing-3-favorite-sites</id>
+  <updated>2014-06-13 19:04:31 -0700T00:00:00-00:00</updated>
+  <published>2014-04-24T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email>ehsalazar75@gmail.com</email>
+  </author>
+  <content type="html">&lt;h3 id=&quot;drbronnerscomhttpswwwdrbronnercom&quot;&gt;&lt;a href=&quot;https://www.drbronner.com/&quot;&gt;drbronners.com&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;The website is geared toward commerce. The problem that the homepage is solving is providing a means for consumers to purchase its product. It also has a strong secondary purpose, to educate and inform consumers around its business practices and company philosophies. I believe one of its visual challenges is to convey excitement and interest around what is basically just soap. This is achieved through a colorful and impactful image in its main content area that is surrounded by what is otherwise a clean white environment.&lt;/p&gt;
+
+&lt;h4 id=&quot;website-screenshot&quot;&gt;Website Screenshot&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/drbronners.png&quot; alt=&quot;Website&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;wireframe-screenshot&quot;&gt;Wireframe Screenshot&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/drbronners_wireframe.png&quot; alt=&quot;Wireframe&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;fivethirtyeightcomhttpfivethirtyeightcom&quot;&gt;&lt;a href=&quot;http://fivethirtyeight.com/&quot;&gt;fivethirtyeight.com&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;The website is a news outlet. The problem that the homepage is solving is providing a data driven source of information to its readers. As a relatively new news source it is also providing branding and engagement around its content providers. One of its visual challenges is to be different in a crowded news outlet arena while maintaining its roots in data driven reporting. The site makes frequent use of charts and graphs and perhaps takes its visual design clues from such. The layout is clean and relatively flat with limited use of color added for impact. Photographs and images are used to introduce stories rather than telling them.&lt;/p&gt;
+
+&lt;h4 id=&quot;website-screenshot-1&quot;&gt;Website Screenshot&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/fivethirtyeight.png&quot; alt=&quot;Website&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;wireframe-screenshot-1&quot;&gt;Wireframe Screenshot&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/fivethirtyeight_wireframe.png&quot; alt=&quot;Wireframe&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;fancycomhttpfancycom&quot;&gt;&lt;a href=&quot;http://fancy.com/&quot;&gt;fancy.com&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;The website is geared to commerce. The problem that the homepage is solving is providing a means for, and directing consumers to curated products. Its visual challenges are displaying goods for purchase while engaging its consumers to socialize and build collections. The site is presented as a stark environment where the images of goods for sale garner all the attention. The user can build their own collections for display as well as control how the images are displayed. This gallery or museum setting goes toward solving its visual challenge while maintaining its curated quality.&lt;/p&gt;
+
+&lt;h4 id=&quot;website-screenshot-2&quot;&gt;Website Screenshot&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/fancy.png&quot; alt=&quot;Website&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;wireframe-screenshot-2&quot;&gt;Wireframe Screenshot&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/fancy_wireframe.png&quot; alt=&quot;Wireframe&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/wireframing-3-favorite-sites/&quot;&gt;Wireframing 3 Favorite Sites&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on April 24, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>
