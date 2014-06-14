@@ -1,118 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://localhost:4000</loc>
+        <loc></loc>
     </url>
     
     
     <url>
-        <loc>http://localhost:4000/404.html</loc>
+        <loc>/404.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/about/</loc>
+        <loc>/about/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/feed.xml</loc>
+        <loc>/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/index.html</loc>
+        <loc>/index.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/posts/</loc>
+        <loc>/posts/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/projects/</loc>
+        <loc>/projects/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/sitemap.xml</loc>
+        <loc>/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/tags/</loc>
+        <loc>/tags/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/page2/index.html</loc>
+        <loc>/page2/index.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/page3/index.html</loc>
+        <loc>/page3/index.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/page4/index.html</loc>
+        <loc>/page4/index.html</loc>
     </url>
     
 
     
     <url>
-        <loc>http://localhost:4000/complete-site-makeover/</loc>
+        <loc>/complete-site-makeover/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/reaffirming-our-values/</loc>
+        <loc>/reaffirming-our-values/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/sqlite-injection-what-could-go-wrong/</loc>
+        <loc>/sqlite-injection-what-could-go-wrong/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/examining-and-minimizing-stereotype-threat/</loc>
+        <loc>/examining-and-minimizing-stereotype-threat/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/what-are-blocks-procs-and-lambdas/</loc>
+        <loc>/what-are-blocks-procs-and-lambdas/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/the-diversity-problem-in-tech/</loc>
+        <loc>/the-diversity-problem-in-tech/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/register-for-class/</loc>
+        <loc>/register-for-class/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/keeping-calm-in-a-world-of-conflict/</loc>
+        <loc>/keeping-calm-in-a-world-of-conflict/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/enumerable-groupie-say-what/</loc>
+        <loc>/enumerable-groupie-say-what/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/observations-on-dev-bootcamps-culture/</loc>
+        <loc>/observations-on-dev-bootcamps-culture/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/giving-javascript-some-love/</loc>
+        <loc>/giving-javascript-some-love/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/css-elements-block-inline-&-inline-block/</loc>
+        <loc>/css-elements-block-inline-&-inline-block/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/index-makeover/</loc>
+        <loc>/index-makeover/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/comparing-websites/</loc>
+        <loc>/comparing-websites/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/a-reflection-of-values/</loc>
+        <loc>/a-reflection-of-values/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/wireframing-3-favorite-sites/</loc>
+        <loc>/wireframing-3-favorite-sites/</loc>
     </url>
     
 </urlset>
