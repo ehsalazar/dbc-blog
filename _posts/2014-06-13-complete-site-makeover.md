@@ -8,7 +8,7 @@ image:
   feature: 
   credit: 
   creditlink:
-  thumb: oldsite.png 
+  thumb: 
 comments: true
 share: true
 ---
