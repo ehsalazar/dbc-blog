@@ -11,7 +11,7 @@ comments: true
 share: true
 ---
 
-A few weeks back we looked at a [value reflection](http://ehsalazar.github.io). In it, I examined a particular value that has had some significance to my life and expounded on its impact. The value in question, was that of public service or being of service to others. I’ve always found joy as well as opportunities to learn when I’ve embraced that value. As I’ve experienced in the last few weeks, that same value can also hold keys to mitigating something we talked about last week, [stereotype threat](http://ehsalazar.github.io).
+A few weeks back we looked at a [value reflection](http://ehsalazar.github.io//a-reflection-of-values/). In it, I examined a particular value that has had some significance to my life and expounded on its impact. The value in question, was that of public service or being of service to others. I’ve always found joy as well as opportunities to learn when I’ve embraced that value. As I’ve experienced in the last few weeks, that same value can also hold keys to mitigating something we talked about last week, [stereotype threat](http://ehsalazar.github.io//examining-and-minimizing-stereotype-threat/).
 
 ### A Public Service Announcement
 
