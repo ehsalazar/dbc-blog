@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /complete-site-makeover/
-title: "Complete Site Makeover"
+title: "Complete Site Makeover - My Website 3.0"
 modified: 2014-06-13 19:08:03 -0700
 tags: [technical, websites, jekyll, design, week 8, phase 0]
 image:
@@ -13,7 +13,6 @@ comments: true
 share: true
 ---
 
-### My Website 3.0
 
 I've learned an amazing amount of technical knowledge over the course of the last eight weeks. When I began DBC's Phase 0, I only had a shallow understanding of HTML and CSS, let alone git, JavaScript, and Ruby. Now, as this phase comes to a close and I’ll soon be immersed in Phase 1, I wanted to update my site to be more functional, easier to manage and overall, more professional. 
 
