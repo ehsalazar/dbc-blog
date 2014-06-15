@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Riding the Rails"
+description: "An introduction to Ruby on Rails from a newbs perspective"
 modified: 2014-06-15 12:39:16 -0700
 tags: [technical, ruby, rails, week 8, phase 0]
 image:
   feature: 
   credit: 
   creditlink: 
+  thumb: rails.jpg
 comments: true
 share: true
 ---
