@@ -1,16 +1,16 @@
 title:            eh(SALAZAR)
-description:      Part technical blog - Part cultural blog.
+description:      One part technical to one part cultural. Add a splash of design and serve chilled. 
 disqus_shortname: ehsalazar
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://ehsalazar.github.io
+url:              http://ehsalazar.com
 
 # Owner/author information
 owner:
   name:           Ernie Salazar
   avatar:         avatar.jpeg
-  bio:            "A web developer in the making!"
+  bio:            "A web developer in the making! Join me on my journey"
   email:          ehsalazar75@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        ehsalazar
