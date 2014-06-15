@@ -1,118 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc></loc>
+        <loc>http://ehsalazar.com</loc>
     </url>
     
     
     <url>
-        <loc>/404.html</loc>
+        <loc>http://ehsalazar.com/404.html</loc>
     </url>
     
     <url>
-        <loc>/about/</loc>
+        <loc>http://ehsalazar.com/about/</loc>
     </url>
     
     <url>
-        <loc>/feed.xml</loc>
+        <loc>http://ehsalazar.com/feed.xml</loc>
     </url>
     
     <url>
-        <loc>/index.html</loc>
+        <loc>http://ehsalazar.com/index.html</loc>
     </url>
     
     <url>
-        <loc>/posts/</loc>
+        <loc>http://ehsalazar.com/posts/</loc>
     </url>
     
     <url>
-        <loc>/projects/</loc>
+        <loc>http://ehsalazar.com/projects/</loc>
     </url>
     
     <url>
-        <loc>/sitemap.xml</loc>
+        <loc>http://ehsalazar.com/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>/tags/</loc>
+        <loc>http://ehsalazar.com/tags/</loc>
     </url>
     
     <url>
-        <loc>/page2/index.html</loc>
+        <loc>http://ehsalazar.com/page2/index.html</loc>
     </url>
     
     <url>
-        <loc>/page3/index.html</loc>
+        <loc>http://ehsalazar.com/page3/index.html</loc>
     </url>
     
     <url>
-        <loc>/page4/index.html</loc>
+        <loc>http://ehsalazar.com/page4/index.html</loc>
     </url>
     
 
     
     <url>
-        <loc>/complete-site-makeover/</loc>
+        <loc>http://ehsalazar.com/riding-the-rails/</loc>
     </url>
     
     <url>
-        <loc>/reaffirming-our-values/</loc>
+        <loc>http://ehsalazar.com/complete-site-makeover/</loc>
     </url>
     
     <url>
-        <loc>/sqlite-injection-what-could-go-wrong/</loc>
+        <loc>http://ehsalazar.com/reaffirming-our-values/</loc>
     </url>
     
     <url>
-        <loc>/examining-and-minimizing-stereotype-threat/</loc>
+        <loc>http://ehsalazar.com/sqlite-injection-what-could-go-wrong/</loc>
     </url>
     
     <url>
-        <loc>/what-are-blocks-procs-and-lambdas/</loc>
+        <loc>http://ehsalazar.com/examining-and-minimizing-stereotype-threat/</loc>
     </url>
     
     <url>
-        <loc>/the-diversity-problem-in-tech/</loc>
+        <loc>http://ehsalazar.com/what-are-blocks-procs-and-lambdas/</loc>
     </url>
     
     <url>
-        <loc>/register-for-class/</loc>
+        <loc>http://ehsalazar.com/the-diversity-problem-in-tech/</loc>
     </url>
     
     <url>
-        <loc>/keeping-calm-in-a-world-of-conflict/</loc>
+        <loc>http://ehsalazar.com/register-for-class/</loc>
     </url>
     
     <url>
-        <loc>/enumerable-groupie-say-what/</loc>
+        <loc>http://ehsalazar.com/keeping-calm-in-a-world-of-conflict/</loc>
     </url>
     
     <url>
-        <loc>/observations-on-dev-bootcamps-culture/</loc>
+        <loc>http://ehsalazar.com/enumerable-groupie-say-what/</loc>
     </url>
     
     <url>
-        <loc>/giving-javascript-some-love/</loc>
+        <loc>http://ehsalazar.com/observations-on-dev-bootcamps-culture/</loc>
     </url>
     
     <url>
-        <loc>/css-elements-block-inline-&-inline-block/</loc>
+        <loc>http://ehsalazar.com/giving-javascript-some-love/</loc>
     </url>
     
     <url>
-        <loc>/index-makeover/</loc>
+        <loc>http://ehsalazar.com/css-elements-block-inline-&-inline-block/</loc>
     </url>
     
     <url>
-        <loc>/comparing-websites/</loc>
+        <loc>http://ehsalazar.com/index-makeover/</loc>
     </url>
     
     <url>
-        <loc>/a-reflection-of-values/</loc>
+        <loc>http://ehsalazar.com/comparing-websites/</loc>
     </url>
     
     <url>
-        <loc>/wireframing-3-favorite-sites/</loc>
+        <loc>http://ehsalazar.com/a-reflection-of-values/</loc>
+    </url>
+    
+    <url>
+        <loc>http://ehsalazar.com/wireframing-3-favorite-sites/</loc>
     </url>
     
 </urlset>
