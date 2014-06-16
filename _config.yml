@@ -22,7 +22,7 @@ owner:
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   +ErnieSalazar
+  google_plus:   http://google.com/+ErnieSalazar?rel=author
 
 # Background image to be tiled on all pages
 background: noisy.png

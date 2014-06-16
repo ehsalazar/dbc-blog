@@ -2,27 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">eh(SALAZAR)</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2014-06-16T13:10:50-07:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://www.ehsalazar.com/feed.xml" />
+<link rel="alternate" type="text/html" href="http://www.ehsalazar.com" />
+<updated>2014-06-16T14:07:07-07:00</updated>
+<id>http://www.ehsalazar.com/</id>
 <author>
   <name>Ernie Salazar</name>
-  <uri>/</uri>
+  <uri>http://www.ehsalazar.com/</uri>
   <email></email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Caring is Pairing]]></title>
- <link rel="alternate" type="text/html" href="/caring-is-pairing/" />
-  <id>/caring-is-pairing</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/caring-is-pairing/" />
+  <id>http://www.ehsalazar.com/caring-is-pairing</id>
   <updated>2014-06-15 20:51:05 -0700T00:00:00-00:00</updated>
   <published>2014-06-15T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;One of the primary take aways of my experience at &lt;a href=&quot;http://devbootcamp.com/&quot;&gt;Dev Bootcamp&lt;/a&gt; so far, has been based around &lt;a href=&quot;http://en.wikipedia.org/wiki/Pair_programming&quot;&gt;pair programming&lt;/a&gt;. It’s a means which allows, usually two programmers to work cooperatively seeking solutions and completing projects. It’s so vital to our success that we’re encouraged to pair often and even have minimum pairing session quotas to meet. It’s a great tool in our educational growth but also a common practice in many of today’s tech companies.&lt;/p&gt;
@@ -41,25 +41,25 @@
 
 &lt;p&gt;While the concept or stereotype of a computer programmer is often that of a solitary person plugging away at their own computer, the reality is often much different. Cooperative and team based work environments have become the norm within the tech industry. Whether it’s a startup company or large enterprise, working with others is key. While it’s often said that “pairing is caring,” I prefer to flip that script. Caring is pairing; if I care at all about succeeding in this industry, it will be realized through pairing and working with others.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/caring-is-pairing/&quot;&gt;Caring is Pairing&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 15, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/caring-is-pairing/&quot;&gt;Caring is Pairing&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 15, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Riding the Rails]]></title>
- <link rel="alternate" type="text/html" href="/riding-the-rails/" />
-  <id>/riding-the-rails</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/riding-the-rails/" />
+  <id>http://www.ehsalazar.com/riding-the-rails</id>
   <updated>2014-06-15 12:39:16 -0700T00:00:00-00:00</updated>
   <published>2014-06-14T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;We’ve talked some over the last few weeks about Ruby, a dynamic object-oriented programming language, and some of the ways it can be used. One of the more common applications is to pair it with Rails, a productive web-application framework. The combination of the two creates Ruby on Rails, more commonly known as Rails.&lt;/p&gt;
 
-&lt;!-- &lt;figure&gt;&lt;img src=&quot;../images/rails.jpg&quot; alt=&quot;Close-up of train tracks&quot; width=&quot;100%&quot;&gt;&lt;/figure&gt; --&gt;
+&lt;figure&gt;&lt;img src=&quot;../images/rails.jpg&quot; alt=&quot;Close-up of train tracks&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;So what exactly is Rails? It was written in Ruby by Danish programmer &lt;a href=&quot;http://en.wikipedia.org/wiki/David_Heinemeier_Hansson&quot;&gt;David Heinemeier Hansson&lt;/a&gt;. It was developed out of his work on Basecamp, a project management tool which was being built by 37signals. It was released as open source in 2004 and achieved a milestone in late 2006 when Apple announced that it would ship Ruby on Rails with its next operating system release, Mac  OS X v10.5 “Leopard.” Since then, Rails has continued to gain momentum and popularity and has released its latest version, Rails 4.1, just this past April. &lt;/p&gt;
 
@@ -89,20 +89,20 @@
 
 &lt;p&gt;As I dive deeper into my work with Ruby and databases, I’m sure Rails, with all of its features, will be a key component.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/riding-the-rails/&quot;&gt;Riding the Rails&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 14, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/riding-the-rails/&quot;&gt;Riding the Rails&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 14, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Complete Site Makeover]]></title>
- <link rel="alternate" type="text/html" href="/complete-site-makeover/" />
-  <id>/complete-site-makeover</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/complete-site-makeover/" />
+  <id>http://www.ehsalazar.com/complete-site-makeover</id>
   <updated>2014-06-13 19:08:03 -0700T00:00:00-00:00</updated>
   <published>2014-06-13T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;I’ve learned an amazing amount of technical knowledge over the course of the last eight weeks. When I began DBC’s Phase 0, I only had a shallow understanding of HTML and CSS, let alone git, JavaScript, and Ruby. Now, as this phase comes to a close and I’ll soon be immersed in Phase 1, I wanted to update my site to be more functional, easier to manage and overall, more professional. &lt;/p&gt;
@@ -135,20 +135,20 @@
 
 &lt;p&gt;In the meantime, explore my new setup and feel free to share your thoughts and feedback. Thanks! &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/complete-site-makeover/&quot;&gt;Complete Site Makeover&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 13, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/complete-site-makeover/&quot;&gt;Complete Site Makeover&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 13, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Reaffirming Our Values]]></title>
- <link rel="alternate" type="text/html" href="/reaffirming-our-values/" />
-  <id>/reaffirming-our-values</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/reaffirming-our-values/" />
+  <id>http://www.ehsalazar.com/reaffirming-our-values</id>
   <updated>2014-06-13 17:13:27 -0700T00:00:00-00:00</updated>
   <published>2014-06-08T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;A few weeks back we looked at a &lt;a href=&quot;http://ehsalazar.github.io//a-reflection-of-values/&quot;&gt;value reflection&lt;/a&gt;. In it, I examined a particular value that has had some significance to my life and expounded on its impact. The value in question, was that of public service or being of service to others. I’ve always found joy as well as opportunities to learn when I’ve embraced that value. As I’ve experienced in the last few weeks, that same value can also hold keys to mitigating something we talked about last week, &lt;a href=&quot;http://ehsalazar.github.io//examining-and-minimizing-stereotype-threat/&quot;&gt;stereotype threat&lt;/a&gt;.&lt;/p&gt;
@@ -167,20 +167,20 @@
 
 &lt;p&gt;Whether it’s a simple example of pair programming or finding some other opportunity to be of service to someone else, the experience is the same. I’m out of my head and not focusing on what I perceive as things I can’t do or can’t learn or don’t belong. The realization and comfort comes that I am on the right path, and that it can only be enhanced in the service of the community around me.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/reaffirming-our-values/&quot;&gt;Reaffirming Our Values&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 08, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/reaffirming-our-values/&quot;&gt;Reaffirming Our Values&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 08, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[SQLite Injection - What could go wrong?]]></title>
- <link rel="alternate" type="text/html" href="/sqlite-injection-what-could-go-wrong/" />
-  <id>/sqlite-injection-what-could-go-wrong</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/sqlite-injection-what-could-go-wrong/" />
+  <id>http://www.ehsalazar.com/sqlite-injection-what-could-go-wrong</id>
   <updated>2014-06-13 17:05:54 -0700T00:00:00-00:00</updated>
   <published>2014-06-06T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;As far as embedded databases go, SQLite is a popular choice. It’s a relational database management system that follows much of SQL standards. Since it needs no standalone processes, its library communicates and links with the server becoming an inherent component utilized by many web browsers. It’s ACID-compliant (Atomicity, Consistency, Isolation, Durability) and uses a dynamic yet weakly typed syntax. This is where things can begin to go wrong. That syntax doesn’t ensure the domain or database integrity.&lt;/p&gt;
@@ -206,20 +206,20 @@
 
 &lt;p&gt;There are many steps that can be taken by programmers to safeguard the applications they write. Being aware of, and taking measures to guard against malicious SQL injection attacks is one even new developers can utilize.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/sqlite-injection-what-could-go-wrong/&quot;&gt;SQLite Injection - What could go wrong?&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 06, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/sqlite-injection-what-could-go-wrong/&quot;&gt;SQLite Injection - What could go wrong?&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 06, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Examining &amp; Minimizing Stereotype Threat]]></title>
- <link rel="alternate" type="text/html" href="/examining-and-minimizing-stereotype-threat/" />
-  <id>/examining-and-minimizing-stereotype-threat</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/examining-and-minimizing-stereotype-threat/" />
+  <id>http://www.ehsalazar.com/examining-and-minimizing-stereotype-threat</id>
   <updated>2014-06-13 16:58:42 -0700T00:00:00-00:00</updated>
   <published>2014-06-01T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;The theory of stereotype threat describes the possibility of (often unconsciously) experiencing anxiety that can lead to negative outcomes, when in situations where we believe we may confirm a stereotype about the groups we identify with. While it’s a common held belief today and well studied, it was first introduced in 1995 in the experiments conducted by Psychologists Dr. Claude Steele together with Dr. Joshua Aronson.&lt;/p&gt;
@@ -246,20 +246,20 @@
 
 &lt;p&gt;Being aware of stereotype threat or at least being aware of the impact the groups we identify with can have on our outcomes is a worthy pursuit. It can help us when we’re in homogeneous situations and more importantly, when we’re not.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/examining-and-minimizing-stereotype-threat/&quot;&gt;Examining &amp; Minimizing Stereotype Threat&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 01, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/examining-and-minimizing-stereotype-threat/&quot;&gt;Examining &amp; Minimizing Stereotype Threat&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 01, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[What are Blocks, Procs, and Lambdas?]]></title>
- <link rel="alternate" type="text/html" href="/what-are-blocks-procs-and-lambdas/" />
-  <id>/what-are-blocks-procs-and-lambdas</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/what-are-blocks-procs-and-lambdas/" />
+  <id>http://www.ehsalazar.com/what-are-blocks-procs-and-lambdas</id>
   <updated>2014-06-13 16:38:12 -0700T00:00:00-00:00</updated>
   <published>2014-05-30T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;As we learn more about Ruby as a programming language, we get to explore the many ways in which we can interact with, alter and change objects. Three dynamic and useful tools towards that end are blocks, Procs and lambdas. Let’s learn a little about each and how we can utilize them in our code.&lt;/p&gt;
@@ -334,20 +334,20 @@
 
 &lt;p&gt;They’re common elements of many methods and programs. Once you pick up the basic syntax you’ll be coding with blocks, Procs and lambdas too.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/what-are-blocks-procs-and-lambdas/&quot;&gt;What are Blocks, Procs, and Lambdas?&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 30, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/what-are-blocks-procs-and-lambdas/&quot;&gt;What are Blocks, Procs, and Lambdas?&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 30, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The Diversity Problem in Tech]]></title>
- <link rel="alternate" type="text/html" href="/the-diversity-problem-in-tech/" />
-  <id>/the-diversity-problem-in-tech</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/the-diversity-problem-in-tech/" />
+  <id>http://www.ehsalazar.com/the-diversity-problem-in-tech</id>
   <updated>2014-06-13 16:13:18 -0700T00:00:00-00:00</updated>
   <published>2014-05-25T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;When I think of Silicon Valley or the technology industry more broadly, I equate it with white, straight men. While the lack of diversity and broader representation isn’t a new issue, it’s one that can seem at conflict with what is often seen as tech’s ideals and transformative visions. Many tech company speak of building the future or creating new possibilities. However, they are often driven from a singular or at best, limited vision.&lt;/p&gt;
@@ -373,20 +373,20 @@
 
 &lt;p&gt;There’s much to be done to diversify tech but with awareness and effort, strides can be made. Both companies and industry will be better for it.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/the-diversity-problem-in-tech/&quot;&gt;The Diversity Problem in Tech&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 25, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/the-diversity-problem-in-tech/&quot;&gt;The Diversity Problem in Tech&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 25, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Register for Class]]></title>
- <link rel="alternate" type="text/html" href="/register-for-class/" />
-  <id>/register-for-class</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/register-for-class/" />
+  <id>http://www.ehsalazar.com/register-for-class</id>
   <updated>2014-06-13 15:50:13 -0700T00:00:00-00:00</updated>
   <published>2014-05-23T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;As we’ve discussed in the past, Ruby is an object-oriented programming language. Almost everything in Ruby is an object. Those objects are what allow us to build and execute different programs. One of the ways Ruby organizes all of these objects is into classes. “Hello, World!” is a member of the String class. 7 is a member of the Fixnum class. Members of the same class will have similar attributes and methods they can access.&lt;/p&gt;
@@ -450,20 +450,20 @@ majoring in Computer Science.
 
 &lt;p&gt;You can start simple like we did in this lesson and once you have the knack you can create more complex objects. Remember, since almost everything in Ruby is an object, classes provide us a great tool to organize and utilize those objects.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/register-for-class/&quot;&gt;Register for Class&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 23, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/register-for-class/&quot;&gt;Register for Class&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 23, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Keeping Calm in a World of Conflict]]></title>
- <link rel="alternate" type="text/html" href="/keeping-calm-in-a-world-of-conflict/" />
-  <id>/keeping-calm-in-a-world-of-conflict</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/keeping-calm-in-a-world-of-conflict/" />
+  <id>http://www.ehsalazar.com/keeping-calm-in-a-world-of-conflict</id>
   <updated>2014-06-13 13:52:36 -0700T00:00:00-00:00</updated>
   <published>2014-05-18T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;Conflict is all around us. One person thinks this. Another company does that. You did this. I do that. When conflict does arise, how do you deal with it? More over, how did you feel after the conflict? Well, for most of us, when confronted with conflict we process through it and the subsequent shame in one of four ways. As described by the &lt;a href=&quot;http://southdown.on.ca/publications/articles/Compass-of-Shame.pdf&quot;&gt;Compass of Shame&lt;/a&gt;, we either go into withdrawal, attack self, avoidance or attack others.&lt;/p&gt;
@@ -478,20 +478,20 @@ majoring in Computer Science.
 
 &lt;p&gt;I can’t control the actions of an upset guest but I can control whether I allow how he deals with conflict influence how I feel or deal with it. I can control whether to stay calm and deal with it or rather delve into shame and one of its outcomes. While it’s not always achievable, it’s definitely something I strive for. Perhaps the British of the late 1930’s, as they prepared to enter into World War II, had it best summarized. &lt;a href=&quot;http://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On&quot;&gt;“Keep Calm and Carry On”&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/keeping-calm-in-a-world-of-conflict/&quot;&gt;Keeping Calm in a World of Conflict&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 18, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/keeping-calm-in-a-world-of-conflict/&quot;&gt;Keeping Calm in a World of Conflict&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 18, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Enumerable Groupie Say What?]]></title>
- <link rel="alternate" type="text/html" href="/enumerable-groupie-say-what/" />
-  <id>/enumerable-groupie-say-what</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/enumerable-groupie-say-what/" />
+  <id>http://www.ehsalazar.com/enumerable-groupie-say-what</id>
   <updated>2014-06-13 13:33:29 -0700T00:00:00-00:00</updated>
   <published>2014-05-15T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;Ruby is a dynamic programming language that offers many classes or modules for the programmer to utilize, such as String, Integer, Array, and Hash. One that is quickly becoming one of my go to favorites is the Enumerable module. It gives us some nifty methods in which we can traverse, search, sort and even alter elements within a collection class.&lt;/p&gt;
@@ -531,20 +531,20 @@ majoring in Computer Science.
 
 &lt;p&gt;Check them out and enjoy. Global Nerdy has a concise explanation of other enumerable methods if you’re interested. I was!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/enumerable-groupie-say-what/&quot;&gt;Enumerable Groupie Say What?&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 15, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/enumerable-groupie-say-what/&quot;&gt;Enumerable Groupie Say What?&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 15, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Observations on Dev Bootcamp's Culture]]></title>
- <link rel="alternate" type="text/html" href="/observations-on-dev-bootcamps-culture/" />
-  <id>/observations-on-dev-bootcamps-culture</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/observations-on-dev-bootcamps-culture/" />
+  <id>http://www.ehsalazar.com/observations-on-dev-bootcamps-culture</id>
   <updated>2014-06-13 13:28:08 -0700T00:00:00-00:00</updated>
   <published>2014-05-10T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;The curriculum that Dev Bootcamp has developed is broken down into phases. Phase 0 is nine weeks of remote learning followed by nine weeks of in-person learning encompassing Phase 1 - 3. I’m coming to the end of week three in the Phase 0 curriculum and have already learned a good amount, both in the technical sense but also in what I can expect from the Dev Bootcamp culture when I step foot into an actual classroom.&lt;/p&gt;
@@ -561,20 +561,20 @@ majoring in Computer Science.
 
 &lt;p&gt;I understand that curriculum, programs and companies change and evolve. I would expect nothing less, especially entering into a technology industry. A popular coding language today might be very different only one or two years from now. By moving beyond ordering a tool off the menu and rather looking at how I can contribute to the industry’s recipe, I become party to the outcome. I too am changing and evolving. Even in only three weeks, through online communities and groups, video chats, emails and messaging, we’ve started to build a dynamic new culture. I’m immensely excited for Phase 1 and meeting everyone in person and taking that culture to a whole new level.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/observations-on-dev-bootcamps-culture/&quot;&gt;Observations on Dev Bootcamp's Culture&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/observations-on-dev-bootcamps-culture/&quot;&gt;Observations on Dev Bootcamp's Culture&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Giving JavaScript Some Love]]></title>
- <link rel="alternate" type="text/html" href="/giving-javascript-some-love/" />
-  <id>/giving-javascript-some-love</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/giving-javascript-some-love/" />
+  <id>http://www.ehsalazar.com/giving-javascript-some-love</id>
   <updated>2014-06-13 13:15:54 -0700T00:00:00-00:00</updated>
   <published>2014-05-08T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;In my quest to become a web developer I’ve been exposed to a few different coding languages. While I’m sure I’ll be learning many more, so far I’ve become familiar with HTML, CSS, JavaScript and Ruby. What has struck me, is the ubiquitous nature of JavaScript. If your not familiar, JavaScript is a dynamic, mostly object-based programming language. In simple terms, that means that within the language, we can not only create objects but also manipulate them. JavaScript (JS for shorthand) is most often considered a scripting language that can run locally from a user’s web browser.&lt;/p&gt;
@@ -599,20 +599,20 @@ majoring in Computer Science.
 
 &lt;p&gt;If interested, check them out and learn more about this programming language that you likely utilize everyday on the web, without even knowing about it.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/giving-javascript-some-love/&quot;&gt;Giving JavaScript Some Love&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 08, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/giving-javascript-some-love/&quot;&gt;Giving JavaScript Some Love&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 08, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[CSS Elements - Block, Inline & Inline-block]]></title>
- <link rel="alternate" type="text/html" href="/css-elements-block-inline-&-inline-block/" />
-  <id>/css-elements-block-inline-&-inline-block</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/css-elements-block-inline-&-inline-block/" />
+  <id>http://www.ehsalazar.com/css-elements-block-inline-&-inline-block</id>
   <updated>2014-06-13 12:31:25 -0700T00:00:00-00:00</updated>
   <published>2014-05-04T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;So you’ve been getting to know a little about CSS. Perhaps you’ve learned that your HTML is built using tags which create elements. For example, you might have seen &lt;code&gt;header&lt;/code&gt;, &lt;code&gt;nav&lt;/code&gt;, &lt;code&gt;div&lt;/code&gt; and &lt;code&gt;p&lt;/code&gt;. You can style those elements in CSS with all kinds of fun modifications. Before you jump in to far however, you should know a little about how those elements display by default and how you can modify them.&lt;/p&gt;
@@ -679,20 +679,20 @@ majoring in Computer Science.
 
 &lt;p&gt;By adding changing the display value of the strong element to inline-block, we created a whole new block that we were able to scale. While I used text and &lt;code&gt;strong&lt;/code&gt; to walk through these examples, perhaps a more common and useful use of inline-block is with &lt;code&gt;img&lt;/code&gt; elements. This allows you to add images within the context of it surrounding text without filling the entire width of the section.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/css-elements-block-inline-&-inline-block/&quot;&gt;CSS Elements - Block, Inline & Inline-block&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 04, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/css-elements-block-inline-&-inline-block/&quot;&gt;CSS Elements - Block, Inline & Inline-block&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 04, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Index Makeover - Site 2.0]]></title>
- <link rel="alternate" type="text/html" href="/index-makeover/" />
-  <id>/index-makeover</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/index-makeover/" />
+  <id>http://www.ehsalazar.com/index-makeover</id>
   <updated>2014-06-13 19:00:13 -0700T00:00:00-00:00</updated>
   <published>2014-05-03T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;This week we are working to makeover our index.html page or rather our homepage for the site we are building. There are a few things I want to consider as I proceed with this challenge. First, I plan on cleaning or streaming lining the overall look of the site. Previously, I felt it was a bit busy. Second, I want to make a clearer presentation of navigation choices. I think to achieve this, I’ll break the menu into two section, one for general navigation and social media then another section for blog posts and projects.&lt;/p&gt;
@@ -705,20 +705,20 @@ majoring in Computer Science.
 
 &lt;div xmlns:cc=&quot;http://creativecommons.org/ns#&quot; xmlns:dct=&quot;http://purl.org/dc/terms/&quot; about=&quot;http://subtlepatterns.com&quot; class=&quot;notice&quot;&gt;Background images from &lt;span property=&quot;dct:title&quot;&gt;Subtle Patterns&lt;/span&gt; (&lt;a rel=&quot;cc:attributionURL&quot; property=&quot;cc:attributionName&quot; href=&quot;http://subtlepatterns.com&quot;&gt;Subtle Patterns&lt;/a&gt;) / &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC BY-SA 3.0&lt;/a&gt;&lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/index-makeover/&quot;&gt;Index Makeover - Site 2.0&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 03, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/index-makeover/&quot;&gt;Index Makeover - Site 2.0&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 03, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Comparing Websites]]></title>
- <link rel="alternate" type="text/html" href="/comparing-websites/" />
-  <id>/comparing-websites</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/comparing-websites/" />
+  <id>http://www.ehsalazar.com/comparing-websites</id>
   <updated>2014-06-13 12:13:25 -0700T00:00:00-00:00</updated>
   <published>2014-04-27T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;Let’s look at three different websites. I’m going to discuss a bit about each and give my thoughts. First, I’ll explain why I’m focusing on this particular website. Additionally I’ll be considering the purpose of the site. Next, what do I think of the design and its visual impact. I’ll also share my perspective on the site’s content and layout. Finally, I’ll let you in on my connection or feelings about the particular site. Let’s jump in.&lt;/p&gt;
@@ -736,20 +736,20 @@ majoring in Computer Science.
 &lt;p&gt;I’ve been a fancy fan for a few years. I checkout the site more as a window shopper rather than an actual shopper. That might not align with the sites purpose of commerce but I enjoy it none the less. To imagine the site’s design, think curated shopping. Built on a clean and cool background, the product’s images are elegant and ordered. The square detailed images on the homepage give a gallery impression. Only a small amount of informational text is added until you click through to learn more. The layout is customizable within limits to ensure its refined nature remains intact. It’s approachable but can become more complicated as social aspects and purchasing began to tie in. I’ve yet to buy from the site but I am charmed and inspired by its presentation and unique products.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/comparing-websites/&quot;&gt;Comparing Websites&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on April 27, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/comparing-websites/&quot;&gt;Comparing Websites&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on April 27, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[A Reflection of Values]]></title>
- <link rel="alternate" type="text/html" href="/a-reflection-of-values/" />
-  <id>/a-reflection-of-values</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/a-reflection-of-values/" />
+  <id>http://www.ehsalazar.com/a-reflection-of-values</id>
   <updated>2014-06-13 11:36:49 -0700T00:00:00-00:00</updated>
   <published>2014-04-26T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;When I think about the times in my life that I’ve been the proudest, happiest or most satisfied, the value that comes to mind is Public Service or Service more generally.&lt;/p&gt;
@@ -765,20 +765,20 @@ majoring in Computer Science.
 &lt;p&gt;Now as I look to start a new chapter in my life, both personally and professionally, I call upon that value. Whether it’s a peer asking for help on debugging their code or working through a challenge, a friend calling to ask about career advice or a former colleague seeking guidance in dealing with a new supervisor, the goal will be the same, being of service.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/a-reflection-of-values/&quot;&gt;A Reflection of Values&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on April 26, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/a-reflection-of-values/&quot;&gt;A Reflection of Values&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on April 26, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Wireframing 3 Favorite Sites]]></title>
- <link rel="alternate" type="text/html" href="/wireframing-3-favorite-sites/" />
-  <id>/wireframing-3-favorite-sites</id>
+ <link rel="alternate" type="text/html" href="http://www.ehsalazar.com/wireframing-3-favorite-sites/" />
+  <id>http://www.ehsalazar.com/wireframing-3-favorite-sites</id>
   <updated>2014-06-13 19:04:31 -0700T00:00:00-00:00</updated>
   <published>2014-04-24T00:00:00-07:00</published>
   
   <author>
     <name>Ernie Salazar</name>
-    <uri></uri>
+    <uri>http://www.ehsalazar.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;h3 id=&quot;drbronnerscomhttpswwwdrbronnercom&quot;&gt;&lt;a href=&quot;https://www.drbronner.com/&quot;&gt;drbronners.com&lt;/a&gt;&lt;/h3&gt;
@@ -817,7 +817,7 @@ majoring in Computer Science.
 
 &lt;p&gt;&lt;img src=&quot;../images/fancy_wireframe.png&quot; alt=&quot;Wireframe&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/wireframing-3-favorite-sites/&quot;&gt;Wireframing 3 Favorite Sites&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;&quot;&gt;eh(SALAZAR)&lt;/a&gt; on April 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.ehsalazar.com/wireframing-3-favorite-sites/&quot;&gt;Wireframing 3 Favorite Sites&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://www.ehsalazar.com&quot;&gt;eh(SALAZAR)&lt;/a&gt; on April 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
