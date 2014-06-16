@@ -4,14 +4,14 @@ disqus_shortname: ehsalazar
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://www.ehsalazar.com
+url:              
 
 # Owner/author information
 owner:
   name:           Ernie Salazar
   avatar:         avatar.jpeg
   bio:            "A web developer in the making. Come along for the ride."
-  email:          ehsalazar75@gmail.com
+  email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        ehsalazar
   facebook:       
@@ -22,7 +22,7 @@ owner:
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   
+  google_plus:   google.com/+ErnieSalazar
 
 # Background image to be tiled on all pages
 background: noisy.png
