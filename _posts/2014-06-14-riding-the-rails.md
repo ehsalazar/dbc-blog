@@ -5,7 +5,7 @@ description: "An introduction to Ruby on Rails from a newbs perspective."
 modified: 2014-06-15 12:39:16 -0700
 tags: [technical, ruby, rails, week 8, phase 0]
 image:
-  feature: rails.jpg
+  feature: 
   credit: 
   creditlink: 
   thumb: 
