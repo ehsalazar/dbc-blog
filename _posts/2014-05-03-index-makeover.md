@@ -6,7 +6,7 @@ description: "Updating my website to utilizing the tools I’ve learned."
 modified: 2014-06-13 19:00:13 -0700
 tags: [technical, websites, wireframe, week 2, phase 0]
 image:
-  feature: blueprint.jpg
+  feature: 
   credit: 
   creditlink: 
 comments: true

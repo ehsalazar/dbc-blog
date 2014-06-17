@@ -5,7 +5,7 @@ description: "Understanding Ruby’s Enumerable#group_by."
 modified: 2014-06-13 13:33:29 -0700
 tags: [technical, ruby, enumerables, code, week 4, phase 0]
 image:
-  feature: group.jpg
+  feature: 
   credit: 
   creditlink: 
 comments: true

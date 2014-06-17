@@ -5,7 +5,7 @@ description: "Finding ways to overcome and deal with conflict."
 modified: 2014-06-13 13:52:36 -0700
 tags: [cultural, conflict, calm, week 4, phase 0]
 image:
-  feature: calm.jpg
+  feature: 
   credit: 
   creditlink: 
 comments: true
@@ -14,7 +14,7 @@ share: true
 
 Conflict is all around us. One person thinks this. Another company does that. You did this. I do that. When conflict does arise, how do you deal with it? More over, how did you feel after the conflict? Well, for most of us, when confronted with conflict we process through it and the subsequent shame in one of four ways. As described by the [Compass of Shame](http://southdown.on.ca/publications/articles/Compass-of-Shame.pdf), we either go into withdrawal, attack self, avoidance or attack others.
 
-<!-- <figure><img src="../images/keep_calm.jpg" alt="Keep Calm and Carry On" width="100%"></figure> -->
+<figure><img src="../images/keep_calm.jpg" alt="Keep Calm and Carry On" width="100%"></figure>
 
 Let me share a personal example of conflict and what I’ve learned through hindsight. Early on in my career, I was working as a Sales Associate for a retail company. I was young but wanted to do well and advance. One day, a guest entered our store and inquired about a return. I offered to assist the gentleman. In going through the steps to complete his request, I discovered he didn't possess an invoice for the item he wanted to return. I explained that the company policy required the original invoice and without it I wouldn't be able to assist.
 

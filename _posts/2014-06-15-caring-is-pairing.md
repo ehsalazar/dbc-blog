@@ -5,7 +5,7 @@ description: "Learning to get the most out of pair programming."
 modified: 2014-06-15 20:51:05 -0700
 tags: [cultural, tech, dbc, pair programming, week 8, phase 0]
 image:
-  feature: team.jpg
+  feature: 
   credit: 
   creditlink: 
   thumb: 
@@ -15,7 +15,7 @@ share: true
 
 One of the primary take aways of my experience at [Dev Bootcamp](http://devbootcamp.com/) so far, has been based around [pair programming](http://en.wikipedia.org/wiki/Pair_programming). It’s a means which allows, usually two programmers to work cooperatively seeking solutions and completing projects. It’s so vital to our success that we’re encouraged to pair often and even have minimum pairing session quotas to meet. It’s a great tool in our educational growth but also a common practice in many of today’s tech companies.
 
-<!-- <figure><img src="../images/team.jpg" alt="team working at computer" width="100%"></figure> -->
+<figure><img src="../images/team.jpg" alt="team working at computer" width="100%"></figure>
 
 So why is it so important? Well, for a few reasons, two of which include the philosophy that “two heads are better than one”  and more fundamentally, developing the ability to work cooperatively with others. Let’s explore both a little more in detail.
 

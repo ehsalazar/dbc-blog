@@ -6,7 +6,7 @@ description: "Updating my website using Jekyll and HPSTR"
 modified: 2014-06-13 19:08:03 -0700
 tags: [technical, websites, jekyll, design, week 8, phase 0]
 image:
-  feature: mouse.jpg
+  feature: 
   credit: 
   creditlink:
   thumb: 

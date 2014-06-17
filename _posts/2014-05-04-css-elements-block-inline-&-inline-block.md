@@ -5,7 +5,7 @@ description: "Taking a look at CSS block, inline and inline-block elements."
 modified: 2014-06-13 12:31:25 -0700
 tags: [technical, css, code, week 2, phase 0]
 image:
-  feature: legos.jpg
+  feature: 
   credit: 
   creditlink: 
 comments: true

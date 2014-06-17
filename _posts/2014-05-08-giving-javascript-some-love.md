@@ -5,7 +5,7 @@ description: "Discussing the features and benefits of JavaScript."
 modified: 2014-06-13 13:15:54 -0700
 tags: [technical, javascript, code, week 3, phase 0]
 image:
-  feature: js.jpg
+  feature: 
   credit: 
   creditlink: 
 comments: true
@@ -14,7 +14,7 @@ share: true
 
 In my quest to become a web developer I’ve been exposed to a few different coding languages. While I’m sure I’ll be learning many more, so far I’ve become familiar with HTML, CSS, JavaScript and Ruby. What has struck me, is the ubiquitous nature of JavaScript. If your not familiar, JavaScript is a dynamic, mostly object-based programming language. In simple terms, that means that within the language, we can not only create objects but also manipulate them. JavaScript (JS for shorthand) is most often considered a scripting language that can run locally from a user’s web browser.
 
-<!-- <figure><img src="../images/js.jpg" alt="JavaScript Logo" width="100%"></figure> -->
+<figure><img src="../images/js.jpg" alt="JavaScript Logo" width="100%"></figure>
 
 If you’ve ever opened up your web browser and gone to your favorite site, you have in all likelihood, encountered JS running in the background. It’s what helps transform a static website into an interactive site. Log into a social media site…interactive. Log into a shopping site…interactive. Accessed your favorite site on your mobile device…more than likely, interactive.
 

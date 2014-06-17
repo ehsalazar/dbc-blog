@@ -6,7 +6,7 @@ description: "A list of past projects."
 modified: 2014-06-13 17:51
 tags: [projects]
 image:
-  feature: projects.jpg
+  feature: 
   credit: 
   creditlink: 
 share: 

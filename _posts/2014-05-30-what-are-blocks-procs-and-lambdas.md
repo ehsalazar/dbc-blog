@@ -5,7 +5,7 @@ description: "Understanding and using Ruby blocks, procs and lambdas."
 modified: 2014-06-13 16:38:12 -0700
 tags: [technical, ruby, code, blocks, week 6, phase 0]
 image:
-  feature: plainblocks.jpg
+  feature: 
   credit: 
   creditlink: 
 comments: true

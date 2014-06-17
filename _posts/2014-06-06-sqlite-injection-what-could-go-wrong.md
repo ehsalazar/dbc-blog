@@ -5,7 +5,7 @@ description: "Examining the security issues with SQLite injections."
 modified: 2014-06-13 17:05:54 -0700
 tags: [technical, sqlite, databases, week 7, phase 0]
 image:
-  feature: syringes.jpg
+  feature: 
   credit: 
   creditlink: 
 comments: true
@@ -14,7 +14,7 @@ share: true
 
 As far as embedded databases go, SQLite is a popular choice. It’s a relational database management system that follows much of SQL standards. Since it needs no standalone processes, its library communicates and links with the server becoming an inherent component utilized by many web browsers. It’s ACID-compliant (Atomicity, Consistency, Isolation, Durability) and uses a dynamic yet weakly typed syntax. This is where things can begin to go wrong. That syntax doesn’t ensure the domain or database integrity.
 
-<!-- <figure><img src="../images/syringes.jpg" alt="Three Empty Syringes" width="100%"></figure> -->
+<figure><img src="../images/syringes.jpg" alt="Three Empty Syringes" width="100%"></figure>
 
 We’ve become more accustomed to hearing about security breaches and compromised databases. We think we’re protected by our favorite online shopping site or social network but then we receive the dreaded notice of hacks and prompts to update our passwords. While not all compromises are generated out of SQLite, it’s unfortunately a relatively easy program to manipulate and thus a popular option for those seeking to attack.
 

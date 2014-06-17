@@ -6,7 +6,7 @@ description: "Utilizing wireframe as a tool to analyze the design of websites."
 modified: 2014-06-13 19:04:31 -0700
 tags: [technical, websites, wireframe, week 1, phase 0]
 image:
-  feature: wireframeglasses.jpg
+  feature: 
   credit: 
   creditlink: 
 comments: true
