@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "A Reflection of Values"
+description: "Analyzing a particular value and its impact on our lives."
 modified: 2014-06-13 11:36:49 -0700
 tags: [cultural, values, week 1, phase 0]
 image:
-  feature:
+  feature: reflection.jpg
   credit: 
   creditlink: 
 comments: true
@@ -13,7 +14,7 @@ share: true
 
 When I think about the times in my life that I've been the proudest, happiest or most satisfied, the value that comes to mind is Public Service or Service more generally.
 
-<img src="../images/values.png" alt="Values" width="100%">
+<!-- <figure><img src="../images/values.png" alt="Values" width="100%"></figure> -->
 
 I can remember back to my years after college. It was during this phase that I participated in the [Up with People](http://www.upwithpeople.org) organization. I was originally drawn to the program for its performance aspects. While I do have fond memories of that, it was the service aspects that changed me the most. A large component of the program was that in each town or city we performed in, the cast participated in some sort of community project. Whether I was painting a mural, teaching inner city elementary students or visiting the often forgotten in a nursing home, the goal was the same, being of service.
 

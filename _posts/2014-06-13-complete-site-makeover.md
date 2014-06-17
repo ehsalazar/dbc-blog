@@ -2,10 +2,11 @@
 layout: post
 permalink: /complete-site-makeover/
 title: "Complete Site Makeover"
+description: "Updating my website using Jekyll and HPSTR"
 modified: 2014-06-13 19:08:03 -0700
 tags: [technical, websites, jekyll, design, week 8, phase 0]
 image:
-  feature: 
+  feature: mouse.jpg
   credit: 
   creditlink:
   thumb: 
@@ -18,7 +19,7 @@ I've learned an amazing amount of technical knowledge over the course of the las
 
 ### Out with the Old
 
-<img src="../images/oldsite.png" alt="Screenshot of previous site design" width="100%">
+<figure><img src="../images/oldsite.png" alt="Screenshot of previous site design" width="100%"></figure>
 
 There were a few things I wanted to accomplish as I set out to upgrade this site. First, as I’m writing more and more blog post, I needed a way to manage that process. It would also be a big help if I could automate some the work put in to each blog post. Second, while I thought the design of the site was sufficient, it still had a “made in 1995” feel about it. I knew I wanted to step up the design aspects as well as introduce a few more features.
 

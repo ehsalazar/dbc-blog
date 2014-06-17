@@ -2,10 +2,11 @@
 layout: post
 permalink: /index-makeover/
 title: "Index Makeover - Site 2.0"
+description: "Updating my website to utilizing the tools I’ve learned."
 modified: 2014-06-13 19:00:13 -0700
 tags: [technical, websites, wireframe, week 2, phase 0]
 image:
-  feature: 
+  feature: blueprint.jpg
   credit: 
   creditlink: 
 comments: true
@@ -16,7 +17,7 @@ This week we are working to makeover our index.html page or rather our homepage 
 
 In order to complete this challenge, I'll be working in steps. I need to establish a wireframe or blue print for how I would like the site to look.
 
-<img src="../images/index_wireframe.png" alt="Index Wireframe" width="100%">
+<figure><img src="../images/index_wireframe.png" alt="Index Wireframe" width="100%"></figure>
 
 Then I'll have to jump into the actual coding of the HTML and CSS files. Finally, I'll commit and sync all my changes through Github which is hosting my site.
 

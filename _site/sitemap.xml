@@ -1,126 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://www.ehsalazar.com</loc>
+        <loc>http://localhost:4000</loc>
     </url>
     
     
     <url>
-        <loc>http://www.ehsalazar.com/404.html</loc>
+        <loc>http://localhost:4000/404.html</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/about/</loc>
+        <loc>http://localhost:4000/about/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/feed.xml</loc>
+        <loc>http://localhost:4000/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/index.html</loc>
+        <loc>http://localhost:4000/index.html</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/posts/</loc>
+        <loc>http://localhost:4000/posts/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/projects/</loc>
+        <loc>http://localhost:4000/projects/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/sitemap.xml</loc>
+        <loc>http://localhost:4000/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/tags/</loc>
+        <loc>http://localhost:4000/tags/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/page2/index.html</loc>
+        <loc>http://localhost:4000/page2/index.html</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/page3/index.html</loc>
+        <loc>http://localhost:4000/page3/index.html</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/page4/index.html</loc>
+        <loc>http://localhost:4000/page4/index.html</loc>
     </url>
     
 
     
     <url>
-        <loc>http://www.ehsalazar.com/caring-is-pairing/</loc>
+        <loc>http://localhost:4000/caring-is-pairing/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/riding-the-rails/</loc>
+        <loc>http://localhost:4000/riding-the-rails/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/complete-site-makeover/</loc>
+        <loc>http://localhost:4000/complete-site-makeover/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/reaffirming-our-values/</loc>
+        <loc>http://localhost:4000/reaffirming-our-values/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/sqlite-injection-what-could-go-wrong/</loc>
+        <loc>http://localhost:4000/sqlite-injection-what-could-go-wrong/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/examining-and-minimizing-stereotype-threat/</loc>
+        <loc>http://localhost:4000/examining-and-minimizing-stereotype-threat/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/what-are-blocks-procs-and-lambdas/</loc>
+        <loc>http://localhost:4000/what-are-blocks-procs-and-lambdas/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/the-diversity-problem-in-tech/</loc>
+        <loc>http://localhost:4000/the-diversity-problem-in-tech/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/register-for-class/</loc>
+        <loc>http://localhost:4000/register-for-class/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/keeping-calm-in-a-world-of-conflict/</loc>
+        <loc>http://localhost:4000/keeping-calm-in-a-world-of-conflict/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/enumerable-groupie-say-what/</loc>
+        <loc>http://localhost:4000/enumerable-groupie-say-what/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/observations-on-dev-bootcamps-culture/</loc>
+        <loc>http://localhost:4000/observations-on-dev-bootcamps-culture/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/giving-javascript-some-love/</loc>
+        <loc>http://localhost:4000/giving-javascript-some-love/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/css-elements-block-inline-&-inline-block/</loc>
+        <loc>http://localhost:4000/css-elements-block-inline-&-inline-block/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/index-makeover/</loc>
+        <loc>http://localhost:4000/index-makeover/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/comparing-websites/</loc>
+        <loc>http://localhost:4000/comparing-websites/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/a-reflection-of-values/</loc>
+        <loc>http://localhost:4000/a-reflection-of-values/</loc>
     </url>
     
     <url>
-        <loc>http://www.ehsalazar.com/wireframing-3-favorite-sites/</loc>
+        <loc>http://localhost:4000/wireframing-3-favorite-sites/</loc>
     </url>
     
 </urlset>

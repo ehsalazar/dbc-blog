@@ -2,10 +2,11 @@
 layout: post
 permalink: /wireframing-3-favorite-sites/
 title: "Wireframing 3 Favorite Sites"
+description: "Utilizing wireframe as a tool to analyze the design of websites."
 modified: 2014-06-13 19:04:31 -0700
 tags: [technical, websites, wireframe, week 1, phase 0]
 image:
-  feature: 
+  feature: wireframeglasses.jpg
   credit: 
   creditlink: 
 comments: true
@@ -18,11 +19,11 @@ The website is geared toward commerce. The problem that the homepage is solving 
 
 #### Website Screenshot
 
-<img src="../images/drbronners.png" alt="Website" width="100%">
+<figure><img src="../images/drbronners.png" alt="Website" width="100%"></figure>
 
 #### Wireframe Screenshot
 
-<img src="../images/drbronners_wireframe.png" alt="Wireframe" width="100%">
+<figure><img src="../images/drbronners_wireframe.png" alt="Wireframe" width="100%"></figure>
 
 ### [fivethirtyeight.com](http://fivethirtyeight.com/)
 
@@ -30,11 +31,11 @@ The website is a news outlet. The problem that the homepage is solving is provid
 
 #### Website Screenshot
 
-<img src="../images/fivethirtyeight.png" alt="Website" width="100%">
+<figure><img src="../images/fivethirtyeight.png" alt="Website" width="100%"></figure>
 
 #### Wireframe Screenshot
 
-<img src="../images/fivethirtyeight_wireframe.png" alt="Wireframe" width="100%">
+<figure><img src="../images/fivethirtyeight_wireframe.png" alt="Wireframe" width="100%"></figure>
 
 ### [fancy.com](http://fancy.com/) 
 
@@ -42,8 +43,8 @@ The website is geared to commerce. The problem that the homepage is solving is p
 
 #### Website Screenshot
 
-<img src="../images/fancy.png" alt="Website" width="100%">
+<figure><img src="../images/fancy.png" alt="Website" width="100%"></figure>
 
 #### Wireframe Screenshot
 
-<img src="../images/fancy_wireframe.png" alt="Wireframe" width="100%">
+<figure><img src="../images/fancy_wireframe.png" alt="Wireframe" width="100%"></figure>

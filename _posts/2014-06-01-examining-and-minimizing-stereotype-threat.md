@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Examining &amp; Minimizing Stereotype Threat"
+description: "What’s stereotype threat and how can its effects be diminished?"
 modified: 2014-06-13 16:58:42 -0700
 tags: [cultural, stereotype, week 6, phase 0]
 image:
-  feature: 
+  feature: stereotype.jpg
   credit: 
   creditlink: 
 comments: true
@@ -13,7 +14,7 @@ share: true
 
 The theory of stereotype threat describes the possibility of (often unconsciously) experiencing anxiety that can lead to negative outcomes, when in situations where we believe we may confirm a stereotype about the groups we identify with. While it’s a common held belief today and well studied, it was first introduced in 1995 in the experiments conducted by Psychologists Dr. Claude Steele together with Dr. Joshua Aronson.
 
-<img src="../images/wv.jpg" alt="Whistling Vivaldi (Bookcover) - Claude Steele" width="100%">
+<!-- <figure><img src="../images/wv.jpg" alt="Whistling Vivaldi (Bookcover) - Claude Steele" width="100%"></figure> -->
 
 In short, their experiments examined the role of race in test scores of African-American college students compared to European-American students. They found, that when race was emphasized, the African-American students performed poorly. However, when race was deemphasized, the African-American students performed better or equal to their European-American counterparts. Many studies have been done since, replicating their findings as well as examining the performances of other groups including those based on race, sex, age, religion, sexual orientation and even socioeconomic and political affiliations.
 

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "CSS Elements - Block, Inline & Inline-block"
+title: "CSS Block, Inline & Inline-block"
+description: "Taking a look at CSS block, inline and inline-block elements."
 modified: 2014-06-13 12:31:25 -0700
 tags: [technical, css, code, week 2, phase 0]
 image:
-  feature: 
+  feature: legos.jpg
   credit: 
   creditlink: 
 comments: true
@@ -39,7 +40,7 @@ p {
 }
 {% endhighlight %}
 
-<img src="../images/block.png" alt="Result" width="100%">
+<figure><img src="../images/block.png" alt="Result" width="100%"></figure>
 
 I've added a bit of styling to create our section border. As for the paragraph, I've only added some back ground color. You can see the `p` element fills the entire space.
 
@@ -62,7 +63,7 @@ strong {
 }
 {% endhighlight %}
 
-<img src="../images/inline.png" alt="Result">
+<figure><img src="../images/inline.png" alt="Result"></figure>
 
 A `strong` tag is quick way to bold a particular element. I again added only some background color to this element. You can see it is within or inline with its surrounds with our changing its dimensions.
 
@@ -81,6 +82,6 @@ strong {
 {% endhighlight %}
 
 
-<img src="../images/inline_block.png" alt="Result">
+<figure><img src="../images/inline_block.png" alt="Result"></figure>
 
 By adding changing the display value of the strong element to inline-block, we created a whole new block that we were able to scale. While I used text and `strong` to walk through these examples, perhaps a more common and useful use of inline-block is with `img` elements. This allows you to add images within the context of it surrounding text without filling the entire width of the section.

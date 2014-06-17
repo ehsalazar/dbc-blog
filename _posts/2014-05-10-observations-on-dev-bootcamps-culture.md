@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Observations on Dev Bootcamp's Culture"
+description: " Reaction to video “Fireside Chat with Shereef” with Shereef Bishay."
 modified: 2014-06-13 13:28:08 -0700
 tags: [cultural, dbc, week 3, phase 0]
 image:
-  feature: 
+  feature: chef.jpg
   credit: 
   creditlink: 
 comments: true
@@ -15,7 +16,7 @@ The curriculum that Dev Bootcamp has developed is broken down into phases. Phase
 
 ### Kitchen or Table
 
-<img src="../images/chef.jpg" alt="Chef in Kitchen" width="100%">
+<!-- <figure><img src="../images/chef.jpg" alt="Chef in Kitchen" width="100%"></figure> -->
 
 This past week,  we watched a video entitled “Fireside Chat with Shereef.” In essence, it was a welcome Q&A chat hosted by, Shereef Bishay, one of the founders of Dev Bootcamp. In it, he shared the history and evolution of the program as well as shared his hopes for the new students to come. He also made an interesting distinction or analogy concerning the culture of the program which is largely shaped by each new cohort or group of students beginning their journey.
 					

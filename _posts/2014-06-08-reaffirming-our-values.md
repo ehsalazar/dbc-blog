@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Reaffirming Our Values"
+description: "Reflecting on our values and the role they can play in overcoming stereotype threat."
 modified: 2014-06-13 17:13:27 -0700
 tags: [cultural, values, stereotype, week 7, phase 0]
 image:
-  feature: 
+  feature: psa2.jpg
   credit: 
   creditlink: 
 comments: true
@@ -15,7 +16,7 @@ A few weeks back we looked at a [value reflection](http://ehsalazar.github.io//a
 
 ### A Public Service Announcement
 
-<img src="../images/psa.png" alt="Public Service Announcement" width="100%">
+<!-- <figure><img src="../images/psa.png" alt="Public Service Announcement" width="100%"></figure> -->
 
 I’ve learned many lessons from my parents and perhaps one of the most profound has centered around public service. I was always taught and encourage that whenever I had too much going on or was facing uncertain times, that in those moments, I should put down my burdens and help someone else. It’s been a great tool to minimize stress and even anxiety. I’ve found, when placed in a role of public servant, suddenly my own issues diminish. They may not disappear but they began to see new possibilities and solutions I might have otherwise overlooked.
 

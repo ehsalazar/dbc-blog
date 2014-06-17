@@ -2,10 +2,11 @@
 layout: page
 permalink: /projects/
 title: "Projects"
+description: "A list of past projects."
 modified: 2014-06-13 17:51
 tags: [projects]
 image:
-  feature: 
+  feature: projects.jpg
   credit: 
   creditlink: 
 share: 

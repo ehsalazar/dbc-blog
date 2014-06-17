@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Register for Class"
+description: "Taking a look at a Ruby Class and its uses."
 modified: 2014-06-13 15:50:13 -0700
 tags: [technical, ruby, classes, code, week 5, phase 0]
 image:
-  feature: 
+  feature: classroom.jpg
   credit: 
   creditlink: 
 comments: true
