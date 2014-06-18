@@ -4,13 +4,113 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2014-06-17T13:13:02-07:00</updated>
+<updated>2014-06-17T22:17:31-07:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Ernie Salazar</name>
   <uri>http://localhost:4000/</uri>
   <email></email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[A (Not a Cheat Sheet) Cheat Sheet]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/a-not-a-cheat-sheet-cheat-sheet/" />
+  <id>http://localhost:4000/a-not-a-cheat-sheet-cheat-sheet</id>
+  <updated>2014-06-17 21:45:51 -0700T00:00:00-00:00</updated>
+  <published>2014-06-17T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Sometimes you get stuck on a challenge or project and need just a little (or a lot) of help to find a solution. Over the course of my last few weeks, I’ve found that I have been bookmarking links left and right to resources that I can refer back to when needed. Rather than having them all locked up in my bookmark bar, I decided to share them here. Both for ease of access and also to help out my fellow tech learners and explores.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src=&quot;../images/mouse.jpg&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;This isn’t a typical cheat sheet in the sense that they usually drill down into one topic and cover a few useful tips and tricks. Rather, it’s presented as a resource of either already established cheat sheets or more broadly, as a collection or jumping off point to broaden my learning. With that in mind, let’s check these resources out.&lt;/p&gt;
+
+&lt;h3 id=&quot;web-design&quot;&gt;Web Design&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;general&quot;&gt;General&lt;/h4&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.initializr.com/&quot;&gt;Initializr - Start an HTML5 project in 15 seconds!&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://codecondo.com/7-static-site-generators-for-building-websites-blogs/&quot;&gt;Codecondo - Static Site Generators for Building Websites &amp;amp; Blogs&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll - Transform your plain text into static websites and blogs.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://anti-code.com/devtools-cheatsheet/&quot;&gt;Anti-Code.com - Chrome Devtools Cheatsheet&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;design&quot;&gt;Design&lt;/h4&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://designinstruct.com/web-design/responsive-css-grid/&quot;&gt;Design Instruct - 13 Best Responsive CSS Grid Systems for Your Web Designs&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://quirktools.com/&quot;&gt;QuirkTools - Smaps, Wires, Screenfly and Retro&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;fonts--icons&quot;&gt;Fonts &amp;amp; Icons&lt;/h4&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.google.com/fonts#&quot;&gt;Google Fonts&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://fontawesome.io/&quot;&gt;Font Awesome - The iconic font and CSS toolkit&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://glyphsearch.com/&quot;&gt;GlyphSearch - Font Awesome, Glyphicons, IcoMoon and Ionicons&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;color--images&quot;&gt;Color &amp;amp; Images&lt;/h4&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.colourlovers.com/&quot;&gt;COLOURlovers - Share Your Color Ideas &amp;amp; Inspiration.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors&quot;&gt;Wikipedia - List of Crayola crayon colors - with Hex Code&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://subtlepatterns.com/&quot;&gt;Subtle Patterns - Free tilable textured patterns&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://gratisography.com/&quot;&gt;Gratisography - Free high-resolution pictures&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://deathtothestockphoto.com/&quot;&gt;Death to the Stock Photo - Free high-resolution picture with subscription&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ruby&quot;&gt;Ruby&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;general-1&quot;&gt;General&lt;/h4&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://ruby-doc.org/&quot;&gt;Ruby Documentation&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://overapi.com/ruby/&quot;&gt;Ruby Cheat Sheet - methods by class&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;regular-expression&quot;&gt;Regular Expression&lt;/h4&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.ruby-doc.org/stdlib-2.0.0/libdoc/json/rdoc/Regexp.html&quot;&gt;Ruby Documentation - Core 2.0.0 - Regexp&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://rubular.com/&quot;&gt;Rubular - a Ruby regular expression editor&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;enumerable&quot;&gt;Enumerable&lt;/h4&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://ruby-doc.org/core-2.0/Enumerable.html&quot;&gt;Ruby Documentation - Core 2.0.0 - Enumerable&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.globalnerdy.com/2008/09/17/enumerating-enumerable-will-return-soon/&quot;&gt;Global Nerdy - Enumerating Enumerable&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.davidegrayson.com/ruby/enumerable/enumerable_methods.pdf&quot;&gt;David Grayson - Ruby Enumerable module quick reference - PDF&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;others&quot;&gt;Others&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;../images/github-git-cheat-sheet.pdf&quot;&gt;Github - Git Cheat Sheet - PDF&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Daring Fireball - Markdown&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jackiejohnston.us/cheatsheet&quot;&gt;Jackie Johnston - Sublime Text 3 Cheat Sheet for Mac&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://resrc.io/&quot;&gt;reSRC - Free programming learning resources.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jsdb.io/&quot;&gt;JSDB - The definitive source of the best JavaScript libraries, frameworks, and plugins.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;While this isn’t a definitive list, they’re some of the tools I access most. If you come across any that I should know about, please feel free to share in the comments below.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/a-not-a-cheat-sheet-cheat-sheet/&quot;&gt;A (Not a Cheat Sheet) Cheat Sheet&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 17, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -27,7 +127,7 @@
   </author>
   <content type="html">&lt;p&gt;One of the primary take aways of my experience at &lt;a href=&quot;http://devbootcamp.com/&quot;&gt;Dev Bootcamp&lt;/a&gt; so far, has been based around &lt;a href=&quot;http://en.wikipedia.org/wiki/Pair_programming&quot;&gt;pair programming&lt;/a&gt;. It’s a means which allows, usually two programmers to work cooperatively seeking solutions and completing projects. It’s so vital to our success that we’re encouraged to pair often and even have minimum pairing session quotas to meet. It’s a great tool in our educational growth but also a common practice in many of today’s tech companies.&lt;/p&gt;
 
-&lt;!-- &lt;figure&gt;&lt;img src=&quot;../images/team.jpg&quot; alt=&quot;team working at computer&quot; width=&quot;100%&quot;&gt;&lt;/figure&gt; --&gt;
+&lt;figure&gt;&lt;img src=&quot;../images/team.jpg&quot; alt=&quot;team working at computer&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;So why is it so important? Well, for a few reasons, two of which include the philosophy that “two heads are better than one”  and more fundamentally, developing the ability to work cooperatively with others. Let’s explore both a little more in detail.&lt;/p&gt;
 
@@ -59,7 +159,7 @@
   </author>
   <content type="html">&lt;p&gt;We’ve talked some over the last few weeks about Ruby, a dynamic object-oriented programming language, and some of the ways it can be used. One of the more common applications is to pair it with Rails, a productive web-application framework. The combination of the two creates Ruby on Rails, more commonly known as Rails.&lt;/p&gt;
 
-&lt;!-- &lt;figure&gt;&lt;img src=&quot;../images/rails.jpg&quot; alt=&quot;Close-up of train tracks&quot; width=&quot;100%&quot;&gt;&lt;/figure&gt; --&gt;
+&lt;figure&gt;&lt;img src=&quot;../images/rails.jpg&quot; alt=&quot;Close-up of train tracks&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;So what exactly is Rails? It was written in Ruby by Danish programmer &lt;a href=&quot;http://en.wikipedia.org/wiki/David_Heinemeier_Hansson&quot;&gt;David Heinemeier Hansson&lt;/a&gt;. It was developed out of his work on Basecamp, a project management tool which was being built by 37signals. It was released as open source in 2004 and achieved a milestone in late 2006 when Apple announced that it would ship Ruby on Rails with its next operating system release, Mac  OS X v10.5 “Leopard.” Since then, Rails has continued to gain momentum and popularity and has released its latest version, Rails 4.1, just this past April. &lt;/p&gt;
 
@@ -155,7 +255,7 @@
 
 &lt;h3 id=&quot;a-public-service-announcement&quot;&gt;A Public Service Announcement&lt;/h3&gt;
 
-&lt;!-- &lt;figure&gt;&lt;img src=&quot;../images/psa.png&quot; alt=&quot;Public Service Announcement&quot; width=&quot;100%&quot;&gt;&lt;/figure&gt; --&gt;
+&lt;figure&gt;&lt;img src=&quot;../images/psa.png&quot; alt=&quot;Public Service Announcement&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;I’ve learned many lessons from my parents and perhaps one of the most profound has centered around public service. I was always taught and encourage that whenever I had too much going on or was facing uncertain times, that in those moments, I should put down my burdens and help someone else. It’s been a great tool to minimize stress and even anxiety. I’ve found, when placed in a role of public servant, suddenly my own issues diminish. They may not disappear but they began to see new possibilities and solutions I might have otherwise overlooked.&lt;/p&gt;
 
@@ -185,7 +285,7 @@
   </author>
   <content type="html">&lt;p&gt;As far as embedded databases go, SQLite is a popular choice. It’s a relational database management system that follows much of SQL standards. Since it needs no standalone processes, its library communicates and links with the server becoming an inherent component utilized by many web browsers. It’s ACID-compliant (Atomicity, Consistency, Isolation, Durability) and uses a dynamic yet weakly typed syntax. This is where things can begin to go wrong. That syntax doesn’t ensure the domain or database integrity.&lt;/p&gt;
 
-&lt;!-- &lt;figure&gt;&lt;img src=&quot;../images/syringes.jpg&quot; alt=&quot;Three Empty Syringes&quot; width=&quot;100%&quot;&gt;&lt;/figure&gt; --&gt;
+&lt;figure&gt;&lt;img src=&quot;../images/syringes.jpg&quot; alt=&quot;Three Empty Syringes&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;We’ve become more accustomed to hearing about security breaches and compromised databases. We think we’re protected by our favorite online shopping site or social network but then we receive the dreaded notice of hacks and prompts to update our passwords. While not all compromises are generated out of SQLite, it’s unfortunately a relatively easy program to manipulate and thus a popular option for those seeking to attack.&lt;/p&gt;
 
@@ -224,7 +324,7 @@
   </author>
   <content type="html">&lt;p&gt;The theory of stereotype threat describes the possibility of (often unconsciously) experiencing anxiety that can lead to negative outcomes, when in situations where we believe we may confirm a stereotype about the groups we identify with. While it’s a common held belief today and well studied, it was first introduced in 1995 in the experiments conducted by Psychologists Dr. Claude Steele together with Dr. Joshua Aronson.&lt;/p&gt;
 
-&lt;!-- &lt;figure&gt;&lt;img src=&quot;../images/wv.jpg&quot; alt=&quot;Whistling Vivaldi (Bookcover) - Claude Steele&quot; width=&quot;100%&quot;&gt;&lt;/figure&gt; --&gt;
+&lt;figure&gt;&lt;img src=&quot;../images/stereotype.jpg&quot; alt=&quot;&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;In short, their experiments examined the role of race in test scores of African-American college students compared to European-American students. They found, that when race was emphasized, the African-American students performed poorly. However, when race was deemphasized, the African-American students performed better or equal to their European-American counterparts. Many studies have been done since, replicating their findings as well as examining the performances of other groups including those based on race, sex, age, religion, sexual orientation and even socioeconomic and political affiliations.&lt;/p&gt;
 
@@ -352,7 +452,7 @@
   </author>
   <content type="html">&lt;p&gt;When I think of Silicon Valley or the technology industry more broadly, I equate it with white, straight men. While the lack of diversity and broader representation isn’t a new issue, it’s one that can seem at conflict with what is often seen as tech’s ideals and transformative visions. Many tech company speak of building the future or creating new possibilities. However, they are often driven from a singular or at best, limited vision.&lt;/p&gt;
 
-&lt;!-- &lt;figure&gt;&lt;img src=&quot;../images/hands.jpg&quot; alt=&quot;Multicultural Raised Hands&quot; width=&quot;100%&quot;&gt;&lt;/figure&gt; --&gt;
+&lt;figure&gt;&lt;img src=&quot;../images/hands.jpg&quot; alt=&quot;Multicultural Raised Hands&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;Of course, this isn’t to paint the industry with broad strokes but it’s hard to dispute statistics that often put women’s representation in the low 20% range and even more dire for African Americans and Hispanics which are in the single digit percentages. That data isn’t the easies to come by either. It’s often not disclosed or buried in a deep lack of transparency. Many companies are actively seeking to diversify their ranks but it’s been a slow and often times difficult struggle. The causes are many, from education to recruiting, from cultural barriers to socioeconomic opportunities and so on. While it’s encouraging to see new focus and light being cast on the topic, often solutions become band-aids rather than cures for the ailment.&lt;/p&gt;
 
@@ -468,7 +568,7 @@ majoring in Computer Science.
   </author>
   <content type="html">&lt;p&gt;Conflict is all around us. One person thinks this. Another company does that. You did this. I do that. When conflict does arise, how do you deal with it? More over, how did you feel after the conflict? Well, for most of us, when confronted with conflict we process through it and the subsequent shame in one of four ways. As described by the &lt;a href=&quot;http://southdown.on.ca/publications/articles/Compass-of-Shame.pdf&quot;&gt;Compass of Shame&lt;/a&gt;, we either go into withdrawal, attack self, avoidance or attack others.&lt;/p&gt;
 
-&lt;!-- &lt;figure&gt;&lt;img src=&quot;../images/keep_calm.jpg&quot; alt=&quot;Keep Calm and Carry On&quot; width=&quot;100%&quot;&gt;&lt;/figure&gt; --&gt;
+&lt;figure&gt;&lt;img src=&quot;../images/keep_calm.jpg&quot; alt=&quot;Keep Calm and Carry On&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;Let me share a personal example of conflict and what I’ve learned through hindsight. Early on in my career, I was working as a Sales Associate for a retail company. I was young but wanted to do well and advance. One day, a guest entered our store and inquired about a return. I offered to assist the gentleman. In going through the steps to complete his request, I discovered he didn’t possess an invoice for the item he wanted to return. I explained that the company policy required the original invoice and without it I wouldn’t be able to assist.&lt;/p&gt;
 
@@ -551,7 +651,7 @@ majoring in Computer Science.
 
 &lt;h3 id=&quot;kitchen-or-table&quot;&gt;Kitchen or Table&lt;/h3&gt;
 
-&lt;!-- &lt;figure&gt;&lt;img src=&quot;../images/chef.jpg&quot; alt=&quot;Chef in Kitchen&quot; width=&quot;100%&quot;&gt;&lt;/figure&gt; --&gt;
+&lt;figure&gt;&lt;img src=&quot;../images/chef.jpg&quot; alt=&quot;Chef in Kitchen&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;This past week,  we watched a video entitled “Fireside Chat with Shereef.” In essence, it was a welcome Q&amp;amp;A chat hosted by, Shereef Bishay, one of the founders of Dev Bootcamp. In it, he shared the history and evolution of the program as well as shared his hopes for the new students to come. He also made an interesting distinction or analogy concerning the culture of the program which is largely shaped by each new cohort or group of students beginning their journey.&lt;/p&gt;
 
@@ -579,7 +679,7 @@ majoring in Computer Science.
   </author>
   <content type="html">&lt;p&gt;In my quest to become a web developer I’ve been exposed to a few different coding languages. While I’m sure I’ll be learning many more, so far I’ve become familiar with HTML, CSS, JavaScript and Ruby. What has struck me, is the ubiquitous nature of JavaScript. If your not familiar, JavaScript is a dynamic, mostly object-based programming language. In simple terms, that means that within the language, we can not only create objects but also manipulate them. JavaScript (JS for shorthand) is most often considered a scripting language that can run locally from a user’s web browser.&lt;/p&gt;
 
-&lt;!-- &lt;figure&gt;&lt;img src=&quot;../images/js.jpg&quot; alt=&quot;JavaScript Logo&quot; width=&quot;100%&quot;&gt;&lt;/figure&gt; --&gt;
+&lt;figure&gt;&lt;img src=&quot;../images/js.jpg&quot; alt=&quot;JavaScript Logo&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;If you’ve ever opened up your web browser and gone to your favorite site, you have in all likelihood, encountered JS running in the background. It’s what helps transform a static website into an interactive site. Log into a social media site…interactive. Log into a shopping site…interactive. Accessed your favorite site on your mobile device…more than likely, interactive.&lt;/p&gt;
 
@@ -754,7 +854,7 @@ majoring in Computer Science.
   </author>
   <content type="html">&lt;p&gt;When I think about the times in my life that I’ve been the proudest, happiest or most satisfied, the value that comes to mind is Public Service or Service more generally.&lt;/p&gt;
 
-&lt;!-- &lt;figure&gt;&lt;img src=&quot;../images/values.png&quot; alt=&quot;Values&quot; width=&quot;100%&quot;&gt;&lt;/figure&gt; --&gt;
+&lt;figure&gt;&lt;img src=&quot;../images/values.png&quot; alt=&quot;Values&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;I can remember back to my years after college. It was during this phase that I participated in the &lt;a href=&quot;http://www.upwithpeople.org&quot;&gt;Up with People&lt;/a&gt; organization. I was originally drawn to the program for its performance aspects. While I do have fond memories of that, it was the service aspects that changed me the most. A large component of the program was that in each town or city we performed in, the cast participated in some sort of community project. Whether I was painting a mural, teaching inner city elementary students or visiting the often forgotten in a nursing home, the goal was the same, being of service.&lt;/p&gt;
 

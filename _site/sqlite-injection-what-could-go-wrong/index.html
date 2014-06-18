@@ -10,9 +10,8 @@
 <meta name="keywords" content="technical, sqlite, databases, week 7, phase 0">
 
 <!-- Twitter Cards -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="http://localhost:4000/images/syringes.jpg">
-
+<!-- <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://localhost:4000/images/"> -->
 <meta name="twitter:title" content="SQLite Injection - What could go wrong?">
 <meta name="twitter:description" content="Examining the security issues with SQLite injections.">
 <meta name="twitter:creator" content="@ehsalazar">
@@ -31,7 +30,7 @@
 
 <link rel="canonical" href="http://localhost:4000/sqlite-injection-what-could-go-wrong/">
 <link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="eh(SALAZAR) Feed">
-<link rel="author" href="https://www.google.com/+ErnieSalazar?rel=author">
+
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -70,7 +69,7 @@
 
 </head>
 
-<body id="post" class="feature">
+<body id="post" >
 
 <!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
 <nav id="dl-menu" class="dl-menuwrapper" role="navigation">
@@ -91,9 +90,7 @@
 					<a href="http://twitter.com/ehsalazar"><i class="fa fa-twitter"></i> Twitter</a>
 				</li>
 				
-				<li>
-					<a href="https://www.google.com/+ErnieSalazar"><i class="fa fa-google-plus"></i> Google+</a>
-				</li>
+				
 				
 				<li>
 					<a href="http://github.com/ehsalazar"><i class="fa fa-github"></i> GitHub</a>
@@ -119,13 +116,6 @@
 
 
 
-<div class="entry-header">
-  
-  <div class="entry-image">
-    <img src="http://localhost:4000/images/syringes.jpg" alt="SQLite Injection - What could go wrong?">
-  </div><!-- /.entry-image -->
-</div><!-- /.entry-header -->
-
 
 <div id="main" role="main">
   <article class="hentry">
@@ -147,7 +137,7 @@
     <div class="entry-content">
       <p>As far as embedded databases go, SQLite is a popular choice. It’s a relational database management system that follows much of SQL standards. Since it needs no standalone processes, its library communicates and links with the server becoming an inherent component utilized by many web browsers. It’s ACID-compliant (Atomicity, Consistency, Isolation, Durability) and uses a dynamic yet weakly typed syntax. This is where things can begin to go wrong. That syntax doesn’t ensure the domain or database integrity.</p>
 
-<!-- <figure><img src="../images/syringes.jpg" alt="Three Empty Syringes" width="100%"></figure> -->
+<figure><img src="../images/syringes.jpg" alt="Three Empty Syringes" width="100%" /></figure>
 
 <p>We’ve become more accustomed to hearing about security breaches and compromised databases. We think we’re protected by our favorite online shopping site or social network but then we receive the dreaded notice of hacks and prompts to update our passwords. While not all compromises are generated out of SQLite, it’s unfortunately a relatively easy program to manipulate and thus a popular option for those seeking to attack.</p>
 
@@ -190,20 +180,20 @@
           <a href="http://localhost:4000/examining-and-minimizing-stereotype-threat/" class="read-more-btn">Read More</a>
         </div><!-- /.read-more-header -->
         <div class="read-more-content">
-          <h3><a href="http://localhost:4000/caring-is-pairing/" title="Caring is Pairing">Caring is Pairing</a></h3>
-          <p>Learning to get the most out of pair programming. <a href="http://localhost:4000/caring-is-pairing/">Continue reading</a></p>
+          <h3><a href="http://localhost:4000/a-not-a-cheat-sheet-cheat-sheet/" title="A (Not a Cheat Sheet) Cheat Sheet">A (Not a Cheat Sheet) Cheat Sheet</a></h3>
+          <p>A quick go-to source for links about web design, Ruby, and other programming tools. <a href="http://localhost:4000/a-not-a-cheat-sheet-cheat-sheet/">Continue reading</a></p>
         </div><!-- /.read-more-content -->
       
       <div class="read-more-list">
         
           <div class="list-item">
-            <h4><a href="http://localhost:4000/riding-the-rails/" title="Riding the Rails">Riding the Rails</a></h4>
-            <span>Published on June 14, 2014</span>
+            <h4><a href="http://localhost:4000/caring-is-pairing/" title="Caring is Pairing">Caring is Pairing</a></h4>
+            <span>Published on June 15, 2014</span>
           </div><!-- /.list-item -->
         
           <div class="list-item">
-            <h4><a href="http://localhost:4000/complete-site-makeover/" title="Complete Site Makeover">Complete Site Makeover</a></h4>
-            <span>Published on June 13, 2014</span>
+            <h4><a href="http://localhost:4000/riding-the-rails/" title="Riding the Rails">Riding the Rails</a></h4>
+            <span>Published on June 14, 2014</span>
           </div><!-- /.list-item -->
         
       </div><!-- /.read-more-list -->
