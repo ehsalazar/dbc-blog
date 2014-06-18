@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2014-06-17T22:17:31-07:00</updated>
+<updated>2014-06-18T11:06:45-07:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Ernie Salazar</name>
@@ -37,35 +37,35 @@
   &lt;li&gt;
     &lt;h4 id=&quot;general&quot;&gt;General&lt;/h4&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.initializr.com/&quot;&gt;Initializr - Start an HTML5 project in 15 seconds!&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://codecondo.com/7-static-site-generators-for-building-websites-blogs/&quot;&gt;Codecondo - Static Site Generators for Building Websites &amp;amp; Blogs&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll - Transform your plain text into static websites and blogs.&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://anti-code.com/devtools-cheatsheet/&quot;&gt;Anti-Code.com - Chrome Devtools Cheatsheet&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.initializr.com/&quot;&gt;Initializr&lt;/a&gt; - Start an HTML5 project in 15 seconds!&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://codecondo.com/7-static-site-generators-for-building-websites-blogs/&quot;&gt;Codecondo&lt;/a&gt; - Static Site Generators for Building Websites &amp;amp; Blogs&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; - Transform your plain text into static websites and blogs.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://anti-code.com/devtools-cheatsheet/&quot;&gt;Anti-Code.com&lt;/a&gt; - Chrome Devtools Cheatsheet&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;h4 id=&quot;design&quot;&gt;Design&lt;/h4&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://designinstruct.com/web-design/responsive-css-grid/&quot;&gt;Design Instruct - 13 Best Responsive CSS Grid Systems for Your Web Designs&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://quirktools.com/&quot;&gt;QuirkTools - Smaps, Wires, Screenfly and Retro&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://designinstruct.com/web-design/responsive-css-grid/&quot;&gt;Design Instruct&lt;/a&gt; - 13 Best Responsive CSS Grid Systems for Your Web Designs&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://quirktools.com/&quot;&gt;QuirkTools&lt;/a&gt; - Smaps, Wires, Screenfly and Retro&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;h4 id=&quot;fonts--icons&quot;&gt;Fonts &amp;amp; Icons&lt;/h4&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.google.com/fonts#&quot;&gt;Google Fonts&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://fontawesome.io/&quot;&gt;Font Awesome - The iconic font and CSS toolkit&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://glyphsearch.com/&quot;&gt;GlyphSearch - Font Awesome, Glyphicons, IcoMoon and Ionicons&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.google.com/fonts#&quot;&gt;Google Fonts&lt;/a&gt; - A web with web fonts is more beautiful, readable, accessible and open.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://fontawesome.io/&quot;&gt;Font Awesome&lt;/a&gt; - The iconic font and CSS toolkit.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://glyphsearch.com/&quot;&gt;GlyphSearch&lt;/a&gt; - Font Awesome, Glyphicons, IcoMoon and Ionicons&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;h4 id=&quot;color--images&quot;&gt;Color &amp;amp; Images&lt;/h4&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.colourlovers.com/&quot;&gt;COLOURlovers - Share Your Color Ideas &amp;amp; Inspiration.&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors&quot;&gt;Wikipedia - List of Crayola crayon colors - with Hex Code&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://subtlepatterns.com/&quot;&gt;Subtle Patterns - Free tilable textured patterns&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://gratisography.com/&quot;&gt;Gratisography - Free high-resolution pictures&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://deathtothestockphoto.com/&quot;&gt;Death to the Stock Photo - Free high-resolution picture with subscription&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.colourlovers.com/&quot;&gt;COLOURlovers&lt;/a&gt; - Share Your Color Ideas &amp;amp; Inspiration.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors&quot;&gt;Wikipedia&lt;/a&gt; - List of Crayola crayon colors - with Hex Code&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://subtlepatterns.com/&quot;&gt;Subtle Patterns&lt;/a&gt; - Free tilable textured patterns.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://gratisography.com/&quot;&gt;Gratisography&lt;/a&gt; - Free high-resolution pictures.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://deathtothestockphoto.com/&quot;&gt;Death to the Stock Photo&lt;/a&gt; - Free high-resolution picture with subscription.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -76,23 +76,23 @@
   &lt;li&gt;
     &lt;h4 id=&quot;general-1&quot;&gt;General&lt;/h4&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://ruby-doc.org/&quot;&gt;Ruby Documentation&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://overapi.com/ruby/&quot;&gt;Ruby Cheat Sheet - methods by class&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://ruby-doc.org/&quot;&gt;Ruby Documentation&lt;/a&gt; - Help and documentation for the Ruby programming language.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://overapi.com/ruby/&quot;&gt;OverAPI.com&lt;/a&gt; - Ruby Cheat Sheet - methods by class&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;h4 id=&quot;regular-expression&quot;&gt;Regular Expression&lt;/h4&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.ruby-doc.org/stdlib-2.0.0/libdoc/json/rdoc/Regexp.html&quot;&gt;Ruby Documentation - Core 2.0.0 - Regexp&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://rubular.com/&quot;&gt;Rubular - a Ruby regular expression editor&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://ruby.bastardsbook.com/chapters/regexes/&quot;&gt;The Bastards Book of Ruby&lt;/a&gt; - Regular Expressions - An essential mini-language for text-matching and manipulation.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://rubular.com/&quot;&gt;Rubular&lt;/a&gt; - A Ruby regular expression editor.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;h4 id=&quot;enumerable&quot;&gt;Enumerable&lt;/h4&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://ruby-doc.org/core-2.0/Enumerable.html&quot;&gt;Ruby Documentation - Core 2.0.0 - Enumerable&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.globalnerdy.com/2008/09/17/enumerating-enumerable-will-return-soon/&quot;&gt;Global Nerdy - Enumerating Enumerable&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.davidegrayson.com/ruby/enumerable/enumerable_methods.pdf&quot;&gt;David Grayson - Ruby Enumerable module quick reference - PDF&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://ruby-doc.org/core-2.0/Enumerable.html&quot;&gt;Ruby Documentation - Core 2.0.0 - Enumerable&lt;/a&gt; - The Enumerable mixin provides collection classes with several traversal and searching methods, and with the ability to sort.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.globalnerdy.com/2008/09/17/enumerating-enumerable-will-return-soon/&quot;&gt;Global Nerdy&lt;/a&gt; - Enumerating Enumerable&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.davidegrayson.com/ruby/enumerable/enumerable_methods.pdf&quot;&gt;David Grayson - PDF&lt;/a&gt; - Ruby Enumerable module quick reference&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -100,11 +100,11 @@
 &lt;h3 id=&quot;others&quot;&gt;Others&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;../images/github-git-cheat-sheet.pdf&quot;&gt;Github - Git Cheat Sheet - PDF&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Daring Fireball - Markdown&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.jackiejohnston.us/cheatsheet&quot;&gt;Jackie Johnston - Sublime Text 3 Cheat Sheet for Mac&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://resrc.io/&quot;&gt;reSRC - Free programming learning resources.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.jsdb.io/&quot;&gt;JSDB - The definitive source of the best JavaScript libraries, frameworks, and plugins.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;../images/github-git-cheat-sheet.pdf&quot;&gt;Github - PDF&lt;/a&gt; - Git Cheat Sheet&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Daring Fireball&lt;/a&gt; - Markdown&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jackiejohnston.us/cheatsheet&quot;&gt;Jackie Johnston&lt;/a&gt; - Sublime Text 3 Cheat Sheet for Mac&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://resrc.io/&quot;&gt;reSRC&lt;/a&gt; - Free programming learning resources.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jsdb.io/&quot;&gt;JSDB&lt;/a&gt; - The definitive source of the best JavaScript libraries, frameworks, and plugins.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;While this isn’t a definitive list, they’re some of the tools I access most. If you come across any that I should know about, please feel free to share in the comments below.&lt;/p&gt;
@@ -205,7 +205,7 @@
     <uri>http://localhost:4000</uri>
     <email></email>
   </author>
-  <content type="html">&lt;p&gt;I’ve learned an amazing amount of technical knowledge over the course of the last eight weeks. When I began DBC’s Phase 0, I only had a shallow understanding of HTML and CSS, let alone git, JavaScript, and Ruby. Now, as this phase comes to a close and I’ll soon be immersed in Phase 1, I wanted to update my site to be more functional, easier to manage and overall, more professional. &lt;/p&gt;
+  <content type="html">&lt;p&gt;I’ve learned an amazing amount of technical knowledge over the course of the last eight weeks. When I began &lt;a href=&quot;http://devbootcamp.com/&quot;&gt;DBC’s&lt;/a&gt; Phase 0, I only had a shallow understanding of HTML and CSS, let alone git, JavaScript, and Ruby. Now, as this phase comes to a close and I’ll soon be immersed in Phase 1, I wanted to update my site to be more functional, easier to manage and overall, more professional. &lt;/p&gt;
 
 &lt;h3 id=&quot;out-with-the-old&quot;&gt;Out with the Old&lt;/h3&gt;
 
@@ -221,7 +221,7 @@
 
 &lt;p&gt;The next obstacle was in tackling the overall design. I’m proud that I was able to learn enough to get my site to look relatively good. I sought out elements I liked and taught myself how to execute them using either HTML or CSS. That said, I knew there was more I could do. I’d been exploring the possibility of utilizing Bootstrap and some of the many themes and options they provide. As I learned more about Bootstrap, I began to notice its prevalence everywhere. In the end, I found what they offered to be a bit much for my needs and it left me wanting for something a bit more unique. &lt;/p&gt;
 
-&lt;p&gt;That’s when I came across &lt;a href=&quot;http://mademistakes.com/about/&quot;&gt;Michael Rose&lt;/a&gt;, a designer out of NY state. He’s an amazing artist that does unbelievable things utilizing tools such his iPad and apps like &lt;a href=&quot;http://www.fiftythree.com/paper&quot;&gt;Paper by 53&lt;/a&gt;. On top of that, he’s built some cool themes based around Jekyll’s functionality and has shared them with the world on Github. I chose to access his &lt;a href=&quot;http://mademistakes.com/articles/hpstr-jekyll-theme/&quot;&gt;HPSTR Theme&lt;/a&gt; and have found it a great match for my needs. It has a modern and minimal design with a focus on clean typography while remaining creative and artistic in a way that I felt many technical blogs lack. &lt;/p&gt;
+&lt;p&gt;That’s when I came across &lt;a href=&quot;http://mademistakes.com/about/&quot;&gt;Michael Rose&lt;/a&gt;, a designer out of NY state. He’s an amazing artist that does unbelievable things utilizing tools such his iPad and apps like &lt;a href=&quot;http://www.fiftythree.com/paper&quot;&gt;Paper by 53&lt;/a&gt;. On top of that, he’s built some cool themes based around Jekyll’s functionality and has shared them with the world on Github. I chose to access his &lt;a href=&quot;http://mademistakes.com/articles/hpstr-jekyll-theme/&quot;&gt;HPSTR Theme&lt;/a&gt; and have found it a great match for my needs. It has a modern and minimal design with a focus on clean typography while remaining creative and artistic in a way that I felt many technical blogs lacked. &lt;/p&gt;
 
 &lt;h3 id=&quot;whats-next&quot;&gt;What’s Next&lt;/h3&gt;
 

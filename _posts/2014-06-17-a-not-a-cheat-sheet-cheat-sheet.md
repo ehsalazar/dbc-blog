@@ -8,7 +8,7 @@ image:
   feature: 
   credit: 
   creditlink: 
-  thumb: 
+  thumb: mouse.jpg
 comments: true
 share: true
 ---
@@ -22,43 +22,43 @@ This isn’t a typical cheat sheet in the sense that they usually drill down int
 ### Web Design
 
 * #### General
-  * [Initializr - Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
-  * [Codecondo - Static Site Generators for Building Websites & Blogs](http://codecondo.com/7-static-site-generators-for-building-websites-blogs/)
-  * [Jekyll - Transform your plain text into static websites and blogs.](http://jekyllrb.com/)
-  * [Anti-Code.com - Chrome Devtools Cheatsheet](http://anti-code.com/devtools-cheatsheet/)
+  * [Initializr](http://www.initializr.com/) - Start an HTML5 project in 15 seconds!
+  * [Codecondo](http://codecondo.com/7-static-site-generators-for-building-websites-blogs/) - Static Site Generators for Building Websites & Blogs
+  * [Jekyll](http://jekyllrb.com/) - Transform your plain text into static websites and blogs.
+  * [Anti-Code.com](http://anti-code.com/devtools-cheatsheet/) - Chrome Devtools Cheatsheet
 * #### Design
-  * [Design Instruct - 13 Best Responsive CSS Grid Systems for Your Web Designs](http://designinstruct.com/web-design/responsive-css-grid/)
-  * [QuirkTools - Smaps, Wires, Screenfly and Retro](http://quirktools.com/)
+  * [Design Instruct](http://designinstruct.com/web-design/responsive-css-grid/) - 13 Best Responsive CSS Grid Systems for Your Web Designs
+  * [QuirkTools](http://quirktools.com/) - Smaps, Wires, Screenfly and Retro
 * #### Fonts & Icons
-  * [Google Fonts](http://www.google.com/fonts#)
-  * [Font Awesome - The iconic font and CSS toolkit.](http://fontawesome.io/)
-  * [GlyphSearch - Font Awesome, Glyphicons, IcoMoon and Ionicons](http://glyphsearch.com/)
+  * [Google Fonts](http://www.google.com/fonts#) - A web with web fonts is more beautiful, readable, accessible and open.
+  * [Font Awesome](http://fontawesome.io/) - The iconic font and CSS toolkit.
+  * [GlyphSearch](http://glyphsearch.com/) - Font Awesome, Glyphicons, IcoMoon and Ionicons
 * #### Color & Images
-  * [COLOURlovers - Share Your Color Ideas & Inspiration.](http://www.colourlovers.com/)
-  * [Wikipedia - List of Crayola crayon colors - with Hex Code](http://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors)
-  * [Subtle Patterns - Free tilable textured patterns.](http://subtlepatterns.com/)
-  * [Gratisography - Free high-resolution pictures.](http://gratisography.com/)
-  * [Death to the Stock Photo - Free high-resolution picture with subscription.](http://deathtothestockphoto.com/)
+  * [COLOURlovers](http://www.colourlovers.com/) - Share Your Color Ideas & Inspiration.
+  * [Wikipedia](http://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors) - List of Crayola crayon colors - with Hex Code
+  * [Subtle Patterns](http://subtlepatterns.com/) - Free tilable textured patterns.
+  * [Gratisography](http://gratisography.com/) - Free high-resolution pictures.
+  * [Death to the Stock Photo](http://deathtothestockphoto.com/) - Free high-resolution picture with subscription.
 
 ### Ruby
 
 * #### General
-  * [Ruby Documentation](http://ruby-doc.org/)
-  * [OverAPI.com - Ruby Cheat Sheet - methods by class](http://overapi.com/ruby/)
+  * [Ruby Documentation](http://ruby-doc.org/) - Help and documentation for the Ruby programming language.
+  * [OverAPI.com](http://overapi.com/ruby/) - Ruby Cheat Sheet - methods by class
 * #### Regular Expression
-  * [Ruby Documentation - Core 2.0.0 - Regexp](http://www.ruby-doc.org/stdlib-2.0.0/libdoc/json/rdoc/Regexp.html)
-  * [Rubular - a Ruby regular expression editor](http://rubular.com/)
+  * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/chapters/regexes/) - Regular Expressions - An essential mini-language for text-matching and manipulation.
+  * [Rubular](http://rubular.com/) - A Ruby regular expression editor.
 * #### Enumerable
-  * [Ruby Documentation - Core 2.0.0 - Enumerable](http://ruby-doc.org/core-2.0/Enumerable.html)
-  * [Global Nerdy - Enumerating Enumerable](http://www.globalnerdy.com/2008/09/17/enumerating-enumerable-will-return-soon/)
-  * [David Grayson - Ruby Enumerable module quick reference - PDF](http://www.davidegrayson.com/ruby/enumerable/enumerable_methods.pdf)
+  * [Ruby Documentation - Core 2.0.0 - Enumerable](http://ruby-doc.org/core-2.0/Enumerable.html) - The Enumerable mixin provides collection classes with several traversal and searching methods, and with the ability to sort.
+  * [Global Nerdy](http://www.globalnerdy.com/2008/09/17/enumerating-enumerable-will-return-soon/) - Enumerating Enumerable
+  * [David Grayson - PDF](http://www.davidegrayson.com/ruby/enumerable/enumerable_methods.pdf) - Ruby Enumerable module quick reference
 
 ### Others
 
-* [Github - Git Cheat Sheet - PDF](../images/github-git-cheat-sheet.pdf)
-* [Daring Fireball - Markdown](http://daringfireball.net/projects/markdown/)
-* [Jackie Johnston - Sublime Text 3 Cheat Sheet for Mac](http://www.jackiejohnston.us/cheatsheet)
-* [reSRC - Free programming learning resources.](http://resrc.io/)
-* [JSDB - The definitive source of the best JavaScript libraries, frameworks, and plugins.](http://www.jsdb.io/)
+* [Github - PDF](../images/github-git-cheat-sheet.pdf) - Git Cheat Sheet
+* [Daring Fireball](http://daringfireball.net/projects/markdown/) - Markdown
+* [Jackie Johnston](http://www.jackiejohnston.us/cheatsheet) - Sublime Text 3 Cheat Sheet for Mac
+* [reSRC](http://resrc.io/) - Free programming learning resources.
+* [JSDB](http://www.jsdb.io/) - The definitive source of the best JavaScript libraries, frameworks, and plugins.
 
 While this isn't a definitive list, they're some of the tools I access most. If you come across any that I should know about, please feel free to share in the comments below.
