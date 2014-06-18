@@ -15,7 +15,7 @@ share: true
 ---
 
 
-I've learned an amazing amount of technical knowledge over the course of the last eight weeks. When I began DBC's Phase 0, I only had a shallow understanding of HTML and CSS, let alone git, JavaScript, and Ruby. Now, as this phase comes to a close and I’ll soon be immersed in Phase 1, I wanted to update my site to be more functional, easier to manage and overall, more professional. 
+I've learned an amazing amount of technical knowledge over the course of the last eight weeks. When I began [DBC's](http://devbootcamp.com/) Phase 0, I only had a shallow understanding of HTML and CSS, let alone git, JavaScript, and Ruby. Now, as this phase comes to a close and I’ll soon be immersed in Phase 1, I wanted to update my site to be more functional, easier to manage and overall, more professional. 
 
 ### Out with the Old
 
@@ -31,7 +31,7 @@ To tackle my first concern, I looked into a few different static site generators
 
 The next obstacle was in tackling the overall design. I’m proud that I was able to learn enough to get my site to look relatively good. I sought out elements I liked and taught myself how to execute them using either HTML or CSS. That said, I knew there was more I could do. I’d been exploring the possibility of utilizing Bootstrap and some of the many themes and options they provide. As I learned more about Bootstrap, I began to notice its prevalence everywhere. In the end, I found what they offered to be a bit much for my needs and it left me wanting for something a bit more unique. 
 
-That’s when I came across [Michael Rose](http://mademistakes.com/about/), a designer out of NY state. He’s an amazing artist that does unbelievable things utilizing tools such his iPad and apps like [Paper by 53](http://www.fiftythree.com/paper). On top of that, he’s built some cool themes based around Jekyll’s functionality and has shared them with the world on Github. I chose to access his [HPSTR Theme](http://mademistakes.com/articles/hpstr-jekyll-theme/) and have found it a great match for my needs. It has a modern and minimal design with a focus on clean typography while remaining creative and artistic in a way that I felt many technical blogs lack. 
+That’s when I came across [Michael Rose](http://mademistakes.com/about/), a designer out of NY state. He’s an amazing artist that does unbelievable things utilizing tools such his iPad and apps like [Paper by 53](http://www.fiftythree.com/paper). On top of that, he’s built some cool themes based around Jekyll’s functionality and has shared them with the world on Github. I chose to access his [HPSTR Theme](http://mademistakes.com/articles/hpstr-jekyll-theme/) and have found it a great match for my needs. It has a modern and minimal design with a focus on clean typography while remaining creative and artistic in a way that I felt many technical blogs lacked. 
 
 ### What’s Next
 
