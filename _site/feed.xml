@@ -4,13 +4,61 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2014-06-19T23:05:00-07:00</updated>
+<updated>2014-06-21T13:26:54-07:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Ernie Salazar</name>
   <uri>http://localhost:4000/</uri>
   <email></email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Taking the Headphones Off]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/taking-the-headphones-off/" />
+  <id>http://localhost:4000/taking-the-headphones-off</id>
+  <updated>2014-06-21 13:10:39 -0700T00:00:00-00:00</updated>
+  <published>2014-06-21T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;As part of the application process for Dev Bootcamp, I took a quick &lt;a href=&quot;http://www.thelearningweb.net/personalthink.html&quot;&gt;test&lt;/a&gt; to determine my personal thinking style. It’s based on the research of &lt;a href=&quot;http://en.wikipedia.org/wiki/Anthony_Gregorc&quot;&gt;Anthony Gregorc&lt;/a&gt; which is theorized into the &lt;a href=&quot;http://web.cortland.edu/andersmd/learning/gregorc.htm&quot;&gt;Gregorc Mind Styles&lt;/a&gt;. These mind styles can help illuminate, not only how a particular person thinks, but also how they learn. &lt;/p&gt;
+
+&lt;figure&gt;&lt;img src=&quot;../images/headphones.jpg&quot; alt=&quot;A person wearing headphones&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;What I discovered three months ago from the test was that I fall within the Concrete Random model. Here’s what that means.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;This learner likes:
+      &lt;ul&gt;
+        &lt;li&gt;experimenting to find answers&lt;/li&gt;
+        &lt;li&gt;take risks&lt;/li&gt;
+        &lt;li&gt;use their intuition&lt;/li&gt;
+        &lt;li&gt;solving problems independently&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;They learn best when:
+      &lt;ul&gt;
+        &lt;li&gt;they are able to use trial-and-error approaches&lt;/li&gt;
+        &lt;li&gt;able to compete with others&lt;/li&gt;
+        &lt;li&gt;given the opportunity to work through the problems by themselves&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While I didn’t initially give much thought to the outcome of the test, I now have a clearer appreciation for its results. Dev Bootcamp isn’t the traditional learning model. They take a different approach to teaching, collaboration, and feedback, all with the goal of developing world-class life-long learners. In some ways, a CR thinker is ideal for this approach, in other ways, they’re not. &lt;/p&gt;
+
+&lt;p&gt;I’ve enjoyed the freedom to dive into challenges and really seek solutions on my own. We’ve been given a framework or guide but not told to take these exact steps to reach this exact outcome. I’ve also enjoyed being able to experiment and play around with different concepts until I found the solution that worked best for me. On the other hand, I truly live up to the ideal of working independently. I can work for hours, much to my delight, plugging away on something only to remember that I should be working with someone else on it. &lt;/p&gt;
+
+&lt;p&gt;Last week I discussed my thoughts on &lt;a href=&quot;http://www.ehsalazar.com/caring-is-pairing/&quot;&gt;pair programming&lt;/a&gt;. I do think it’s a great and dynamic tool for learning and understanding. I’ve had nothing but positive outcomes from it after the fact. The challenge for me, and for other CR thinkers, is actually putting myself out there and actively working to engage and problem solve with others. My big takeaway from these last nine weeks is that I need to take off the allegoric headphones. I need to develop that extroverted muscle even when it goes against my comfort zone. Now as I transition from the remote portion of the program into the in-classroom setting, this will only further enhance my development and growth. &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/taking-the-headphones-off/&quot;&gt;Taking the Headphones Off&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 21, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>

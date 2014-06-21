@@ -52,6 +52,10 @@
 
     
     <url>
+        <loc>http://localhost:4000/taking-the-headphones-off/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/a-not-a-cheat-sheet-cheat-sheet/</loc>
     </url>
     
