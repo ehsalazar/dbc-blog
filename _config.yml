@@ -1,5 +1,5 @@
 title:            eh(SALAZAR)
-description:      One part technical to one part cultural. Add a splash of design and serve chilled. 
+description:      One part technical to one part cultural. Add a splash of design and serve chilled.
 disqus_shortname: ehsalazar
 reading_time:     true
 words_per_minute: 200
@@ -12,16 +12,16 @@ owner:
   name:           Ernie Salazar
   avatar:         avatar.jpeg
   bio:            "A web developer in the making. Come along for the ride."
-  email:          
+  email:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        ehsalazar
-  facebook:       
+  facebook:
   github:         ehsalazar
-  stackexchange:  
-  linkedin:       
+  stackexchange:
+  linkedin:
   instagram:      ehsalazar
-  flickr:         
-  tumblr:         
+  flickr:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/114551868701777834909
 
@@ -30,22 +30,22 @@ background: noisy.png
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-52138557-1
-google_verify:      
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
 links:
   - title: Projects
     url: /projects/
-    external: 
+    external:
   - title: Dev Bootcamp
     url: http://devbootcamp.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Los_Angeles 
+timezone:    America/Los_Angeles
 future:      true
 highlighter: pygments
 markdown:    kramdown

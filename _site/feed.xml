@@ -4,13 +4,51 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2014-06-21T13:26:54-07:00</updated>
+<updated>2014-06-29T22:34:33-07:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Ernie Salazar</name>
   <uri>http://localhost:4000/</uri>
   <email></email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Celebration]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/celebration/" />
+  <id>http://localhost:4000/celebration</id>
+  <updated>2014-06-29 22:18:46 -0700T00:00:00-00:00</updated>
+  <published>2014-06-29T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;With my first full week at Dev Bootcamp in the books, I can look back and celebrate. It’s been a challenging experience so far and I have a feeling that this past week was the easiest week of them all. It’s an educational experience completely different than anything I’ve been apart of. Despite the long days and little sleep, I can’t wait to wake up tomorrow and do it all over again.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src=&quot;../images/sfpride14.JPG&quot; alt=&quot;San Francisco Pride Parade, 2014&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;We covered a good amount of ground in just one week including Ruby basics, object-oriented programming, data structures, encoding and decoding and even recursion. All of which were then wrapped into challenges we worked on (including a Sudoku challenge on Friday that fried my brain a little). In addition to that, we’ve been encourage to read and/or skim about a 1,000 lines of code a day and 1,000 pages of programming books and articles a week.&lt;/p&gt;
+
+&lt;p&gt;Apart from all the technical information, I had three take-aways from this past week.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;This is a unique environment and educational experience. We’re encouraged to drive and direct our own experience. The staff, instructors and coaches foster an environment where we can approach learning with enthusiasm and curiosity. At this stage, it’s all about being exposed to as much as we can handle (and then some). It’s not so much with the expectation of memorization but rather mere exposure.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The social dynamic is vital. We were introduced to pair programming in Phase 0 but this takes it to a whole other level. Whether it’s working with a pair partner on a challenge, a group for check-ins or with our entire cohort on social topics for Engineering Empathy, we are challenged to be open, honest and communicative.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We’re being prepared for the real world experience of being programmers, web developers and computer engineers in today’s tech industry. It’s very likely that we will one day soon be working at a start-up company. It’s also likely, if that company is highly successful, that it will be bought out by a large enterprise. While, it was not written into our curriculum, that in fact was our first week experience. Dev Bootcamp &lt;a href=&quot;http://devbootcamp.com/2014/06/25/accelerating-the-pace-of-learning/&quot;&gt;announced&lt;/a&gt; to us mid-week that they had been acquired by Kaplan Inc.. We’ll see what that future has in store for us, but honestly at this stage, I have more important things to focus on (see take-away one and two).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Just as my first week at Dev Bootcamp came to a close, San Francisco launched into it’s annual &lt;a href=&quot;http://www.sfpride.org/&quot;&gt;LGBT Pride&lt;/a&gt; celebration. While I was truly to busy to participate in it as I would have in years past. I did take a break today to enjoy the parade and celebrate. So with that in mind, here’s to pride, both in who I am, and to what I accomplished this past week.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/celebration/&quot;&gt;Celebration&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 29, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -914,58 +952,6 @@ majoring in Computer Science.
 
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/a-reflection-of-values/&quot;&gt;A Reflection of Values&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on April 26, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Wireframing 3 Favorite Sites]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/wireframing-3-favorite-sites/" />
-  <id>http://localhost:4000/wireframing-3-favorite-sites</id>
-  <updated>2014-06-13 19:04:31 -0700T00:00:00-00:00</updated>
-  <published>2014-04-24T00:00:00-07:00</published>
-  
-  <author>
-    <name>Ernie Salazar</name>
-    <uri>http://localhost:4000</uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;h3 id=&quot;drbronnerscomhttpswwwdrbronnercom&quot;&gt;&lt;a href=&quot;https://www.drbronner.com/&quot;&gt;drbronners.com&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;The website is geared toward commerce. The problem that the homepage is solving is providing a means for consumers to purchase its product. It also has a strong secondary purpose, to educate and inform consumers around its business practices and company philosophies. I believe one of its visual challenges is to convey excitement and interest around what is basically just soap. This is achieved through a colorful and impactful image in its main content area that is surrounded by what is otherwise a clean white environment.&lt;/p&gt;
-
-&lt;h4 id=&quot;website-screenshot&quot;&gt;Website Screenshot&lt;/h4&gt;
-
-&lt;figure&gt;&lt;img src=&quot;../images/drbronners.png&quot; alt=&quot;Website&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
-
-&lt;h4 id=&quot;wireframe-screenshot&quot;&gt;Wireframe Screenshot&lt;/h4&gt;
-
-&lt;figure&gt;&lt;img src=&quot;../images/drbronners_wireframe.png&quot; alt=&quot;Wireframe&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;fivethirtyeightcomhttpfivethirtyeightcom&quot;&gt;&lt;a href=&quot;http://fivethirtyeight.com/&quot;&gt;fivethirtyeight.com&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;The website is a news outlet. The problem that the homepage is solving is providing a data driven source of information to its readers. As a relatively new news source it is also providing branding and engagement around its content providers. One of its visual challenges is to be different in a crowded news outlet arena while maintaining its roots in data driven reporting. The site makes frequent use of charts and graphs and perhaps takes its visual design clues from such. The layout is clean and relatively flat with limited use of color added for impact. Photographs and images are used to introduce stories rather than telling them.&lt;/p&gt;
-
-&lt;h4 id=&quot;website-screenshot-1&quot;&gt;Website Screenshot&lt;/h4&gt;
-
-&lt;figure&gt;&lt;img src=&quot;../images/fivethirtyeight.png&quot; alt=&quot;Website&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
-
-&lt;h4 id=&quot;wireframe-screenshot-1&quot;&gt;Wireframe Screenshot&lt;/h4&gt;
-
-&lt;figure&gt;&lt;img src=&quot;../images/fivethirtyeight_wireframe.png&quot; alt=&quot;Wireframe&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;fancycomhttpfancycom&quot;&gt;&lt;a href=&quot;http://fancy.com/&quot;&gt;fancy.com&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;The website is geared to commerce. The problem that the homepage is solving is providing a means for, and directing consumers to curated products. Its visual challenges are displaying goods for purchase while engaging its consumers to socialize and build collections. The site is presented as a stark environment where the images of goods for sale garner all the attention. The user can build their own collections for display as well as control how the images are displayed. This gallery or museum setting goes toward solving its visual challenge while maintaining its curated quality.&lt;/p&gt;
-
-&lt;h4 id=&quot;website-screenshot-2&quot;&gt;Website Screenshot&lt;/h4&gt;
-
-&lt;figure&gt;&lt;img src=&quot;../images/fancy.png&quot; alt=&quot;Website&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
-
-&lt;h4 id=&quot;wireframe-screenshot-2&quot;&gt;Wireframe Screenshot&lt;/h4&gt;
-
-&lt;figure&gt;&lt;img src=&quot;../images/fancy_wireframe.png&quot; alt=&quot;Wireframe&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/wireframing-3-favorite-sites/&quot;&gt;Wireframing 3 Favorite Sites&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on April 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

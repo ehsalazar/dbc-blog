@@ -49,7 +49,15 @@
         <loc>http://localhost:4000/page4/index.html</loc>
     </url>
     
+    <url>
+        <loc>http://localhost:4000/page5/index.html</loc>
+    </url>
+    
 
+    
+    <url>
+        <loc>http://localhost:4000/celebration/</loc>
+    </url>
     
     <url>
         <loc>http://localhost:4000/taking-the-headphones-off/</loc>
