@@ -3,7 +3,7 @@ layout: post
 title: "Celebration"
 description: "A wrap-up of sorts, of my Dev Bootcamp week one experience."
 modified: 2014-06-29 22:18:46 -0700
-tags: [cultural, dbc, take-away, phase 1, week 1]
+tags: [cultural, dbc, take-away, phase 1]
 image:
   feature:
   credit:
