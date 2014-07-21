@@ -3,11 +3,11 @@ layout: post
 title: "A Reflection of Values"
 description: "Analyzing a particular value and its impact on our lives."
 modified: 2014-06-13 11:36:49 -0700
-tags: [cultural, values, week 1, phase 0]
+tags: [cultural, values, phase 0]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
 share: true
 ---

@@ -3,11 +3,11 @@ layout: post
 title: "Keeping Calm in a World of Conflict"
 description: "Finding ways to overcome and deal with conflict."
 modified: 2014-06-13 13:52:36 -0700
-tags: [cultural, conflict, week 4, phase 0]
+tags: [cultural, conflict, phase 0]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
 share: true
 ---

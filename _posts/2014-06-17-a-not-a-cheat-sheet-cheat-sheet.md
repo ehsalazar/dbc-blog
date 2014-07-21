@@ -3,11 +3,11 @@ layout: post
 title: "A (Not a Cheat Sheet) Cheat Sheet"
 description: "A quick go-to source for links about web design, Ruby, and other programming tools."
 modified: 2014-06-17 21:45:51 -0700
-tags: [technical, cheat sheet, week 9, phase 0]
+tags: [technical, cheat sheet, phase 0]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
   thumb: mouse.jpg
 comments: true
 share: true

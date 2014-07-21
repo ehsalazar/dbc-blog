@@ -3,11 +3,11 @@ layout: post
 title: "Enumerable Groupie Say What?"
 description: "Understanding Ruby’s Enumerable#group_by."
 modified: 2014-06-13 13:33:29 -0700
-tags: [technical, ruby, code, week 4, phase 0]
+tags: [technical, ruby, code, phase 0]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
 share: true
 ---
@@ -29,7 +29,7 @@ We took a group of numbers from 1 through 15 and called the group_by method. The
 ### Example using a collection of strings:
 
 {% highlight ruby %}
-movies = ["The Love Bug", "Spiderman", "Godzilla", "Citizen Kane", 
+movies = ["The Love Bug", "Spiderman", "Godzilla", "Citizen Kane",
           "The War of the Worlds", "Casablanca", "Schindler's List",
           "Goodfellas", "Toy Story"]
 
@@ -45,8 +45,8 @@ This time we created a collection of movie titles. We then called the group_by m
 ### Learn More
 
 As you can see, it’s not hard understanding how useful group_by can be. If you’re looking to loop through collections and organize their elements, this method should be in your toolbox. If you want to learn more, explore these resources.
-					
+
 * [Ruby Documentation - Core 2.1.1 - Enumerable](http://www.ruby-doc.org/core-2.1.1/Enumerable.html)
 * [Global Nerdy - Enumerating Enumerable: Enumerable#group_by](http://www.globalnerdy.com/2008/08/31/enumerating-enumerable-enumerablegroup_by/)
-					
+
 Check them out and enjoy. Global Nerdy has a concise explanation of other enumerable methods if you're interested. I was!

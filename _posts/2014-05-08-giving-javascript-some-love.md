@@ -3,11 +3,11 @@ layout: post
 title: "Giving JavaScript Some Love"
 description: "Discussing the features and benefits of JavaScript."
 modified: 2014-06-13 13:15:54 -0700
-tags: [technical, javascript, code, week 3, phase 0]
+tags: [technical, javascript, code, phase 0]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
 share: true
 ---
@@ -28,6 +28,6 @@ While this has shown just a quick bit of love to JavaScript, these resources hav
 
 * [JavaScript Track - Codecademy - Learn how to make your websites interactive and how to build browser based games.](http://www.codecademy.com/tracks/javascript)
 * [JavaScript Tutorial - w3schools.com - JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced.](http://www.w3schools.com/js/DEFAULT.asp)
-* [JavaScript - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/JavaScript) 
-					
+* [JavaScript - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/JavaScript)
+
 If interested, check them out and learn more about this programming language that you likely utilize everyday on the web, without even knowing about it.

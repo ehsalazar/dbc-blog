@@ -3,11 +3,11 @@ layout: post
 title: "Examining &amp; Minimizing Stereotype Threat"
 description: "What’s stereotype threat and how can its effects be diminished?"
 modified: 2014-06-13 16:58:42 -0700
-tags: [cultural, stereotype, week 6, phase 0]
+tags: [cultural, stereotype, phase 0]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
 share: true
 ---
@@ -27,9 +27,9 @@ Societal norms have shifted a great deal in the last couple of decades, especial
 ### Learn More
 
 If you’d like to explore this topic more, there’s a wealth of information online including more studies, other remedies, and even counter-arguments. To start, consider the following resources.
-					
-* [ReducingStereotypeThreat.org - What is stereotype threat?](http://www.reducingstereotypethreat.org/definition.html) 
+
+* [ReducingStereotypeThreat.org - What is stereotype threat?](http://www.reducingstereotypethreat.org/definition.html)
 * [DiversityInc - The Stereotype Threat to Workplace Diversity: Dr. Claude Steele Mesmerizes Audience](http://www.diversityinc.com/diversity-events/the-stereotype-threat-dr-claude-steele-mesmerizes-audience-video/)
-* [Wikipedia - Stereotype Threat](http://en.wikipedia.org/wiki/Stereotype_threat) 
+* [Wikipedia - Stereotype Threat](http://en.wikipedia.org/wiki/Stereotype_threat)
 
 Being aware of stereotype threat or at least being aware of the impact the groups we identify with can have on our outcomes is a worthy pursuit. It can help us when we’re in homogeneous situations and more importantly, when we’re not.

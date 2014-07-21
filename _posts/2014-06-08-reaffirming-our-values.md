@@ -3,11 +3,11 @@ layout: post
 title: "Reaffirming Our Values"
 description: "Reflecting on our values and the role they can play in overcoming stereotype threat."
 modified: 2014-06-13 17:13:27 -0700
-tags: [cultural, values, stereotype, week 7, phase 0]
+tags: [cultural, values, stereotype, phase 0]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
 share: true
 ---

@@ -3,11 +3,11 @@ layout: post
 title: "Register for Class"
 description: "Taking a look at a Ruby Class and its uses."
 modified: 2014-06-13 15:50:13 -0700
-tags: [technical, ruby, code, week 5, phase 0]
+tags: [technical, ruby, code, phase 0]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
 share: true
 ---
@@ -42,7 +42,7 @@ julie = Student.new("Julie Jones", "Junior", "Computer Science")
 william.register("May 4, 2014")
 julie.register("April 29, 2014")
 
-puts "#{Students.get_count} students have registered for class.\n\n"        
+puts "#{Students.get_count} students have registered for class.\n\n"
 {% endhighlight %}
 
 Let’s break down what we’ve created starting from the top and work our way down. First, we created our `Students` class. We then set a class variable (identified by the `@@`) of count to zero. It’s a class variable in that the object `Students` will be able to access it’s value. Next we defined our `initialize` method. Think of this as the “boot up” method that every member of `Students` will go through. Within it, we set instance variables (identified by the `@`) equal to the values we enter for each member. We also incremented our class variable.
@@ -55,10 +55,10 @@ With our class `Students` done, we now just have to instantiate or create each i
 
 {% highlight bash %}
 
-William Ways, registered for CS50 on May 4, 2014. They are a Sophomore that is 
+William Ways, registered for CS50 on May 4, 2014. They are a Sophomore that is
 majoring in Economics.
 
-Julie Jones, registered for CS50 on April 29, 2014. They are a Junior that is 
+Julie Jones, registered for CS50 on April 29, 2014. They are a Junior that is
 majoring in Computer Science.
 
 2 students have registered for class.
@@ -69,7 +69,7 @@ majoring in Computer Science.
 ### Learn More
 
 This was just a simple introduction to classes. If you want to class it up even more, check out these resources and start building some Ruby objects of your own.
-					
+
 * [Codecademy - Ruby Track - Object-Oriented Programming I](http://www.codecademy.com/courses/ruby-beginner-en-MFiQ6/0/1?curriculum_id=5059f8619189a5000201fbcb)
 * [Tuts+ Tutorial - Ruby for Newbies: Working with Classes](http://code.tutsplus.com/tutorials/ruby-for-newbies-working-with-classes--net-15938)
 * [Ruby Documentation - Core 2.1.1 - Class](http://www.ruby-doc.org/core-2.1.1/Class.html)

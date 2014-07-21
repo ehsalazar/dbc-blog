@@ -4,13 +4,13 @@ permalink: /wireframing-3-favorite-sites/
 title: "Wireframing 3 Favorite Sites"
 description: "Utilizing wireframe as a tool to analyze the design of websites."
 modified: 2014-06-13 19:04:31 -0700
-tags: [technical, websites, wireframe, week 1, phase 0]
+tags: [technical, websites, wireframe, phase 0]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
-share: 
+share:
 ---
 
 ### [drbronners.com](https://www.drbronner.com/)
@@ -37,7 +37,7 @@ The website is a news outlet. The problem that the homepage is solving is provid
 
 <figure><img src="../images/fivethirtyeight_wireframe.png" alt="Wireframe" width="100%"></figure>
 
-### [fancy.com](http://fancy.com/) 
+### [fancy.com](http://fancy.com/)
 
 The website is geared to commerce. The problem that the homepage is solving is providing a means for, and directing consumers to curated products. Its visual challenges are displaying goods for purchase while engaging its consumers to socialize and build collections. The site is presented as a stark environment where the images of goods for sale garner all the attention. The user can build their own collections for display as well as control how the images are displayed. This gallery or museum setting goes toward solving its visual challenge while maintaining its curated quality.
 

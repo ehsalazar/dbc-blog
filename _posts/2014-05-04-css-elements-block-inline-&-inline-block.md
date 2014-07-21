@@ -3,11 +3,11 @@ layout: post
 title: "CSS Block, Inline & Inline-block"
 description: "Taking a look at CSS block, inline and inline-block elements."
 modified: 2014-06-13 12:31:25 -0700
-tags: [technical, css, code, week 2, phase 0]
+tags: [technical, css, code, phase 0]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
 share: true
 ---
@@ -22,8 +22,8 @@ By default, many of the more common elements will display as blocks. Basically, 
 {% highlight html %}
 <body>
 	<section>
-		<p>Lorem ipsum dolor sit amet, consectetuer elit, sed diam. Dolore 
-		magna erat volutpat. Ullamcorper suscipit lobortis nisl ut aliquip 
+		<p>Lorem ipsum dolor sit amet, consectetuer elit, sed diam. Dolore
+		magna erat volutpat. Ullamcorper suscipit lobortis nisl ut aliquip
 		ex ea commodo conseqat.</p>
 	</section>
 </body>
@@ -51,8 +51,8 @@ Now let's look at inline. While `p` had a default display of block, tags such as
 {% highlight html %}
 <body>
   <section>
-    <p>Lorem ipsum dolor sit amet, consectetuer elit, sed diam. Dolore 
-    magna erat volutpat. Ullamcorper suscipit <strong>lobortis</strong> 
+    <p>Lorem ipsum dolor sit amet, consectetuer elit, sed diam. Dolore
+    magna erat volutpat. Ullamcorper suscipit <strong>lobortis</strong>
     nisl ut aliquip ex ea commodo conseqat.</p>
   </section>
 </body>

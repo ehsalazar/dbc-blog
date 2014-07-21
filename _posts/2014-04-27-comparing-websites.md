@@ -3,11 +3,11 @@ layout: post
 title: "Comparing Websites"
 description: "Looking and discussing the design of three of my favorite sites."
 modified: 2014-06-13 12:13:25 -0700
-tags: [technical, websites, design, week 1, phase 0]
+tags: [technical, websites, design, phase 0]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
 share: true
 ---

@@ -3,11 +3,11 @@ layout: post
 title: "What are Blocks, Procs, and Lambdas?"
 description: "Understanding and using Ruby blocks, procs and lambdas."
 modified: 2014-06-13 16:38:12 -0700
-tags: [technical, ruby, code, week 6, phase 0]
+tags: [technical, ruby, code, phase 0]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
 share: true
 ---
@@ -29,7 +29,7 @@ evens = nums.select {|i| i % 2 == 0}
 
 p nums     # => [1, 2, 3, 4, 5, 6, 7, 8, 9]
 p doubled  # => [2, 4, 6, 8, 10, 12, 14, 16, 18]
-p evens    # => [2, 4, 6, 8]            
+p evens    # => [2, 4, 6, 8]
 {% endhighlight %}
 
 ### Procs
@@ -54,7 +54,7 @@ p tens         # => [10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
 p odd_tens     # => [11, 13, 15, 17, 19]
 
 p twenties     # => [20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
-p odd_twenties # => [21, 23, 25, 27, 29]       
+p odd_twenties # => [21, 23, 25, 27, 29]
 {% endhighlight %}
 
 ### Lambdas
@@ -72,18 +72,18 @@ def now_who_has_power
   lambda_gets = lambda { return "I think I have power."}
   lambda_gets.call
   "Nope, I have the power now!"
-end 
+end
 
 puts who_has_power     # => I have the power!
-puts now_who_has_power # => Nope, I have the power now!      
+puts now_who_has_power # => Nope, I have the power now!
 {% endhighlight %}
 
 ### Learn More
 
 As you can see, blocks, Procs and lambdas are great tools to add to our Ruby toolbox. They can increase the scope and power of the methods and objects we build. If you want to learn more about them, check out these useful resources.
-					
+
 * [Codecademy - Ruby Track - Blocks, Procs, and Lambdas](http://www.codecademy.com/courses/ruby-beginner-en-L3ZCI/0/1?curriculum_id=5059f8619189a5000201fbcb)
 * [Tuts+ Tutorial - Ruby on Rails Study Guide: Blocks, Procs, and Lambdas](http://code.tutsplus.com/tutorials/ruby-on-rails-study-guide-blocks-procs-and-lambdas--net-29811)
 * [Rubymonk - Ruby Primer: Ascent - Blocks 0.4 - Blocks, Procs, and Lambdas](http://rubymonk.com/learning/books/4-ruby-primer-ascent/chapters/18-blocks/lessons/64-blocks-procs-lambdas)
-					
+
 They're common elements of many methods and programs. Once you pick up the basic syntax you’ll be coding with blocks, Procs and lambdas too.

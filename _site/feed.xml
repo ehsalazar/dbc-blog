@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2014-07-06T17:54:45-07:00</updated>
+<updated>2014-07-20T23:19:37-07:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Ernie Salazar</name>
@@ -14,7 +14,43 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Wait What?]]></title>
+  <title type="html"><![CDATA[Time Commitment]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/time-commitment/" />
+  <id>http://localhost:4000/time-commitment</id>
+  <updated>2014-07-20 22:42:03 -0700T00:00:00-00:00</updated>
+  <published>2014-07-20T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;I spent 80 hours of this past week physically at Dev Bootcamp’s San Francisco location. In addition, I likely spent another 20 plus hours working on projects from home. While on campus, I was never the first to arrive and not nearly the last to leave. I knew coming into the program that much would be expected, including my time. While It’s been tiring at times, it’s also more rewarding than I ever imagined.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src=&quot;../images/clock.jpg&quot; alt=&quot;faces of confusion&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;A couple of years ago, the company that I worked for made some staffing decisions that required managers to move from 40 hours to 45 hours per work week. While it wasn’t a drastic change, it was met with some vexation. I’m now putting in more than double that commitment and I’m strangely happier than I’ve been in years. Here are a few take-aways from the last couple of weeks that have contributed to that.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;We’ve been pounded these last two weeks with new languages and technologies. ActiveRecord, Sinatra and Rails were all relatively unknowns, at least to me. That said, I’ve found I’ve come to excel in the realm of data and databases and seem to be making headway into internet paths and RESTful routes. This upcoming week will reintroduce us to JavaScript, HTML and CSS as well as jQuery. The goal being that we’ll be able to create more well rounded and dynamic applications.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Moments of clarity and “aha!” are coming more rapidly and are building upon the concepts we’ve been exposed to. As part of the application process for Dev Bootcamp, I was asked during a Skype call to work through a logic challenge to represent every calendar day of a month using only two dice of which I could choose how to number each side. It was a fun challenge to talk through but one I didn’t solve. Despite that, I was obviously accepted into the program and to be honest hadn’t given it any thought since. Then, just a few nights ago, I dreamt of the challenge and came to a working solution. It’s a random example and one that excited me none the less.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’ve made some peace with my confusion and with myself overall. Something we’ve been told, repeatedly over the last four weeks, is that we need to shift from a success paradigm to a failure based paradigm. In other words, stop looking for everything to be OK and start getting excited by failure. Embrace error messages, stumbling blocks and “wait, what?” moments, as they can be our biggest teachers.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;While I truly am happier that I’ve been in years, this has also been the hardest and most challenging thing I’ve taken on professionally. Of course I still have moments of self-doubt and feel like I’m the most clueless one in my cohort. I’ve ended plenty of days exhausted and chosen bed over reading. I even consider daily, the possibility of repeating this current phase to ensure I’m at the level I need to be at. At the end of the day, I’m learning this time commitment may be more about a commitment to myself and my growth even more so than to any particular trade or technical skill, and that excites me.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/time-commitment/&quot;&gt;Time Commitment&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on July 20, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Wait, What?]]></title>
  <link rel="alternate" type="text/html" href="http://localhost:4000/wait-what/" />
   <id>http://localhost:4000/wait-what</id>
   <updated>2014-07-06 17:44:42 -0700T00:00:00-00:00</updated>
@@ -33,7 +69,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;This feeling of confusion is something I need to settle into. I don’t see it going away anytime soon an in fact, I don’t want it to. While feeling completely confused can be challenging, it also comes with the awareness that there is something new here for me to explore. For the last few years, I gained new skills and tools but never really challenged myself to go beyond that comfort zone of already established knowledge. This is clearly opening up that possibility.&lt;/p&gt;
+    &lt;p&gt;This feeling of confusion is something I need to settle into. I don’t see it going away anytime soon and in fact, I don’t want it to. While feeling completely confused can be challenging, it also comes with the awareness that there is something new here for me to explore. For the last few years, I gained new skills and tools but never really challenged myself to go beyond that comfort zone of already established knowledge. This is clearly opening up that possibility.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;We spend some time this past week discussing superego. I won’t go into great detail except to say it’s that voice in your head that isn’t always the nicest. It came in loud and clear this week offering tidbit such as “you’re not smart enough”, “you’re holding your teammates back” and “get out now, you’ll never be successful at this anyway.” My area of opportunity around superego is in acknowledging its presence rather than accepting its truth.&lt;/p&gt;
@@ -53,7 +89,7 @@
 
 &lt;p&gt;While this past week was personally challenging, it was also insightful. I got pushed to my limits and was able to examine how I reacted to that. Beyond that, it also helped expand those limits for next time. I wasn’t expecting this process to be all sunshine and unicorns and I’m glad its proving not to be. I step up to the confusion and welcome it as a opportunity, both as a student in this program but more importantly, as a life-long learner.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/wait-what/&quot;&gt;Wait What?&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on July 06, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/wait-what/&quot;&gt;Wait, What?&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on July 06, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -107,7 +143,7 @@
     <uri>http://localhost:4000</uri>
     <email></email>
   </author>
-  <content type="html">&lt;p&gt;As part of the application process for Dev Bootcamp, I took a quick &lt;a href=&quot;http://www.thelearningweb.net/personalthink.html&quot;&gt;test&lt;/a&gt; to determine my personal thinking style. It’s based on the research of &lt;a href=&quot;http://en.wikipedia.org/wiki/Anthony_Gregorc&quot;&gt;Anthony Gregorc&lt;/a&gt; which is theorized into the &lt;a href=&quot;http://web.cortland.edu/andersmd/learning/gregorc.htm&quot;&gt;Gregorc Mind Styles&lt;/a&gt;. These mind styles can help illuminate, not only how a particular person thinks, but also how they learn. &lt;/p&gt;
+  <content type="html">&lt;p&gt;As part of the application process for Dev Bootcamp, I took a quick &lt;a href=&quot;http://www.thelearningweb.net/personalthink.html&quot;&gt;test&lt;/a&gt; to determine my personal thinking style. It’s based on the research of &lt;a href=&quot;http://en.wikipedia.org/wiki/Anthony_Gregorc&quot;&gt;Anthony Gregorc&lt;/a&gt; which is theorized into the &lt;a href=&quot;http://web.cortland.edu/andersmd/learning/gregorc.htm&quot;&gt;Gregorc Mind Styles&lt;/a&gt;. These mind styles can help illuminate, not only how a particular person thinks, but also how they learn.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;../images/headphones.jpg&quot; alt=&quot;A person wearing headphones&quot; /&gt;&lt;/figure&gt;
 
@@ -133,11 +169,11 @@
   &lt;/ul&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;While I didn’t initially give much thought to the outcome of the test, I now have a clearer appreciation for its results. Dev Bootcamp isn’t the traditional learning model. They take a different approach to teaching, collaboration, and feedback, all with the goal of developing world-class life-long learners. In some ways, a CR thinker is ideal for this approach, in other ways, they’re not. &lt;/p&gt;
+&lt;p&gt;While I didn’t initially give much thought to the outcome of the test, I now have a clearer appreciation for its results. Dev Bootcamp isn’t the traditional learning model. They take a different approach to teaching, collaboration, and feedback, all with the goal of developing world-class life-long learners. In some ways, a CR thinker is ideal for this approach, in other ways, they’re not.&lt;/p&gt;
 
-&lt;p&gt;I’ve enjoyed the freedom to dive into challenges and really seek solutions on my own. We’ve been given a framework or guide but not told to take these exact steps to reach this exact outcome. I’ve also enjoyed being able to experiment and play around with different concepts until I found the solution that worked best for me. On the other hand, I truly live up to the ideal of working independently. I can work for hours, much to my delight, plugging away on something only to remember that I should be working with someone else on it. &lt;/p&gt;
+&lt;p&gt;I’ve enjoyed the freedom to dive into challenges and really seek solutions on my own. We’ve been given a framework or guide but not told to take these exact steps to reach this exact outcome. I’ve also enjoyed being able to experiment and play around with different concepts until I found the solution that worked best for me. On the other hand, I truly live up to the ideal of working independently. I can work for hours, much to my delight, plugging away on something only to remember that I should be working with someone else on it.&lt;/p&gt;
 
-&lt;p&gt;Last week I discussed my thoughts on &lt;a href=&quot;http://www.ehsalazar.com/caring-is-pairing/&quot;&gt;pair programming&lt;/a&gt;. I do think it’s a great and dynamic tool for learning and understanding. I’ve had nothing but positive outcomes from it after the fact. The challenge for me, and for other CR thinkers, is actually putting myself out there and actively working to engage and problem solve with others. My big takeaway from these last nine weeks is that I need to take off the allegoric headphones. I need to develop that extroverted muscle even when it goes against my comfort zone. Now as I transition from the remote portion of the program into the in-classroom setting, this will only further enhance my development and growth. &lt;/p&gt;
+&lt;p&gt;Last week I discussed my thoughts on &lt;a href=&quot;http://www.ehsalazar.com/caring-is-pairing/&quot;&gt;pair programming&lt;/a&gt;. I do think it’s a great and dynamic tool for learning and understanding. I’ve had nothing but positive outcomes from it after the fact. The challenge for me, and for other CR thinkers, is actually putting myself out there and actively working to engage and problem solve with others. My big takeaway from these last nine weeks is that I need to take off the allegoric headphones. I need to develop that extroverted muscle even when it goes against my comfort zone. Now as I transition from the remote portion of the program into the in-classroom setting, this will only further enhance my development and growth.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/taking-the-headphones-off/&quot;&gt;Taking the Headphones Off&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 21, 2014.&lt;/p&gt;</content>
 </entry>
@@ -263,11 +299,11 @@
 
 &lt;h3 id=&quot;two-heads&quot;&gt;Two Heads&lt;/h3&gt;
 
-&lt;p&gt;The more people that I can interact with and work with, the more concepts and solutions I have at my disposal. By working together, we dynamically multiply our knowledge bases. This has proven true even in ways I hadn’t expected. I could struggle on my own seeking solutions to challenges. Eventually I’ll likely come to a conclusion but it might not have been the simplest or best. When I’m able to work with a partner, they’re able to teach me and I them, usually faster and to a greater degree than on my own. Surprisingly, we are also exposed to each other’s best practices which can only help in building up our own tools. &lt;/p&gt;
+&lt;p&gt;The more people that I can interact with and work with, the more concepts and solutions I have at my disposal. By working together, we dynamically multiply our knowledge bases. This has proven true even in ways I hadn’t expected. I could struggle on my own seeking solutions to challenges. Eventually I’ll likely come to a conclusion but it might not have been the simplest or best. When I’m able to work with a partner, they’re able to teach me and I them, usually faster and to a greater degree than on my own. Surprisingly, we are also exposed to each other’s best practices which can only help in building up our own tools.&lt;/p&gt;
 
 &lt;h3 id=&quot;thriving-in-a-cooperative-environment&quot;&gt;Thriving in a Cooperative Environment&lt;/h3&gt;
 
-&lt;p&gt;The second benefit, and perhaps more basic, is developing our ability to work well with others. One of the concepts that has become clear within Dev Bootcamp’s curriculum is that we are being prepared to not only know what we’re doing technically, but also ensure we have the soft skills to put that knowledge into practice. A large component of that is the ability to give and receive feedback. There has to be an honest and clear dialogue for all parties to grow and learn from each experience. What worked well or didn’t? Then, how can I use that feedback to expand my mindset for the future? &lt;/p&gt;
+&lt;p&gt;The second benefit, and perhaps more basic, is developing our ability to work well with others. One of the concepts that has become clear within Dev Bootcamp’s curriculum is that we are being prepared to not only know what we’re doing technically, but also ensure we have the soft skills to put that knowledge into practice. A large component of that is the ability to give and receive feedback. There has to be an honest and clear dialogue for all parties to grow and learn from each experience. What worked well or didn’t? Then, how can I use that feedback to expand my mindset for the future?&lt;/p&gt;
 
 &lt;p&gt;While the concept or stereotype of a computer programmer is often that of a solitary person plugging away at their own computer, the reality is often much different. Cooperative and team based work environments have become the norm within the tech industry. Whether it’s a startup company or large enterprise, working with others is key. While it’s often said that “pairing is caring,” I prefer to flip that script. Caring is pairing; if I care at all about succeeding in this industry, it will be realized through pairing and working with others.&lt;/p&gt;
 
@@ -291,7 +327,7 @@
 
 &lt;figure&gt;&lt;img src=&quot;../images/rails.jpg&quot; alt=&quot;Close-up of train tracks&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
 
-&lt;p&gt;So what exactly is Rails? It was written in Ruby by Danish programmer &lt;a href=&quot;http://en.wikipedia.org/wiki/David_Heinemeier_Hansson&quot;&gt;David Heinemeier Hansson&lt;/a&gt;. It was developed out of his work on Basecamp, a project management tool which was being built by 37signals. It was released as open source in 2004 and achieved a milestone in late 2006 when Apple announced that it would ship Ruby on Rails with its next operating system release, Mac  OS X v10.5 “Leopard.” Since then, Rails has continued to gain momentum and popularity and has released its latest version, Rails 4.1, just this past April. &lt;/p&gt;
+&lt;p&gt;So what exactly is Rails? It was written in Ruby by Danish programmer &lt;a href=&quot;http://en.wikipedia.org/wiki/David_Heinemeier_Hansson&quot;&gt;David Heinemeier Hansson&lt;/a&gt;. It was developed out of his work on Basecamp, a project management tool which was being built by 37signals. It was released as open source in 2004 and achieved a milestone in late 2006 when Apple announced that it would ship Ruby on Rails with its next operating system release, Mac  OS X v10.5 “Leopard.” Since then, Rails has continued to gain momentum and popularity and has released its latest version, Rails 4.1, just this past April.&lt;/p&gt;
 
 &lt;p&gt;Rails includes tools that help make web development easier. Its framework is used to develop database-backed web applications. The official Rails Guides describe it as such.&lt;/p&gt;
 
@@ -299,7 +335,7 @@
   &lt;p&gt;Rails is a web application development framework written in the Ruby language. It is designed to make programming web applications easier by making assumptions about what every developer needs to get started. It allows you to write less code while accomplishing more than many other languages and frameworks. Experienced Rails developers also report that it makes web application development more fun.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;At its core, it’s based around these two guiding principles: &lt;/p&gt;
+&lt;p&gt;At its core, it’s based around these two guiding principles:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;ul&gt;
@@ -310,7 +346,7 @@
 
 &lt;h3 id=&quot;learn-more&quot;&gt;Learn More&lt;/h3&gt;
 
-&lt;p&gt;While I’m still relatively new to Ruby and Rails, I can see the benefit of this dynamic pairing. If you’re curious to learn more about what exactly Rails is, check out these resources. &lt;/p&gt;
+&lt;p&gt;While I’m still relatively new to Ruby and Rails, I can see the benefit of this dynamic pairing. If you’re curious to learn more about what exactly Rails is, check out these resources.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://guides.rubyonrails.org/getting_started.html&quot;&gt;RailsGuides - Getting Started with Rails&lt;/a&gt;&lt;/li&gt;
@@ -335,7 +371,7 @@
     <uri>http://localhost:4000</uri>
     <email></email>
   </author>
-  <content type="html">&lt;p&gt;I’ve learned an amazing amount of technical knowledge over the course of the last eight weeks. When I began &lt;a href=&quot;http://devbootcamp.com/&quot;&gt;DBC’s&lt;/a&gt; Phase 0, I only had a shallow understanding of HTML and CSS, let alone git, JavaScript, and Ruby. Now, as this phase comes to a close and I’ll soon be immersed in Phase 1, I wanted to update my site to be more functional, easier to manage and overall, more professional. &lt;/p&gt;
+  <content type="html">&lt;p&gt;I’ve learned an amazing amount of technical knowledge over the course of the last eight weeks. When I began &lt;a href=&quot;http://devbootcamp.com/&quot;&gt;DBC’s&lt;/a&gt; Phase 0, I only had a shallow understanding of HTML and CSS, let alone git, JavaScript, and Ruby. Now, as this phase comes to a close and I’ll soon be immersed in Phase 1, I wanted to update my site to be more functional, easier to manage and overall, more professional.&lt;/p&gt;
 
 &lt;h3 id=&quot;out-with-the-old&quot;&gt;Out with the Old&lt;/h3&gt;
 
@@ -345,13 +381,13 @@
 
 &lt;h3 id=&quot;jekyll&quot;&gt;Jekyll&lt;/h3&gt;
 
-&lt;p&gt;To tackle my first concern, I looked into a few different static site generators and management tools such as Middleman, Octopress and Docpad. Ultimately, I chose to go with &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. It’s powered by Ruby and runs using Gems. Some of the great features it includes are code highlighting using Pygments’ syntax, blog structuring and pagination, and the ability to create and execute posts using Markdown. Being a still relative newbie, it took a good day or two for me to figure it out and jump into with both feet. I have a basic understanding and I’m looking forward to learning more about its customizable options. &lt;/p&gt;
+&lt;p&gt;To tackle my first concern, I looked into a few different static site generators and management tools such as Middleman, Octopress and Docpad. Ultimately, I chose to go with &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. It’s powered by Ruby and runs using Gems. Some of the great features it includes are code highlighting using Pygments’ syntax, blog structuring and pagination, and the ability to create and execute posts using Markdown. Being a still relative newbie, it took a good day or two for me to figure it out and jump into with both feet. I have a basic understanding and I’m looking forward to learning more about its customizable options.&lt;/p&gt;
 
 &lt;h3 id=&quot;hpstr&quot;&gt;HPSTR&lt;/h3&gt;
 
-&lt;p&gt;The next obstacle was in tackling the overall design. I’m proud that I was able to learn enough to get my site to look relatively good. I sought out elements I liked and taught myself how to execute them using either HTML or CSS. That said, I knew there was more I could do. I’d been exploring the possibility of utilizing Bootstrap and some of the many themes and options they provide. As I learned more about Bootstrap, I began to notice its prevalence everywhere. In the end, I found what they offered to be a bit much for my needs and it left me wanting for something a bit more unique. &lt;/p&gt;
+&lt;p&gt;The next obstacle was in tackling the overall design. I’m proud that I was able to learn enough to get my site to look relatively good. I sought out elements I liked and taught myself how to execute them using either HTML or CSS. That said, I knew there was more I could do. I’d been exploring the possibility of utilizing Bootstrap and some of the many themes and options they provide. As I learned more about Bootstrap, I began to notice its prevalence everywhere. In the end, I found what they offered to be a bit much for my needs and it left me wanting for something a bit more unique.&lt;/p&gt;
 
-&lt;p&gt;That’s when I came across &lt;a href=&quot;http://mademistakes.com/about/&quot;&gt;Michael Rose&lt;/a&gt;, a designer out of NY state. He’s an amazing artist that does unbelievable things utilizing tools such his iPad and apps like &lt;a href=&quot;http://www.fiftythree.com/paper&quot;&gt;Paper by 53&lt;/a&gt;. On top of that, he’s built some cool themes based around Jekyll’s functionality and has shared them with the world on Github. I chose to access his &lt;a href=&quot;http://mademistakes.com/articles/hpstr-jekyll-theme/&quot;&gt;HPSTR Theme&lt;/a&gt; and have found it a great match for my needs. It has a modern and minimal design with a focus on clean typography while remaining creative and artistic in a way that I felt many technical blogs lacked. &lt;/p&gt;
+&lt;p&gt;That’s when I came across &lt;a href=&quot;http://mademistakes.com/about/&quot;&gt;Michael Rose&lt;/a&gt;, a designer out of NY state. He’s an amazing artist that does unbelievable things utilizing tools such his iPad and apps like &lt;a href=&quot;http://www.fiftythree.com/paper&quot;&gt;Paper by 53&lt;/a&gt;. On top of that, he’s built some cool themes based around Jekyll’s functionality and has shared them with the world on Github. I chose to access his &lt;a href=&quot;http://mademistakes.com/articles/hpstr-jekyll-theme/&quot;&gt;HPSTR Theme&lt;/a&gt; and have found it a great match for my needs. It has a modern and minimal design with a focus on clean typography while remaining creative and artistic in a way that I felt many technical blogs lacked.&lt;/p&gt;
 
 &lt;h3 id=&quot;whats-next&quot;&gt;What’s Next&lt;/h3&gt;
 
@@ -363,7 +399,7 @@
   &lt;li&gt;&lt;a href=&quot;http://tonykleung.info/technical/2014/06/10/site-redesign-v3/&quot;&gt;Tony Leung - Site Redesign V3&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;In the meantime, explore my new setup and feel free to share your thoughts and feedback. Thanks! &lt;/p&gt;
+&lt;p&gt;In the meantime, explore my new setup and feel free to share your thoughts and feedback. Thanks!&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/complete-site-makeover/&quot;&gt;Complete Site Makeover&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on June 13, 2014.&lt;/p&gt;</content>
 </entry>
@@ -428,10 +464,10 @@
 &lt;p&gt;Database security is of course a big topic that needs constant attention and diligence. If you’re curious to learn more about SQL, SQLite and injection issues, check out these articles.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/SQLite&quot;&gt;Wikipedia - SQLite&lt;/a&gt; &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.tutorialspoint.com/sqlite/sqlite_injection.htm&quot;&gt;Tutorialspoint - SQLite - Injection&lt;/a&gt; &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.codeproject.com/Articles/9378/SQL-Injection-Attacks-and-Some-Tips-on-How-to-Prev&quot;&gt;Code Project - SQL Injection Attacks and Some Tips on How to Prevent Them&lt;/a&gt; &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.programmerinterview.com/index.php/database-sql/sql-injection-example/&quot;&gt;ProgammerInterview.com - Provide an example of SQL Injection&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/SQLite&quot;&gt;Wikipedia - SQLite&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tutorialspoint.com/sqlite/sqlite_injection.htm&quot;&gt;Tutorialspoint - SQLite - Injection&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.codeproject.com/Articles/9378/SQL-Injection-Attacks-and-Some-Tips-on-How-to-Prev&quot;&gt;Code Project - SQL Injection Attacks and Some Tips on How to Prevent Them&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.programmerinterview.com/index.php/database-sql/sql-injection-example/&quot;&gt;ProgammerInterview.com - Provide an example of SQL Injection&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;There are many steps that can be taken by programmers to safeguard the applications they write. Being aware of, and taking measures to guard against malicious SQL injection attacks is one even new developers can utilize.&lt;/p&gt;
@@ -469,9 +505,9 @@
 &lt;p&gt;If you’d like to explore this topic more, there’s a wealth of information online including more studies, other remedies, and even counter-arguments. To start, consider the following resources.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.reducingstereotypethreat.org/definition.html&quot;&gt;ReducingStereotypeThreat.org - What is stereotype threat?&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.reducingstereotypethreat.org/definition.html&quot;&gt;ReducingStereotypeThreat.org - What is stereotype threat?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.diversityinc.com/diversity-events/the-stereotype-threat-dr-claude-steele-mesmerizes-audience-video/&quot;&gt;DiversityInc - The Stereotype Threat to Workplace Diversity: Dr. Claude Steele Mesmerizes Audience&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Stereotype_threat&quot;&gt;Wikipedia - Stereotype Threat&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Stereotype_threat&quot;&gt;Wikipedia - Stereotype Threat&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Being aware of stereotype threat or at least being aware of the impact the groups we identify with can have on our outcomes is a worthy pursuit. It can help us when we’re in homogeneous situations and more importantly, when we’re not.&lt;/p&gt;
@@ -547,7 +583,7 @@
   &lt;span class=&quot;n&quot;&gt;lambda_gets&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;lambda&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;I think I have power.&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
   &lt;span class=&quot;n&quot;&gt;lambda_gets&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;call&lt;/span&gt;
   &lt;span class=&quot;s2&quot;&gt;&amp;quot;Nope, I have the power now!&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
 
 &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;who_has_power&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;# =&amp;gt; I have the power!&lt;/span&gt;
 &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;now_who_has_power&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# =&amp;gt; Nope, I have the power now!&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -658,10 +694,10 @@
 
 &lt;h3 id=&quot;code-output&quot;&gt;Code Output&lt;/h3&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;William Ways, registered &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;CS50 on May 4, 2014. They are a Sophomore that is 
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;William Ways, registered &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;CS50 on May 4, 2014. They are a Sophomore that is
 majoring in Economics.
 
-Julie Jones, registered &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;CS50 on April 29, 2014. They are a Junior that is 
+Julie Jones, registered &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;CS50 on April 29, 2014. They are a Junior that is
 majoring in Computer Science.
 
 2 students have registered &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;class.
@@ -738,7 +774,7 @@ majoring in Computer Science.
 
 &lt;h3 id=&quot;example-using-a-collection-of-strings&quot;&gt;Example using a collection of strings:&lt;/h3&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;movies&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;The Love Bug&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Spiderman&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Godzilla&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Citizen Kane&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;movies&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;The Love Bug&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Spiderman&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Godzilla&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Citizen Kane&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
           &lt;span class=&quot;s2&quot;&gt;&amp;quot;The War of the Worlds&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Casablanca&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Schindler&amp;#39;s List&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
           &lt;span class=&quot;s2&quot;&gt;&amp;quot;Goodfellas&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Toy Story&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;
 
@@ -824,7 +860,7 @@ majoring in Computer Science.
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.codecademy.com/tracks/javascript&quot;&gt;JavaScript Track - Codecademy - Learn how to make your websites interactive and how to build browser based games.&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.w3schools.com/js/DEFAULT.asp&quot;&gt;JavaScript Tutorial - w3schools.com - JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/JavaScript&quot;&gt;JavaScript - Wikipedia, the free encyclopedia&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/JavaScript&quot;&gt;JavaScript - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;If interested, check them out and learn more about this programming language that you likely utilize everyday on the web, without even knowing about it.&lt;/p&gt;
@@ -853,8 +889,8 @@ majoring in Computer Science.
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
 	&lt;span class=&quot;nt&quot;&gt;&amp;lt;section&amp;gt;&lt;/span&gt;
-		&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet, consectetuer elit, sed diam. Dolore 
-		magna erat volutpat. Ullamcorper suscipit lobortis nisl ut aliquip 
+		&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet, consectetuer elit, sed diam. Dolore
+		magna erat volutpat. Ullamcorper suscipit lobortis nisl ut aliquip
 		ex ea commodo conseqat.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
 	&lt;span class=&quot;nt&quot;&gt;&amp;lt;/section&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -879,8 +915,8 @@ majoring in Computer Science.
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;section&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet, consectetuer elit, sed diam. Dolore 
-    magna erat volutpat. Ullamcorper suscipit &lt;span class=&quot;nt&quot;&gt;&amp;lt;strong&amp;gt;&lt;/span&gt;lobortis&lt;span class=&quot;nt&quot;&gt;&amp;lt;/strong&amp;gt;&lt;/span&gt; 
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet, consectetuer elit, sed diam. Dolore
+    magna erat volutpat. Ullamcorper suscipit &lt;span class=&quot;nt&quot;&gt;&amp;lt;strong&amp;gt;&lt;/span&gt;lobortis&lt;span class=&quot;nt&quot;&gt;&amp;lt;/strong&amp;gt;&lt;/span&gt;
     nisl ut aliquip ex ea commodo conseqat.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;/section&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -936,37 +972,6 @@ majoring in Computer Science.
 &lt;div xmlns:cc=&quot;http://creativecommons.org/ns#&quot; xmlns:dct=&quot;http://purl.org/dc/terms/&quot; about=&quot;http://subtlepatterns.com&quot; class=&quot;notice&quot;&gt;Background images from &lt;span property=&quot;dct:title&quot;&gt;Subtle Patterns&lt;/span&gt; (&lt;a rel=&quot;cc:attributionURL&quot; property=&quot;cc:attributionName&quot; href=&quot;http://subtlepatterns.com&quot;&gt;Subtle Patterns&lt;/a&gt;) / &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC BY-SA 3.0&lt;/a&gt;&lt;/div&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/index-makeover/&quot;&gt;Index Makeover - Site 2.0&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 03, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Comparing Websites]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/comparing-websites/" />
-  <id>http://localhost:4000/comparing-websites</id>
-  <updated>2014-06-13 12:13:25 -0700T00:00:00-00:00</updated>
-  <published>2014-04-27T00:00:00-07:00</published>
-  
-  <author>
-    <name>Ernie Salazar</name>
-    <uri>http://localhost:4000</uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;p&gt;Let’s look at three different websites. I’m going to discuss a bit about each and give my thoughts. First, I’ll explain why I’m focusing on this particular website. Additionally I’ll be considering the purpose of the site. Next, what do I think of the design and its visual impact. I’ll also share my perspective on the site’s content and layout. Finally, I’ll let you in on my connection or feelings about the particular site. Let’s jump in.&lt;/p&gt;
-
-&lt;h3 id=&quot;drbronnercomhttpswwwdrbronnercom&quot;&gt;&lt;a href=&quot;https://www.drbronner.com/&quot;&gt;drbronner.com&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;I’m a fan of Dr. Bronner’s both for their products and for their company philosophies. Their website is primarily for commerce with a secondary purpose of educating its consumers. From a design perspective, I find the website clean and simple. Adjectives I would also equate to its product. I find the site to be vibrant, impactful and appealing. Build upon a white and light grey backdrop, it adds statement photographs to draw you in. As for layout, the site is functional and easy to navigate. The homepage’s large body image provides a call to action while below are five additional topics to consider. Overall, I enjoy exploring the site. It makes me proud of the product the company provides while also leaving me more informed and better educated.&lt;/p&gt;
-
-&lt;h3 id=&quot;fivethirtyeightcomhttpfivethirtyeightcom&quot;&gt;&lt;a href=&quot;http://fivethirtyeight.com/&quot;&gt;fivethirtyeight.com&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;This site is a relatively new addition to the crowded pool of online news outlets. Its primary purpose is to inform its users from a data driven perspective. What I like about this site is how it goes about that and how it sets its self apart from other outlets. I find the site’s design to be straight forward and uncomplicated. It makes impactful use of color in its menus and article pages while remaining uncluttered and tasteful. The content of the site is purposeful and engaging, with the end user in mind. The colored menus established on the homepage translate throughout the site for ease and relatability. While I wasn’t drawn to the site for its sports articles as most are, I find I’ve come to appreciate its other features including often ingenious uses of charts and graphs.&lt;/p&gt;
-
-&lt;h3 id=&quot;fancycomhttpfancycom&quot;&gt;&lt;a href=&quot;http://fancy.com/&quot;&gt;fancy.com&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;I’ve been a fancy fan for a few years. I checkout the site more as a window shopper rather than an actual shopper. That might not align with the sites purpose of commerce but I enjoy it none the less. To imagine the site’s design, think curated shopping. Built on a clean and cool background, the product’s images are elegant and ordered. The square detailed images on the homepage give a gallery impression. Only a small amount of informational text is added until you click through to learn more. The layout is customizable within limits to ensure its refined nature remains intact. It’s approachable but can become more complicated as social aspects and purchasing began to tie in. I’ve yet to buy from the site but I am charmed and inspired by its presentation and unique products.&lt;/p&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/comparing-websites/&quot;&gt;Comparing Websites&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on April 27, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

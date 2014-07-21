@@ -3,12 +3,12 @@ layout: post
 title: "Caring is Pairing"
 description: "Learning to get the most out of pair programming."
 modified: 2014-06-15 20:51:05 -0700
-tags: [cultural, tech, dbc, pair programming, week 8, phase 0]
+tags: [cultural, tech, dbc, pair programming, phase 0]
 image:
-  feature: 
-  credit: 
-  creditlink: 
-  thumb: 
+  feature:
+  credit:
+  creditlink:
+  thumb:
 comments: true
 share: true
 ---
@@ -21,10 +21,10 @@ So why is it so important? Well, for a few reasons, two of which include the phi
 
 ### Two Heads
 
-The more people that I can interact with and work with, the more concepts and solutions I have at my disposal. By working together, we dynamically multiply our knowledge bases. This has proven true even in ways I hadn’t expected. I could struggle on my own seeking solutions to challenges. Eventually I’ll likely come to a conclusion but it might not have been the simplest or best. When I’m able to work with a partner, they’re able to teach me and I them, usually faster and to a greater degree than on my own. Surprisingly, we are also exposed to each other’s best practices which can only help in building up our own tools. 
+The more people that I can interact with and work with, the more concepts and solutions I have at my disposal. By working together, we dynamically multiply our knowledge bases. This has proven true even in ways I hadn’t expected. I could struggle on my own seeking solutions to challenges. Eventually I’ll likely come to a conclusion but it might not have been the simplest or best. When I’m able to work with a partner, they’re able to teach me and I them, usually faster and to a greater degree than on my own. Surprisingly, we are also exposed to each other’s best practices which can only help in building up our own tools.
 
 ### Thriving in a Cooperative Environment
 
-The second benefit, and perhaps more basic, is developing our ability to work well with others. One of the concepts that has become clear within Dev Bootcamp’s curriculum is that we are being prepared to not only know what we’re doing technically, but also ensure we have the soft skills to put that knowledge into practice. A large component of that is the ability to give and receive feedback. There has to be an honest and clear dialogue for all parties to grow and learn from each experience. What worked well or didn’t? Then, how can I use that feedback to expand my mindset for the future? 
+The second benefit, and perhaps more basic, is developing our ability to work well with others. One of the concepts that has become clear within Dev Bootcamp’s curriculum is that we are being prepared to not only know what we’re doing technically, but also ensure we have the soft skills to put that knowledge into practice. A large component of that is the ability to give and receive feedback. There has to be an honest and clear dialogue for all parties to grow and learn from each experience. What worked well or didn’t? Then, how can I use that feedback to expand my mindset for the future?
 
 While the concept or stereotype of a computer programmer is often that of a solitary person plugging away at their own computer, the reality is often much different. Cooperative and team based work environments have become the norm within the tech industry. Whether it’s a startup company or large enterprise, working with others is key. While it’s often said that “pairing is caring,” I prefer to flip that script. Caring is pairing; if I care at all about succeeding in this industry, it will be realized through pairing and working with others.

@@ -3,11 +3,11 @@ layout: post
 title: "SQLite Injection - What could go wrong?"
 description: "Examining the security issues with SQLite injections."
 modified: 2014-06-13 17:05:54 -0700
-tags: [technical, sqlite, databases, week 7, phase 0]
+tags: [technical, sqlite, databases, phase 0]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
 share: true
 ---
@@ -25,10 +25,10 @@ So how do we guard from such attacks? As consumers, we of course remain diligent
 ### Learn More
 
 Database security is of course a big topic that needs constant attention and diligence. If you’re curious to learn more about SQL, SQLite and injection issues, check out these articles.
-					
-* [Wikipedia - SQLite](http://en.wikipedia.org/wiki/SQLite) 
-* [Tutorialspoint - SQLite - Injection](http://www.tutorialspoint.com/sqlite/sqlite_injection.htm) 
-* [Code Project - SQL Injection Attacks and Some Tips on How to Prevent Them](http://www.codeproject.com/Articles/9378/SQL-Injection-Attacks-and-Some-Tips-on-How-to-Prev) 
-* [ProgammerInterview.com - Provide an example of SQL Injection](http://www.programmerinterview.com/index.php/database-sql/sql-injection-example/) 
-					
+
+* [Wikipedia - SQLite](http://en.wikipedia.org/wiki/SQLite)
+* [Tutorialspoint - SQLite - Injection](http://www.tutorialspoint.com/sqlite/sqlite_injection.htm)
+* [Code Project - SQL Injection Attacks and Some Tips on How to Prevent Them](http://www.codeproject.com/Articles/9378/SQL-Injection-Attacks-and-Some-Tips-on-How-to-Prev)
+* [ProgammerInterview.com - Provide an example of SQL Injection](http://www.programmerinterview.com/index.php/database-sql/sql-injection-example/)
+
 There are many steps that can be taken by programmers to safeguard the applications they write. Being aware of, and taking measures to guard against malicious SQL injection attacks is one even new developers can utilize.
