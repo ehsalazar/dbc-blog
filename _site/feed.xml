@@ -4,13 +4,49 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2014-07-20T23:19:37-07:00</updated>
+<updated>2014-08-23T15:31:22-07:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Ernie Salazar</name>
   <uri>http://localhost:4000/</uri>
   <email></email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[The Day After]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/the-day-after/" />
+  <id>http://localhost:4000/the-day-after</id>
+  <updated>2014-08-23 14:59:27 -0700T00:00:00-00:00</updated>
+  <published>2014-08-23T00:00:00-07:00</published>
+  
+  <author>
+    <name>Ernie Salazar</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;The last nine weeks have been one of the most dynamic experiences I’ve willingly placed myself in. When I started the Dev Bootcamp experience I focused mainly on the code, the programming and the technical skills I would gain in the process. Now on the other end, I realize it was so much more than that.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src=&quot;../images/feetup.jpg&quot; alt=&quot;faces of confusion&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;Of course I’ve gained programming chops. We were exposed to Ruby, Rails, JavaScript, JQuery, HTML5, SASS, AJAX and TDD along with Source Control,  Agile Development, Engineering Empathy and so much more. I’ll be working to continue my development in many of these areas and am already excited to check out new languages such as React, Node.js, Objective-C and Swift.&lt;/p&gt;
+
+&lt;p&gt;That said, perhaps what I’ll remember most from this experience will be the people. We were led by some of the most passionate and talented instructors and staff, all with a commitment to our success. It can’t also go without mentioning the fellow students or boots as we’re called. We were composed of a collection of individuals spanning ages from late teen to early fifties, backgrounds from professional engineers, CS majors, and others like myself with no programming experience. At the end of the day, we all came together to create something beautiful and meaningful.&lt;/p&gt;
+
+&lt;p&gt;So what’s next? We’ll have a week off, then one final week that’ll be focused on career prep. I’ll rest and catch up on some sleep. I’ll continue my learning and practicing. I’ll continue to code daily and will be honing the skills I’ve been taught. I’ll also have a little more free time that will hopefully allow for a return to more regular updates here on the blog. The journey you’ve followed with my education will now shift to my journey toward a new career and gainful employment.&lt;/p&gt;
+
+&lt;p&gt;In the mean time, check out the video stream from our final presentations. It was our opportunity to share with our cohort and campus, the group projects that we’d spent a combined effort of over 500 hours developing. I was a member of team Homeward Found. An application developed to match people with lost and missing pets with others in their area that may have seen or found them.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ustream.tv/recorded/51712078&quot;&gt;Purple Martins Presentations - August 22, 2014&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://homeward-found.herokuapp.com/&quot;&gt;Homeward Found&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our section begins at approximately the 30:00 minute mark. If you have time however, I would invite you to check out the entire stream. These are all passionate, talented and committed folks that I’m proud to now call colleagues and friends.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/the-day-after/&quot;&gt;The Day After&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on August 23, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -946,32 +982,6 @@ majoring in Computer Science.
 &lt;p&gt;By adding changing the display value of the strong element to inline-block, we created a whole new block that we were able to scale. While I used text and &lt;code&gt;strong&lt;/code&gt; to walk through these examples, perhaps a more common and useful use of inline-block is with &lt;code&gt;img&lt;/code&gt; elements. This allows you to add images within the context of it surrounding text without filling the entire width of the section.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/css-elements-block-inline-&-inline-block/&quot;&gt;CSS Block, Inline & Inline-block&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 04, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Index Makeover - Site 2.0]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/index-makeover/" />
-  <id>http://localhost:4000/index-makeover</id>
-  <updated>2014-06-13 19:00:13 -0700T00:00:00-00:00</updated>
-  <published>2014-05-03T00:00:00-07:00</published>
-  
-  <author>
-    <name>Ernie Salazar</name>
-    <uri>http://localhost:4000</uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;p&gt;This week we are working to makeover our index.html page or rather our homepage for the site we are building. There are a few things I want to consider as I proceed with this challenge. First, I plan on cleaning or streaming lining the overall look of the site. Previously, I felt it was a bit busy. Second, I want to make a clearer presentation of navigation choices. I think to achieve this, I’ll break the menu into two section, one for general navigation and social media then another section for blog posts and projects.&lt;/p&gt;
-
-&lt;p&gt;In order to complete this challenge, I’ll be working in steps. I need to establish a wireframe or blue print for how I would like the site to look.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img src=&quot;../images/index_wireframe.png&quot; alt=&quot;Index Wireframe&quot; width=&quot;100%&quot; /&gt;&lt;/figure&gt;
-
-&lt;p&gt;Then I’ll have to jump into the actual coding of the HTML and CSS files. Finally, I’ll commit and sync all my changes through Github which is hosting my site.&lt;/p&gt;
-
-&lt;div xmlns:cc=&quot;http://creativecommons.org/ns#&quot; xmlns:dct=&quot;http://purl.org/dc/terms/&quot; about=&quot;http://subtlepatterns.com&quot; class=&quot;notice&quot;&gt;Background images from &lt;span property=&quot;dct:title&quot;&gt;Subtle Patterns&lt;/span&gt; (&lt;a rel=&quot;cc:attributionURL&quot; property=&quot;cc:attributionName&quot; href=&quot;http://subtlepatterns.com&quot;&gt;Subtle Patterns&lt;/a&gt;) / &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC BY-SA 3.0&lt;/a&gt;&lt;/div&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/index-makeover/&quot;&gt;Index Makeover - Site 2.0&lt;/a&gt; was originally published by Ernie Salazar at &lt;a href=&quot;http://localhost:4000&quot;&gt;eh(SALAZAR)&lt;/a&gt; on May 03, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
