@@ -8,17 +8,17 @@ image:
   feature:
   credit:
   creditlink:
-  thumb: feetup.jpg
+  thumb: dogtags.jpg
 comments: true
 share: true
 ---
 The last nine weeks have been one of the most dynamic experiences I’ve willingly placed myself in. When I started the Dev Bootcamp experience I focused mainly on the code, the programming and the technical skills I would gain in the process. Now on the other end, I realize it was so much more than that.
 
-<figure><img src="../images/feetup.jpg" alt="faces of confusion"></figure>
+<figure><img src="../images/dogtags.jpg" alt="faces of confusion"></figure>
 
 Of course I’ve gained programming chops. We were exposed to Ruby, Rails, JavaScript, JQuery, HTML5, SASS, AJAX and TDD along with Source Control,  Agile Development, Engineering Empathy and so much more. I’ll be working to continue my development in many of these areas and am already excited to check out new languages such as React, Node.js, Objective-C and Swift.
 
-That said, perhaps what I’ll remember most from this experience will be the people. We were led by some of the most passionate and talented instructors and staff, all with a commitment to our success. It can’t also go without mentioning the fellow students or boots as we’re called. We were composed of a collection of individuals spanning ages from late teen to early fifties, backgrounds from professional engineers, CS majors, and others like myself with no programming experience. At the end of the day, we all came together to create something beautiful and meaningful.
+That said, perhaps what I’ll remember most from this experience will be the people. We were led by some of the most passionate and talented instructors and staff, all with a commitment to our success. It can’t go without mentioning the fellow students or boots as we’re called. We were composed of a collection of individuals spanning ages from late teen to early fifties, backgrounds from professional engineers, CS majors, and others like myself with no programming experience. At the end of the day, we all came together to create something beautiful and meaningful.
 
 So what’s next? We’ll have a week off, then one final week that’ll be focused on career prep. I’ll rest and catch up on some sleep. I’ll continue my learning and practicing. I’ll continue to code daily and will be honing the skills I’ve been taught. I’ll also have a little more free time that will hopefully allow for a return to more regular updates here on the blog. The journey you’ve followed with my education will now shift to my journey toward a new career and gainful employment.
 
